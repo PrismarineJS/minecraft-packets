@@ -1,0 +1,66 @@
+# This is a basic workflow that is manually triggered
+
+name: Manually dump with prismarine packet dumper
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      version:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Version to dump'
+        # Default value if no value is explicitly provided
+        default: '1.16'
+        # Input has to be provided for the workflow to run
+        required: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  dump:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+        
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    # Runs a single command using the runners shell
+    - name: run dump
+      run: |
+          cd data/pc
+          mkdir ${{ github.event.inputs.version }} && cd ${{ github.event.inputs.version }}
+          mkdir code && cd code
+          rm -Rf ${{ github.event.inputs.version }}
+          git clone https://github.com/PrismarineJS/prismarine-packet-dumper
+          cd prismarine-packet-dumper
+          npm install
+          node bin/generateLogs.js ${{ github.event.inputs.version }}
+          mv packets/* ../.. && cd ../..
+          rm -r code
+          ls
+    - name: Create commits
+      run: |
+          git config user.name 'u9g'
+          git config user.email 'u9g@users.noreply.github.com'
+          git add --all
+          git commit --amend -m "add ${{ github.event.inputs.version }}"
+    - name: Deploy 🚀
+      uses: ad-m/github-push-action@master
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
