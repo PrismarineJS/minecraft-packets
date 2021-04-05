@@ -57,10 +57,9 @@ jobs:
           git config user.name 'u9g'
           git config user.email 'u9g@users.noreply.github.com'
           git add --all
-          git commit --amend -m "add ${{ github.event.inputs.version }}"
+          git commit -m "add ${{ github.event.inputs.version }}"
     - name: Deploy 🚀
       uses: ad-m/github-push-action@master
       with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          force: true
