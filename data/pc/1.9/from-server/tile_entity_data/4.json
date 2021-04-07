@@ -1,0 +1,67 @@
+{
+  "location": {
+    "x": 224,
+    "y": 18,
+    "z": 135
+  },
+  "action": 1,
+  "nbtData": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "MaxNearbyEntities": {
+        "type": "short",
+        "value": 6
+      },
+      "RequiredPlayerRange": {
+        "type": "short",
+        "value": 16
+      },
+      "SpawnCount": {
+        "type": "short",
+        "value": 4
+      },
+      "SpawnData": {
+        "type": "compound",
+        "value": {
+          "id": {
+            "type": "string",
+            "value": "CaveSpider"
+          }
+        }
+      },
+      "MaxSpawnDelay": {
+        "type": "short",
+        "value": 800
+      },
+      "Delay": {
+        "type": "short",
+        "value": 20
+      },
+      "x": {
+        "type": "int",
+        "value": 224
+      },
+      "y": {
+        "type": "int",
+        "value": 18
+      },
+      "z": {
+        "type": "int",
+        "value": 135
+      },
+      "id": {
+        "type": "string",
+        "value": "MobSpawner"
+      },
+      "SpawnRange": {
+        "type": "short",
+        "value": 4
+      },
+      "MinSpawnDelay": {
+        "type": "short",
+        "value": 200
+      }
+    }
+  }
+}
