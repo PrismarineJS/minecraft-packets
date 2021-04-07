@@ -1,0 +1,15 @@
+{
+  "particleId": 3,
+  "longDistance": false,
+  "x": 207.1318817138672,
+  "y": 63,
+  "z": 247.9250946044922,
+  "offsetX": 0,
+  "offsetY": 0,
+  "offsetZ": 0,
+  "particleData": 0.15000000596046448,
+  "particles": 40,
+  "data": {
+    "blockState": 1
+  }
+}
