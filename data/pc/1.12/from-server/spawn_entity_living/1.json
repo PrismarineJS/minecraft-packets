@@ -1,0 +1,76 @@
+{
+  "entityId": 1118,
+  "entityUUID": "79309cb4-be8a-4ecc-a4a1-1b645577555d",
+  "type": 94,
+  "x": 58.5,
+  "y": 59,
+  "z": -241.5,
+  "yaw": -33,
+  "pitch": 0,
+  "headPitch": 2,
+  "velocityX": 0,
+  "velocityY": 0,
+  "velocityZ": 0,
+  "metadata": [
+    {
+      "key": 0,
+      "type": 0,
+      "value": 0
+    },
+    {
+      "key": 1,
+      "type": 1,
+      "value": 300
+    },
+    {
+      "key": 2,
+      "type": 3,
+      "value": ""
+    },
+    {
+      "key": 3,
+      "type": 6,
+      "value": false
+    },
+    {
+      "key": 4,
+      "type": 6,
+      "value": false
+    },
+    {
+      "key": 5,
+      "type": 6,
+      "value": false
+    },
+    {
+      "key": 6,
+      "type": 0,
+      "value": 0
+    },
+    {
+      "key": 7,
+      "type": 2,
+      "value": 10
+    },
+    {
+      "key": 8,
+      "type": 1,
+      "value": 0
+    },
+    {
+      "key": 9,
+      "type": 6,
+      "value": false
+    },
+    {
+      "key": 10,
+      "type": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "type": 0,
+      "value": 0
+    }
+  ]
+}
