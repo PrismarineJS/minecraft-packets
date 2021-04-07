@@ -1,13 +1,13 @@
 {
-  "entityId": 114,
-  "type": 10,
-  "x": 8752,
-  "y": 546,
-  "z": -4464,
+  "entityId": 925,
+  "type": 70,
+  "x": -432,
+  "y": 192,
+  "z": -720,
   "pitch": 0,
   "yaw": 0,
   "objectData": {
-    "intField": 1,
+    "intField": 13,
     "velocityX": 0,
     "velocityY": 0,
     "velocityZ": 0

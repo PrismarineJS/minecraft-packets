@@ -1,14 +1,14 @@
 {
-  "entityId": 109,
+  "entityId": 93,
   "properties": [
     {
-      "key": "generic.maxHealth",
-      "value": 8,
+      "key": "generic.movementSpeed",
+      "value": 0.25,
       "modifiers": []
     },
     {
-      "key": "generic.movementSpeed",
-      "value": 0.23000000417232513,
+      "key": "generic.maxHealth",
+      "value": 10,
       "modifiers": []
     }
   ]

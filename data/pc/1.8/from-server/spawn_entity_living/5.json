@@ -1,10 +1,10 @@
 {
-  "entityId": 99,
-  "type": 91,
-  "x": 7728,
-  "y": 2144,
-  "z": -6512,
-  "yaw": 89,
+  "entityId": 115,
+  "type": 90,
+  "x": 4048,
+  "y": 2016,
+  "z": 1520,
+  "yaw": 56,
   "pitch": 0,
   "headPitch": 0,
   "velocityX": 0,
@@ -44,7 +44,7 @@
     {
       "type": 3,
       "key": 6,
-      "value": 8
+      "value": 10
     },
     {
       "type": 2,
