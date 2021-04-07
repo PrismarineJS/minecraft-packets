@@ -1,3 +1,6 @@
+## 1.2.0
+* Add 1.8 - 1.16 and some versions in between
+
 ## 1.1.5
 * fix
 
