@@ -1,16 +1,10 @@
 {
-  "entityId": 3,
+  "entityId": 102,
   "properties": [
     {
       "key": "minecraft:generic.movement_speed",
-      "value": 0.23000000417232513,
-      "modifiers": [
-        {
-          "uuid": "b9766b59-9566-4402-bc1f-2ee2a276d836",
-          "amount": 0.5,
-          "operation": 1
-        }
-      ]
+      "value": 0.25,
+      "modifiers": []
     }
   ]
 }
