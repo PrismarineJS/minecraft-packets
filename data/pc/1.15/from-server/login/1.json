@@ -1,0 +1,14 @@
+{
+  "entityId": 100,
+  "gameMode": 0,
+  "dimension": 0,
+  "hashedSeed": [
+    -1969609884,
+    680977311
+  ],
+  "maxPlayers": 20,
+  "levelType": "default",
+  "viewDistance": 10,
+  "reducedDebugInfo": false,
+  "enableRespawnScreen": true
+}

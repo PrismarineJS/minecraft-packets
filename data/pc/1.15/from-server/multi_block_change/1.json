@@ -1,0 +1,51 @@
+{
+  "chunkX": 14,
+  "chunkZ": -13,
+  "records": [
+    {
+      "horizontalPos": 124,
+      "y": 71,
+      "blockId": 151
+    },
+    {
+      "horizontalPos": 123,
+      "y": 72,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 121,
+      "y": 72,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 137,
+      "y": 73,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 169,
+      "y": 73,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 139,
+      "y": 73,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 187,
+      "y": 73,
+      "blockId": 151
+    },
+    {
+      "horizontalPos": 122,
+      "y": 73,
+      "blockId": 149
+    },
+    {
+      "horizontalPos": 185,
+      "y": 73,
+      "blockId": 151
+    }
+  ]
+}
