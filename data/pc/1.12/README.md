@@ -1,4 +1,4 @@
-<details><summary>Collected (37)</summary>
+<details><summary>Collected (34)</summary>
 <p>
 
 | Packet |
@@ -18,42 +18,40 @@
 | window_items |
 | set_slot |
 | map_chunk |
+| spawn_entity |
 | entity_metadata |
+| entity_velocity |
 | entity_update_attributes |
 | update_health |
 | experience |
 | spawn_entity_living |
-| entity_equipment |
-| entity_move_look |
-| entity_head_rotation |
-| rel_entity_move |
-| entity_velocity |
 | entity_teleport |
-| sound_effect |
-| keep_alive |
-| entity_destroy |
-| entity_look |
-| block_change |
-| world_event |
-| animation |
-| combat_event |
 | multi_block_change |
-| unload_chunk |
-| advancements |
+| block_change |
+| entity_head_rotation |
+| entity_move_look |
+| entity_destroy |
+| entity_equipment |
+| rel_entity_move |
+| entity_look |
+| keep_alive |
+| world_event |
+| sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (42)</summary>
+<details><summary>Missing (45)</summary>
 <p>
 
 | Packet |
 | --- |
-| spawn_entity |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
+| animation |
 | statistics |
+| advancements |
 | block_break_animation |
 | tile_entity_data |
 | block_action |
@@ -68,12 +66,14 @@
 | named_sound_effect |
 | kick_disconnect |
 | explosion |
+| unload_chunk |
 | game_state_change |
 | world_particles |
 | map |
 | entity |
 | vehicle_move |
 | open_sign_entity |
+| combat_event |
 | bed |
 | remove_entity_effect |
 | resource_pack_send |

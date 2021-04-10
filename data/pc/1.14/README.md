@@ -1,4 +1,4 @@
-<details><summary>Collected (40)</summary>
+<details><summary>Collected (39)</summary>
 <p>
 
 | Packet |
@@ -21,7 +21,6 @@
 | spawn_entity_living |
 | entity_metadata |
 | entity_update_attributes |
-| entity_equipment |
 | world_border |
 | update_time |
 | spawn_position |
@@ -30,32 +29,32 @@
 | update_health |
 | experience |
 | keep_alive |
-| advancements |
-| entity_velocity |
 | entity_move_look |
-| entity_head_rotation |
-| entity_look |
-| rel_entity_move |
-| entity_teleport |
-| entity_destroy |
+| advancements |
+| entity_equipment |
 | multi_block_change |
-| sound_effect |
 | block_change |
-| animation |
-| combat_event |
+| entity_velocity |
+| entity_head_rotation |
+| entity_teleport |
+| spawn_entity |
+| rel_entity_move |
+| entity_look |
+| entity_destroy |
+| world_event |
 
 </p>
 </details>
-<details><summary>Missing (52)</summary>
+<details><summary>Missing (53)</summary>
 <p>
 
 | Packet |
 | --- |
-| spawn_entity |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
+| animation |
 | statistics |
 | block_break_animation |
 | tile_entity_data |
@@ -76,7 +75,6 @@
 | unload_chunk |
 | game_state_change |
 | open_horse_window |
-| world_event |
 | world_particles |
 | map |
 | trade_list |
@@ -85,6 +83,7 @@
 | open_book |
 | open_sign_entity |
 | craft_recipe_response |
+| combat_event |
 | remove_entity_effect |
 | resource_pack_send |
 | respawn |
@@ -99,6 +98,7 @@
 | title |
 | entity_sound_effect |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

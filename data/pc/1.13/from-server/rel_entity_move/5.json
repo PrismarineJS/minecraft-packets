@@ -1,7 +1,7 @@
 {
-  "entityId": 725,
-  "dX": -83,
-  "dY": 50,
+  "entityId": 190,
+  "dX": -1155,
+  "dY": 0,
   "dZ": 0,
-  "onGround": false
+  "onGround": true
 }

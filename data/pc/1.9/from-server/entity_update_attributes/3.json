@@ -1,9 +1,9 @@
 {
-  "entityId": 97,
+  "entityId": 114,
   "properties": [
     {
-      "key": "generic.movementSpeed",
-      "value": 0.23000000417232513,
+      "key": "generic.armor",
+      "value": 0,
       "modifiers": []
     },
     {
@@ -12,8 +12,8 @@
       "modifiers": []
     },
     {
-      "key": "generic.armor",
-      "value": 0,
+      "key": "generic.movementSpeed",
+      "value": 0.23000000417232513,
       "modifiers": []
     }
   ]

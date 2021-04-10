@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -80,
-    "y": 30,
-    "z": -31
+    "x": -247,
+    "y": 17,
+    "z": 242
   },
   "action": 1,
   "nbtData": {
@@ -11,7 +11,7 @@
     "value": {
       "EntityId": {
         "type": "string",
-        "value": "Skeleton"
+        "value": "Spider"
       },
       "MaxNearbyEntities": {
         "type": "short",
@@ -27,15 +27,15 @@
       },
       "x": {
         "type": "int",
-        "value": -80
+        "value": -247
       },
       "y": {
         "type": "int",
-        "value": 30
+        "value": 17
       },
       "z": {
         "type": "int",
-        "value": -31
+        "value": 242
       },
       "id": {
         "type": "string",

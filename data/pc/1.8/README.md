@@ -1,4 +1,4 @@
-<details><summary>Collected (34)</summary>
+<details><summary>Collected (35)</summary>
 <p>
 
 | Packet |
@@ -19,28 +19,29 @@
 | update_health |
 | experience |
 | map_chunk_bulk |
-| spawn_entity_living |
 | entity_metadata |
 | update_attributes |
-| entity_equipment |
-| entity_move_look |
-| entity_head_rotation |
-| rel_entity_move |
+| spawn_entity_living |
 | entity_velocity |
 | entity_look |
-| spawn_entity |
-| entity_teleport |
-| multi_block_change |
-| block_change |
+| entity_head_rotation |
 | tile_entity_data |
+| entity_equipment |
+| entity_teleport |
+| spawn_entity |
+| multi_block_change |
+| entity_move_look |
+| block_change |
+| entity_destroy |
+| rel_entity_move |
 | keep_alive |
-| entity_status |
 | map_chunk |
-| named_sound_effect |
+| entity_status |
+| world_event |
 
 </p>
 </details>
-<details><summary>Missing (40)</summary>
+<details><summary>Missing (39)</summary>
 <p>
 
 | Packet |
@@ -53,7 +54,6 @@
 | collect |
 | spawn_entity_painting |
 | spawn_entity_experience_orb |
-| entity_destroy |
 | entity |
 | attach_entity |
 | entity_effect |
@@ -61,7 +61,7 @@
 | block_action |
 | block_break_animation |
 | explosion |
-| world_event |
+| named_sound_effect |
 | world_particles |
 | game_state_change |
 | spawn_entity_weather |

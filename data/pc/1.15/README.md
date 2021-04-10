@@ -1,4 +1,4 @@
-<details><summary>Collected (43)</summary>
+<details><summary>Collected (39)</summary>
 <p>
 
 | Packet |
@@ -18,13 +18,11 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity_living |
-| entity_metadata |
-| entity_update_attributes |
-| entity_equipment |
 | spawn_entity |
+| entity_metadata |
 | entity_velocity |
-| set_passengers |
+| spawn_entity_living |
+| entity_update_attributes |
 | world_border |
 | update_time |
 | spawn_position |
@@ -33,23 +31,21 @@
 | update_health |
 | experience |
 | keep_alive |
+| advancements |
+| block_change |
+| entity_equipment |
+| multi_block_change |
+| entity_head_rotation |
+| entity_teleport |
 | rel_entity_move |
 | entity_move_look |
-| entity_teleport |
-| advancements |
-| entity_head_rotation |
-| block_change |
-| multi_block_change |
-| sound_effect |
-| entity_look |
 | entity_destroy |
 | world_event |
-| animation |
-| combat_event |
+| entity_look |
 
 </p>
 </details>
-<details><summary>Missing (50)</summary>
+<details><summary>Missing (54)</summary>
 <p>
 
 | Packet |
@@ -58,6 +54,7 @@
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
+| animation |
 | statistics |
 | block_break_animation |
 | tile_entity_data |
@@ -86,6 +83,7 @@
 | open_book |
 | open_sign_entity |
 | craft_recipe_response |
+| combat_event |
 | remove_entity_effect |
 | resource_pack_send |
 | respawn |
@@ -94,11 +92,13 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
+| set_passengers |
 | teams |
 | scoreboard_score |
 | title |
 | entity_sound_effect |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

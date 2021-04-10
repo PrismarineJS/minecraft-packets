@@ -1,4 +1,4 @@
-<details><summary>Collected (39)</summary>
+<details><summary>Collected (41)</summary>
 <p>
 
 | Packet |
@@ -21,7 +21,6 @@
 | spawn_entity_living |
 | entity_metadata |
 | entity_update_attributes |
-| entity_equipment |
 | spawn_entity |
 | entity_velocity |
 | world_border |
@@ -32,20 +31,23 @@
 | update_health |
 | experience |
 | keep_alive |
+| block_change |
+| multi_block_change |
+| entity_equipment |
+| entity_move_look |
 | rel_entity_move |
 | advancements |
-| entity_look |
-| entity_move_look |
 | entity_head_rotation |
 | entity_teleport |
-| sound_effect |
-| multi_block_change |
-| block_change |
+| entity_look |
+| world_event |
+| set_passengers |
 | entity_destroy |
+| sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (53)</summary>
+<details><summary>Missing (51)</summary>
 <p>
 
 | Packet |
@@ -74,7 +76,6 @@
 | unload_chunk |
 | game_state_change |
 | open_horse_window |
-| world_event |
 | world_particles |
 | map |
 | trade_list |
@@ -92,7 +93,6 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
-| set_passengers |
 | teams |
 | scoreboard_score |
 | title |

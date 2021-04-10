@@ -1,4 +1,4 @@
-<details><summary>Collected (38)</summary>
+<details><summary>Collected (37)</summary>
 <p>
 
 | Packet |
@@ -15,13 +15,11 @@
 | unlock_recipes |
 | player_info |
 | map_chunk |
-| spawn_entity_living |
-| entity_metadata |
-| entity_update_attributes |
-| set_passengers |
-| entity_equipment |
 | spawn_entity |
+| entity_metadata |
 | entity_velocity |
+| spawn_entity_living |
+| entity_update_attributes |
 | position |
 | world_border |
 | update_time |
@@ -29,22 +27,23 @@
 | window_items |
 | set_slot |
 | advancements |
+| entity_teleport |
+| entity_head_rotation |
 | update_health |
 | experience |
 | keep_alive |
-| entity_move_look |
-| entity_head_rotation |
-| rel_entity_move |
-| entity_teleport |
-| entity_look |
-| block_change |
-| sound_effect |
-| multi_block_change |
 | entity_destroy |
+| rel_entity_move |
+| entity_move_look |
+| block_change |
+| multi_block_change |
+| world_event |
+| entity_equipment |
+| entity_look |
 
 </p>
 </details>
-<details><summary>Missing (48)</summary>
+<details><summary>Missing (49)</summary>
 <p>
 
 | Packet |
@@ -73,7 +72,6 @@
 | explosion |
 | unload_chunk |
 | game_state_change |
-| world_event |
 | world_particles |
 | map |
 | entity |
@@ -89,10 +87,12 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
+| set_passengers |
 | teams |
 | scoreboard_score |
 | title |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

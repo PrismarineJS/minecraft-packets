@@ -1,10 +1,10 @@
 {
-  "entityId": 100,
+  "entityId": 238,
   "gameMode": 0,
   "dimension": 0,
   "hashedSeed": [
-    -1969609884,
-    680977311
+    -1570641644,
+    -1127453797
   ],
   "maxPlayers": 20,
   "levelType": "default",
