@@ -1,3 +1,6 @@
+## 1.3.0
+* add metadata and readme to each pc version
+
 ## 1.2.0
 * Add 1.8 - 1.16 and some versions in between
 
