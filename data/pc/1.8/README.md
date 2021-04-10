@@ -16,28 +16,28 @@
 | update_time |
 | window_items |
 | set_slot |
-| update_health |
-| experience |
 | map_chunk_bulk |
 | entity_metadata |
 | update_attributes |
+| update_health |
+| experience |
 | spawn_entity_living |
+| entity_equipment |
+| block_change |
 | entity_velocity |
-| entity_look |
+| world_event |
 | entity_head_rotation |
 | tile_entity_data |
-| entity_equipment |
 | entity_teleport |
-| spawn_entity |
+| entity_look |
 | multi_block_change |
 | entity_move_look |
-| block_change |
-| entity_destroy |
 | rel_entity_move |
+| entity_status |
+| spawn_entity |
+| entity_destroy |
 | keep_alive |
 | map_chunk |
-| entity_status |
-| world_event |
 
 </p>
 </details>

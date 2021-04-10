@@ -1,46 +1,81 @@
 {
-  "chunkX": 0,
-  "chunkZ": 4,
+  "chunkX": 4,
+  "chunkZ": 20,
   "records": [
     {
-      "horizontalPos": 11,
-      "y": 11,
+      "horizontalPos": 29,
+      "y": 8,
       "blockId": 0
     },
     {
-      "horizontalPos": 11,
-      "y": 10,
+      "horizontalPos": 29,
+      "y": 7,
       "blockId": 160
     },
     {
-      "horizontalPos": 25,
-      "y": 11,
+      "horizontalPos": 30,
+      "y": 8,
       "blockId": 0
     },
     {
-      "horizontalPos": 25,
-      "y": 10,
+      "horizontalPos": 46,
+      "y": 8,
       "blockId": 160
     },
     {
-      "horizontalPos": 28,
-      "y": 11,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 28,
-      "y": 10,
+      "horizontalPos": 30,
+      "y": 7,
       "blockId": 160
     },
     {
-      "horizontalPos": 26,
-      "y": 12,
+      "horizontalPos": 45,
+      "y": 8,
       "blockId": 0
     },
     {
-      "horizontalPos": 27,
-      "y": 12,
+      "horizontalPos": 45,
+      "y": 7,
+      "blockId": 160
+    },
+    {
+      "horizontalPos": 46,
+      "y": 9,
       "blockId": 0
+    },
+    {
+      "horizontalPos": 13,
+      "y": 8,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 13,
+      "y": 7,
+      "blockId": 160
+    },
+    {
+      "horizontalPos": 14,
+      "y": 8,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 14,
+      "y": 7,
+      "blockId": 160
+    },
+    {
+      "horizontalPos": 31,
+      "y": 8,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 47,
+      "y": 8,
+      "blockId": 160
+    },
+    {
+      "horizontalPos": 31,
+      "y": 7,
+      "blockId": 160
     }
   ]
 }

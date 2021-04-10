@@ -1,5 +1,5 @@
 {
-  "entityId": 120,
+  "entityId": 179,
   "metadata": [
     {
       "key": 0,
@@ -38,7 +38,7 @@
     {
       "key": 7,
       "type": 2,
-      "value": 30
+      "value": 10
     },
     {
       "key": 8,
@@ -67,41 +67,13 @@
     },
     {
       "key": 13,
-      "type": 9,
-      "value": {
-        "x": -85,
-        "y": 64,
-        "z": 181
-      }
+      "type": 7,
+      "value": false
     },
     {
       "key": 14,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 15,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 16,
-      "type": 9,
-      "value": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      }
-    },
-    {
-      "key": 17,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 18,
-      "type": 7,
-      "value": false
+      "type": 1,
+      "value": 0
     }
   ]
 }

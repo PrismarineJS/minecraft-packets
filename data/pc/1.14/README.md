@@ -29,19 +29,19 @@
 | update_health |
 | experience |
 | keep_alive |
+| rel_entity_move |
 | entity_move_look |
 | advancements |
-| entity_equipment |
-| multi_block_change |
-| block_change |
 | entity_velocity |
-| entity_head_rotation |
 | entity_teleport |
-| spawn_entity |
-| rel_entity_move |
-| entity_look |
-| entity_destroy |
+| entity_head_rotation |
+| block_change |
+| multi_block_change |
 | world_event |
+| entity_equipment |
+| spawn_entity |
+| entity_destroy |
+| entity_look |
 
 </p>
 </details>

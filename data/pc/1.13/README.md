@@ -1,4 +1,4 @@
-<details><summary>Collected (37)</summary>
+<details><summary>Collected (38)</summary>
 <p>
 
 | Packet |
@@ -15,10 +15,8 @@
 | unlock_recipes |
 | player_info |
 | map_chunk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
 | spawn_entity_living |
+| entity_metadata |
 | entity_update_attributes |
 | position |
 | world_border |
@@ -27,23 +25,26 @@
 | window_items |
 | set_slot |
 | advancements |
+| entity_velocity |
 | entity_teleport |
-| entity_head_rotation |
 | update_health |
 | experience |
 | keep_alive |
-| entity_destroy |
+| entity_equipment |
+| entity_head_rotation |
 | rel_entity_move |
-| entity_move_look |
 | block_change |
 | multi_block_change |
+| entity_move_look |
 | world_event |
-| entity_equipment |
-| entity_look |
+| spawn_entity |
+| animation |
+| entity_destroy |
+| sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (49)</summary>
+<details><summary>Missing (48)</summary>
 <p>
 
 | Packet |
@@ -52,7 +53,6 @@
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
-| animation |
 | statistics |
 | block_break_animation |
 | tile_entity_data |
@@ -74,6 +74,7 @@
 | game_state_change |
 | world_particles |
 | map |
+| entity_look |
 | entity |
 | vehicle_move |
 | open_sign_entity |
@@ -92,7 +93,6 @@
 | scoreboard_score |
 | title |
 | stop_sound |
-| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

@@ -1,9 +1,9 @@
 {
-  "entityId": 142,
+  "entityId": 26,
   "properties": [
     {
       "key": "minecraft:generic.movement_speed",
-      "value": 0.25,
+      "value": 0.699999988079071,
       "modifiers": []
     }
   ]

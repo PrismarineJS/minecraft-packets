@@ -1,141 +1,16 @@
 {
-  "chunkX": 1,
-  "chunkZ": 5,
+  "chunkX": 7,
+  "chunkZ": 11,
   "records": [
     {
-      "horizontalPos": 28,
-      "y": 31,
-      "blockId": 34
+      "horizontalPos": 47,
+      "y": 16,
+      "blockId": 36
     },
     {
-      "horizontalPos": 27,
-      "y": 31,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 44,
-      "y": 31,
-      "blockId": 34
-    },
-    {
-      "horizontalPos": 43,
-      "y": 31,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 60,
-      "y": 31,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 61,
-      "y": 31,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 28,
-      "y": 35,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 11,
-      "y": 35,
-      "blockId": 34
-    },
-    {
-      "horizontalPos": 10,
-      "y": 35,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 27,
-      "y": 35,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 10,
-      "y": 34,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 28,
-      "y": 32,
-      "blockId": 34
-    },
-    {
-      "horizontalPos": 27,
-      "y": 32,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 44,
-      "y": 35,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 44,
-      "y": 32,
-      "blockId": 34
-    },
-    {
-      "horizontalPos": 43,
-      "y": 32,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 60,
-      "y": 32,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 62,
-      "y": 38,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 77,
-      "y": 37,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 92,
-      "y": 38,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 109,
-      "y": 40,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 126,
-      "y": 40,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 126,
-      "y": 39,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 108,
-      "y": 38,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 93,
-      "y": 41,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 77,
-      "y": 41,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 62,
-      "y": 41,
-      "blockId": 35
+      "horizontalPos": 47,
+      "y": 15,
+      "blockId": 1129
     }
   ]
 }

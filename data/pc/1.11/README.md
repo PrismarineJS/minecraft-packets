@@ -1,4 +1,4 @@
-<details><summary>Collected (34)</summary>
+<details><summary>Collected (33)</summary>
 <p>
 
 | Packet |
@@ -25,22 +25,21 @@
 | update_health |
 | experience |
 | multi_block_change |
-| spawn_entity_living |
-| entity_teleport |
 | block_change |
+| spawn_entity_living |
 | entity_head_rotation |
-| entity_move_look |
 | entity_destroy |
+| entity_teleport |
 | entity_equipment |
+| entity_move_look |
 | world_event |
 | rel_entity_move |
 | keep_alive |
 | entity_look |
-| sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (42)</summary>
+<details><summary>Missing (43)</summary>
 <p>
 
 | Packet |
@@ -84,6 +83,7 @@
 | teams |
 | scoreboard_score |
 | title |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |
