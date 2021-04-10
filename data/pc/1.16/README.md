@@ -18,8 +18,10 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity |
+| spawn_entity_living |
 | entity_metadata |
+| entity_update_attributes |
+| spawn_entity |
 | entity_velocity |
 | world_border |
 | update_time |
@@ -30,17 +32,15 @@
 | experience |
 | keep_alive |
 | multi_block_change |
-| spawn_entity_living |
 | block_change |
-| entity_update_attributes |
 | advancements |
-| rel_entity_move |
-| entity_head_rotation |
-| entity_look |
-| entity_move_look |
-| entity_teleport |
-| entity_destroy |
 | entity_equipment |
+| entity_head_rotation |
+| entity_teleport |
+| rel_entity_move |
+| entity_move_look |
+| entity_look |
+| entity_destroy |
 | world_event |
 
 </p>

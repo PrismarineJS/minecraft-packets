@@ -1,141 +1,16 @@
 {
-  "chunkX": -10,
-  "chunkZ": 22,
+  "chunkX": -4,
+  "chunkZ": 18,
   "records": [
     {
-      "horizontalPos": 82,
-      "y": 7,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 82,
-      "y": 4,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 82,
-      "y": 8,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 82,
-      "y": 5,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 81,
-      "y": 7,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 81,
-      "y": 5,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 82,
-      "y": 9,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 82,
-      "y": 6,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 98,
-      "y": 7,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 98,
-      "y": 4,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 114,
-      "y": 4,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 98,
-      "y": 8,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 98,
-      "y": 5,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 114,
-      "y": 5,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 216,
-      "y": 12,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 216,
-      "y": 7,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 217,
-      "y": 7,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 216,
-      "y": 13,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 216,
-      "y": 8,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 200,
-      "y": 8,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 216,
-      "y": 14,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 216,
-      "y": 9,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 200,
-      "y": 9,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 216,
+      "horizontalPos": 154,
       "y": 15,
       "blockId": 0
     },
     {
-      "horizontalPos": 216,
-      "y": 10,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 200,
-      "y": 10,
-      "blockId": 160
-    },
-    {
-      "horizontalPos": 215,
-      "y": 10,
-      "blockId": 160
+      "horizontalPos": 138,
+      "y": 16,
+      "blockId": 0
     }
   ]
 }

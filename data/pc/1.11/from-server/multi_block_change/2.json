@@ -1,125 +1,15 @@
 {
-  "chunkX": -15,
-  "chunkZ": 13,
+  "chunkX": -24,
+  "chunkZ": 2,
   "records": [
     {
-      "horizontalPos": 95,
-      "y": 39,
+      "horizontalPos": 242,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 94,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 77,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 78,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 93,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 92,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 75,
-      "y": 40,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 237,
-      "y": 24,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 236,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 220,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 219,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 205,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 221,
-      "y": 24,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 206,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 188,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 204,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 203,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 173,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 189,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 190,
-      "y": 23,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 156,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 172,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 141,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 157,
-      "y": 22,
+      "horizontalPos": 250,
+      "y": 14,
       "blockId": 0
     }
   ]

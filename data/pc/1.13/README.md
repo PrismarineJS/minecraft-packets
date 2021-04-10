@@ -18,29 +18,29 @@
 | spawn_entity_living |
 | entity_metadata |
 | entity_update_attributes |
+| spawn_entity |
+| entity_velocity |
 | position |
 | world_border |
 | update_time |
 | spawn_position |
 | window_items |
 | set_slot |
+| multi_block_change |
 | advancements |
-| entity_velocity |
-| entity_teleport |
+| rel_entity_move |
+| entity_head_rotation |
 | update_health |
 | experience |
 | keep_alive |
 | entity_equipment |
-| entity_head_rotation |
-| rel_entity_move |
 | block_change |
-| multi_block_change |
-| entity_move_look |
-| world_event |
-| spawn_entity |
-| animation |
 | entity_destroy |
-| sound_effect |
+| entity_teleport |
+| world_event |
+| entity_move_look |
+| entity_look |
+| collect |
 
 </p>
 </details>
@@ -53,6 +53,7 @@
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
+| animation |
 | statistics |
 | block_break_animation |
 | tile_entity_data |
@@ -74,7 +75,6 @@
 | game_state_change |
 | world_particles |
 | map |
-| entity_look |
 | entity |
 | vehicle_move |
 | open_sign_entity |
@@ -93,8 +93,8 @@
 | scoreboard_score |
 | title |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
-| collect |
 | entity_effect |
 | select_advancement_tab |
 

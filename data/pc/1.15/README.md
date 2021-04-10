@@ -1,4 +1,4 @@
-<details><summary>Collected (40)</summary>
+<details><summary>Collected (39)</summary>
 <p>
 
 | Packet |
@@ -18,8 +18,10 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity_living |
+| spawn_entity |
 | entity_metadata |
+| entity_velocity |
+| spawn_entity_living |
 | entity_update_attributes |
 | world_border |
 | update_time |
@@ -31,22 +33,19 @@
 | keep_alive |
 | multi_block_change |
 | block_change |
-| spawn_entity |
-| entity_velocity |
 | advancements |
 | world_event |
-| entity_teleport |
 | entity_head_rotation |
 | rel_entity_move |
+| entity_destroy |
 | entity_move_look |
 | entity_look |
+| entity_teleport |
 | entity_equipment |
-| entity_destroy |
-| sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (53)</summary>
+<details><summary>Missing (54)</summary>
 <p>
 
 | Packet |
@@ -99,6 +98,7 @@
 | title |
 | entity_sound_effect |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |
