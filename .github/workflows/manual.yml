@@ -1,4 +1,4 @@
-name: Run Mass Dump
+name: Run Mass Packet Dump
 
 on:
   workflow_dispatch:
@@ -30,8 +30,6 @@ jobs:
         npm i -g prismarine-packet-dumper
         mkdir ${{ matrix.mcVersionIndex }}
         dumpPackets -v ${{ matrix.mcVersionIndex }} -o ${{ matrix.mcVersionIndex }}
-        mkdir ${{ matrix.mcVersionIndex }}/metadata
-        mv ${{ matrix.mcVersionIndex }}/packets_info.json ${{ matrix.mcVersionIndex }}/metadata/packets_info.json
         
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
