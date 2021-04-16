@@ -72,11 +72,8 @@ jobs:
         
     - name: Make MD file
       run: | # make md file and cleanup
-        mkdir -p .github/workflows/node_modules # make node_modules folder
-        npm i --prefix .github/workflows minecraft-data # download mcData
         cd data/pc
-        node ../../.github/workflows/md-comment-maker.js # run md maker
-        rm -Rf ../../.github/workflows/node_modules && rm -Rf ../../.github/workflows/package-lock.json && rm -Rf ../../.github/workflows/package.json # cleanup npm 
+        metricAggregator
         
     - name: Create commits
       run: |
