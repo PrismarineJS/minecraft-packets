@@ -67,8 +67,6 @@ jobs:
         node ../../../.github/workflows/run.js
         cd .. && mv artifacts/* .
         rm -Rf artifacts/
-    - name: ls
-      run: ls -R
         
     - name: Make MD file
       run: | # make md file and cleanup
