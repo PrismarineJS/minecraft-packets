@@ -6,8 +6,8 @@ Stores minecraft packets to test implementation of the minecraft protocol
 
 The packets provided as raw can be used to test _any_ implementation of minecraft's protocol, using cycle test.
 Cycle tests just means parsing something, then going back to the format it was in before and seeing if they are equal.
-In psuedocode, an example of this would be: `dump(parse(data)) == data`, with data being tested. An example
-implementation in nodejs is linked [here](https://github.com/PrismarineJS/node-minecraft-packets).
+In pseudocode, an example of this would be: `dump(parse(data)) == data`, with data being tested. An example
+implementation in nodejs is linked [here](https://github.com/PrismarineJS/node-minecraft-packets/blob/master/test/cycle.test.js).
 
 ## Folder Structure
 
