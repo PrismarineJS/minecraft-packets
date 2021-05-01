@@ -60,13 +60,18 @@ jobs:
       with:
         name: packets
         path: data/pc/artifacts
-        
+            
     - name: Delete all folders we want to overwrite
-      run: |
+      run: | # download artifacts and merge into existing directories
         cd data/pc/artifacts
         node ../../../.github/workflows/run.js
         cd .. && mv artifacts/* .
-        rm -Rf artifacts/        
+        rm -Rf artifacts/
+        
+    - name: Make MD file
+      run: | # make md file and cleanup
+        cd data/pc
+        metricAggregator
         
     - name: Create commits
       run: |
