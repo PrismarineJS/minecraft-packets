@@ -1,0 +1,12 @@
+{
+  "sound_id": "Takeoff",
+  "position": {
+    "x": 81.030517578125,
+    "y": 43.324546813964844,
+    "z": -13.259400367736816
+  },
+  "extra_data": -1,
+  "entity_type": "minecraft:bat",
+  "is_baby_mob": false,
+  "is_global": false
+}

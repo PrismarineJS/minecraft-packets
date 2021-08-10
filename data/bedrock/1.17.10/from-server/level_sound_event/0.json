@@ -1,0 +1,12 @@
+{
+  "sound_id": "Splash",
+  "position": {
+    "x": 52.125,
+    "y": 62.585174560546875,
+    "z": 51.868595123291016
+  },
+  "extra_data": 32286,
+  "entity_type": "minecraft:item",
+  "is_baby_mob": false,
+  "is_global": false
+}

@@ -1,0 +1,9 @@
+{
+  "event": "particle_destroy",
+  "position": {
+    "x": 954,
+    "y": 63,
+    "z": 4
+  },
+  "data": 6066
+}

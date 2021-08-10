@@ -1,0 +1,19 @@
+{
+  "position": {
+    "x": 23,
+    "y": 41,
+    "z": 73
+  },
+  "block_runtime_id": 134,
+  "flags": {
+    "_value": 3,
+    "neighbors": true,
+    "network": true,
+    "no_graphic": false,
+    "unused": false,
+    "priority": false
+  },
+  "layer": 0,
+  "entity_unique_id": "-9223372032559808551",
+  "transition_type": "create"
+}

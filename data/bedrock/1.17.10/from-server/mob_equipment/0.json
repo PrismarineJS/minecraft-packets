@@ -1,0 +1,31 @@
+{
+  "runtime_entity_id": "5",
+  "item": {
+    "network_id": 300,
+    "count": 1,
+    "metadata": 0,
+    "has_stack_id": 0,
+    "block_runtime_id": 0,
+    "extra": {
+      "has_nbt": true,
+      "nbt": {
+        "version": 1,
+        "nbt": {
+          "type": "compound",
+          "name": "",
+          "value": {
+            "Damage": {
+              "type": "int",
+              "value": 0
+            }
+          }
+        }
+      },
+      "can_place_on": [],
+      "can_destroy": []
+    }
+  },
+  "slot": 0,
+  "selected_slot": 0,
+  "window_id": "inventory"
+}

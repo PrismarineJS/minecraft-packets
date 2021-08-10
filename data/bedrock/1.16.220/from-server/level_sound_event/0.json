@@ -1,0 +1,12 @@
+{
+  "sound_id": 53,
+  "position": {
+    "x": 931,
+    "y": 63.68000030517578,
+    "z": -26.489999771118164
+  },
+  "block_id": -1,
+  "entity_type": "minecraft:wolf",
+  "is_baby_mob": false,
+  "is_global": false
+}

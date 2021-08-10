@@ -1,0 +1,41 @@
+{
+  "position": {
+    "x": 88,
+    "y": 53,
+    "z": 88
+  },
+  "nbt": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "LootTable": {
+        "type": "string",
+        "value": "loot_tables/chests/buriedtreasure.json"
+      },
+      "LootTableSeed": {
+        "type": "int",
+        "value": 682241964
+      },
+      "id": {
+        "type": "string",
+        "value": "Chest"
+      },
+      "isMovable": {
+        "type": "byte",
+        "value": 1
+      },
+      "x": {
+        "type": "int",
+        "value": 88
+      },
+      "y": {
+        "type": "int",
+        "value": 53
+      },
+      "z": {
+        "type": "int",
+        "value": 88
+      }
+    }
+  }
+}

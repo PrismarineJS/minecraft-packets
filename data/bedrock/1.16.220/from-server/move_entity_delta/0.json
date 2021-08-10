@@ -1,0 +1,16 @@
+{
+  "runtime_entity_id": "4",
+  "flags": {
+    "_value": 65096,
+    "has_x": false,
+    "has_y": false,
+    "has_z": false,
+    "has_rot_x": true,
+    "has_rot_y": false,
+    "has_rot_z": false,
+    "on_ground": true,
+    "teleport": false,
+    "force_move": false
+  },
+  "rot_x": 0
+}
