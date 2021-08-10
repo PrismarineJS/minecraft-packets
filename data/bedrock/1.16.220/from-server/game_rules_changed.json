@@ -1,0 +1,139 @@
+{
+  "rules": [
+    {
+      "name": "commandblockoutput",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "dodaylightcycle",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doentitydrops",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "dofiretick",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "domobloot",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "domobspawning",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "dotiledrops",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "doweathercycle",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "drowningdamage",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "falldamage",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "firedamage",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "keepinventory",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "mobgriefing",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "pvp",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "showcoordinates",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "naturalregeneration",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "tntexplodes",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "sendcommandfeedback",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "maxcommandchainlength",
+      "type": "int",
+      "value": 65535
+    },
+    {
+      "name": "doinsomnia",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "commandblocksenabled",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "randomtickspeed",
+      "type": "int",
+      "value": 1
+    },
+    {
+      "name": "doimmediaterespawn",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "showdeathmessages",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "functioncommandlimit",
+      "type": "int",
+      "value": 10000
+    },
+    {
+      "name": "spawnradius",
+      "type": "int",
+      "value": 5
+    },
+    {
+      "name": "showtags",
+      "type": "bool",
+      "value": true
+    }
+  ]
+}

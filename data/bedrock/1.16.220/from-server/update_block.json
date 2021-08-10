@@ -1,0 +1,17 @@
+{
+  "position": {
+    "x": 923,
+    "y": 19,
+    "z": -9
+  },
+  "block_runtime_id": 6387,
+  "flags": {
+    "_value": 2,
+    "neighbors": false,
+    "network": true,
+    "no_graphic": false,
+    "unused": false,
+    "priority": false
+  },
+  "layer": 0
+}
