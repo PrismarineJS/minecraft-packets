@@ -1,3 +1,6 @@
+## 1.4.0
+* add some bedrock packets
+
 ## 1.3.0
 * add metadata and readme to each pc version
 
