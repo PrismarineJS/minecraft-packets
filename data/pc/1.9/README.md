@@ -1,4 +1,4 @@
-<details><summary>Collected (35)</summary>
+<details><summary>Collected (59)</summary>
 <p>
 
 | Packet |
@@ -18,76 +18,76 @@
 | window_items |
 | set_slot |
 | map_chunk |
+| spawn_entity |
 | entity_metadata |
+| entity_velocity |
 | entity_update_attributes |
 | update_health |
 | experience |
-| spawn_entity_living |
-| spawn_entity |
-| entity_velocity |
 | multi_block_change |
-| block_change |
+| spawn_entity_living |
 | entity_head_rotation |
+| block_change |
 | tile_entity_data |
-| entity_teleport |
 | entity_move_look |
-| entity_equipment |
 | rel_entity_move |
+| entity_teleport |
+| chat |
+| entity_equipment |
 | entity_destroy |
-| sound_effect |
 | world_event |
+| named_entity_spawn |
 | keep_alive |
 | entity_look |
+| tab_complete |
+| combat_event |
+| unload_chunk |
+| respawn |
+| game_state_change |
+| sound_effect |
+| set_cooldown |
+| map |
+| title |
+| scoreboard_objective |
+| scoreboard_display_objective |
+| scoreboard_score |
+| named_sound_effect |
+| entity_effect |
+| remove_entity_effect |
+| open_window |
+| craft_progress_bar |
+| transaction |
+| close_window |
+| boss_bar |
+| spawn_entity_painting |
+| collect |
+| animation |
 
 </p>
 </details>
-<details><summary>Missing (42)</summary>
+<details><summary>Missing (18)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
-| spawn_entity_painting |
-| named_entity_spawn |
-| animation |
 | block_break_animation |
 | block_action |
-| boss_bar |
-| tab_complete |
-| chat |
-| transaction |
-| close_window |
-| open_window |
-| craft_progress_bar |
-| set_cooldown |
-| named_sound_effect |
 | kick_disconnect |
 | explosion |
-| unload_chunk |
-| game_state_change |
 | world_particles |
-| map |
 | entity |
 | vehicle_move |
 | open_sign_entity |
-| combat_event |
 | bed |
-| remove_entity_effect |
 | resource_pack_send |
-| respawn |
 | camera |
-| scoreboard_display_objective |
 | attach_entity |
-| scoreboard_objective |
 | set_passengers |
 | teams |
-| scoreboard_score |
-| title |
 | update_sign |
 | playerlist_header |
-| collect |
-| entity_effect |
 
 </p>
 </details>

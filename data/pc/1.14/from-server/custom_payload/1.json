@@ -1,16 +1,4 @@
 {
   "channel": "minecraft:brand",
-  "data": {
-    "type": "Buffer",
-    "data": [
-      7,
-      118,
-      97,
-      110,
-      105,
-      108,
-      108,
-      97
-    ]
-  }
+  "data": "vanilla"
 }

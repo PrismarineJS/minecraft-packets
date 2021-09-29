@@ -1,14 +1,14 @@
 {
-  "entityId": 4,
-  "objectUUID": "7a970879-a6af-41c4-bcec-846cbdc5bc7e",
-  "type": 42,
-  "x": -63.5,
-  "y": 72.0625,
-  "z": 142.5,
+  "entityId": 719,
+  "objectUUID": "4e86880f-36cc-4589-9325-2af7cbc55acd",
+  "type": 25,
+  "x": 16.5,
+  "y": 36.9336977322847,
+  "z": -117.5,
   "pitch": 0,
   "yaw": 0,
-  "objectData": 0,
+  "objectData": 68,
   "velocityX": 0,
-  "velocityY": 0,
+  "velocityY": -2067,
   "velocityZ": 0
 }

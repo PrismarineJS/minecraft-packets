@@ -1,0 +1,13 @@
+{
+  "dimension": "minecraft:overworld",
+  "worldName": "minecraft:overworld",
+  "hashedSeed": [
+    -1463901590,
+    2048398968
+  ],
+  "gamemode": 0,
+  "previousGamemode": 1,
+  "isDebug": false,
+  "isFlat": false,
+  "copyMetadata": false
+}

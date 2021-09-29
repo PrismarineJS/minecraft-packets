@@ -1,9 +1,9 @@
 {
-  "soundId": 276,
+  "soundId": 192,
   "soundCategory": 6,
-  "x": 3836,
+  "x": 2052,
   "y": 552,
-  "z": -468,
-  "volume": 1,
-  "pitch": 67
+  "z": 1828,
+  "volume": 0.5,
+  "pitch": 23
 }

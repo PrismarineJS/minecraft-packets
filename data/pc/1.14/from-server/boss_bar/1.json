@@ -1,0 +1,9 @@
+{
+  "entityUUID": "5f9362e1-57f6-4b2d-8b7b-07a1933067c4",
+  "action": 0,
+  "title": "{\"insertion\":\"4c6bf2b0-c979-4d00-85d7-bd1f20d343e5\",\"hoverEvent\":{\"action\":\"show_entity\",\"value\":{\"text\":\"{name:'{\\\"translate\\\":\\\"entity.minecraft.wither\\\"}',id:\\\"4c6bf2b0-c979-4d00-85d7-bd1f20d343e5\\\",type:\\\"minecraft:wither\\\"}\"}},\"translate\":\"entity.minecraft.wither\"}",
+  "health": 1,
+  "color": 5,
+  "dividers": 0,
+  "flags": 1
+}

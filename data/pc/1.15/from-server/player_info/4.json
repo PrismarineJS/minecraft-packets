@@ -1,9 +1,12 @@
 {
-  "action": 2,
+  "action": 0,
   "data": [
     {
-      "UUID": "3591fdca-95ad-32a5-beb1-2a99402471c2",
-      "ping": 116
+      "UUID": "56825bf2-67f6-3755-b1bf-e6c96cad3411",
+      "name": "tempBot",
+      "properties": [],
+      "gamemode": 0,
+      "ping": 0
     }
   ]
 }

@@ -1,4 +1,4 @@
-<details><summary>Collected (39)</summary>
+<details><summary>Collected (64)</summary>
 <p>
 
 | Packet |
@@ -18,9 +18,9 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity |
+| spawn_entity_living |
 | entity_metadata |
-| entity_velocity |
+| entity_update_attributes |
 | world_border |
 | update_time |
 | spawn_position |
@@ -29,79 +29,79 @@
 | update_health |
 | experience |
 | keep_alive |
-| spawn_entity_living |
-| entity_update_attributes |
-| block_change |
+| entity_equipment |
 | advancements |
 | world_event |
-| entity_destroy |
+| block_change |
 | multi_block_change |
-| entity_equipment |
-| entity_head_rotation |
+| entity_velocity |
 | entity_move_look |
+| entity_head_rotation |
 | entity_teleport |
-| rel_entity_move |
 | entity_look |
+| rel_entity_move |
+| entity_destroy |
+| sound_effect |
+| chat |
+| spawn_entity |
+| named_entity_spawn |
+| tab_complete |
+| combat_event |
+| unload_chunk |
+| respawn |
+| game_state_change |
+| set_cooldown |
+| map |
+| title |
+| scoreboard_objective |
+| scoreboard_display_objective |
+| scoreboard_score |
+| named_sound_effect |
+| entity_effect |
+| remove_entity_effect |
+| open_window |
+| transaction |
+| craft_progress_bar |
+| close_window |
+| boss_bar |
+| spawn_entity_painting |
+| collect |
+| statistics |
 
 </p>
 </details>
-<details><summary>Missing (53)</summary>
+<details><summary>Missing (28)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
-| spawn_entity_painting |
-| named_entity_spawn |
 | animation |
-| statistics |
 | block_break_animation |
 | tile_entity_data |
 | block_action |
-| boss_bar |
-| tab_complete |
 | face_player |
 | nbt_query_response |
-| chat |
-| transaction |
-| close_window |
-| open_window |
-| craft_progress_bar |
-| set_cooldown |
-| named_sound_effect |
 | kick_disconnect |
 | explosion |
-| unload_chunk |
-| game_state_change |
 | open_horse_window |
 | world_particles |
-| map |
 | trade_list |
 | entity |
 | vehicle_move |
 | open_book |
 | open_sign_entity |
 | craft_recipe_response |
-| combat_event |
-| remove_entity_effect |
 | resource_pack_send |
-| respawn |
 | camera |
 | update_view_distance |
-| scoreboard_display_objective |
 | attach_entity |
-| scoreboard_objective |
 | set_passengers |
 | teams |
-| scoreboard_score |
-| title |
 | entity_sound_effect |
 | stop_sound |
-| sound_effect |
 | playerlist_header |
-| collect |
-| entity_effect |
 | select_advancement_tab |
 
 </p>

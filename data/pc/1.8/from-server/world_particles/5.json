@@ -1,0 +1,15 @@
+{
+  "particleId": 38,
+  "longDistance": false,
+  "x": 380.45001220703125,
+  "y": 66,
+  "z": 143.4499969482422,
+  "offsetX": 0,
+  "offsetY": 0,
+  "offsetZ": 0,
+  "particleData": 0.15000000596046448,
+  "particles": 120,
+  "data": [
+    12
+  ]
+}

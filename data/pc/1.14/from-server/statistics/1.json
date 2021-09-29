@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "categoryId": 8,
+      "statisticId": 3,
+      "value": 455
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 1,
+      "value": 510
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 53,
+      "value": 1
+    },
+    {
+      "categoryId": 2,
+      "statisticId": 682,
+      "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 2,
+      "value": 454
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 28,
+      "value": 2
+    },
+    {
+      "categoryId": 4,
+      "statisticId": 775,
+      "value": 1
+    }
+  ]
+}

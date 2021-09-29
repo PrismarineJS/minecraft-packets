@@ -1,4 +1,4 @@
-<details><summary>Collected (35)</summary>
+<details><summary>Collected (56)</summary>
 <p>
 
 | Packet |
@@ -19,68 +19,68 @@
 | update_health |
 | experience |
 | map_chunk_bulk |
-| spawn_entity_living |
 | entity_metadata |
 | update_attributes |
+| chat |
+| spawn_entity_living |
 | entity_velocity |
 | entity_look |
 | entity_head_rotation |
+| block_change |
+| tile_entity_data |
+| named_entity_spawn |
+| entity_equipment |
 | world_event |
 | entity_teleport |
 | entity_move_look |
-| rel_entity_move |
-| entity_equipment |
-| tile_entity_data |
-| spawn_entity |
-| multi_block_change |
-| block_change |
 | entity_destroy |
+| spawn_entity |
+| tab_complete |
+| multi_block_change |
+| rel_entity_move |
 | entity_status |
 | keep_alive |
 | map_chunk |
+| respawn |
+| game_state_change |
+| named_sound_effect |
+| map |
+| title |
+| scoreboard_objective |
+| scoreboard_display_objective |
+| scoreboard_score |
+| entity_effect |
+| remove_entity_effect |
+| open_window |
+| craft_progress_bar |
+| transaction |
+| close_window |
+| spawn_entity_painting |
+| world_particles |
+| explosion |
+| collect |
 
 </p>
 </details>
-<details><summary>Missing (39)</summary>
+<details><summary>Missing (18)</summary>
 <p>
 
 | Packet |
 | --- |
-| chat |
-| respawn |
 | bed |
 | animation |
-| named_entity_spawn |
-| collect |
-| spawn_entity_painting |
 | spawn_entity_experience_orb |
 | entity |
 | attach_entity |
-| entity_effect |
-| remove_entity_effect |
 | block_action |
 | block_break_animation |
-| explosion |
-| named_sound_effect |
-| world_particles |
-| game_state_change |
 | spawn_entity_weather |
-| open_window |
-| close_window |
-| craft_progress_bar |
-| transaction |
 | update_sign |
-| map |
 | open_sign_entity |
-| tab_complete |
-| scoreboard_objective |
-| scoreboard_score |
-| scoreboard_display_objective |
 | scoreboard_team |
 | kick_disconnect |
 | combat_event |
 | camera |
-| title |
 | set_compression |
 | playerlist_header |
 | resource_pack_send |

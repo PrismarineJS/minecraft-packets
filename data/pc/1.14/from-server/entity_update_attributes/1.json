@@ -1,5 +1,5 @@
 {
-  "entityId": 80,
+  "entityId": 17,
   "properties": [
     {
       "key": "generic.armorToughness",
@@ -7,18 +7,18 @@
       "modifiers": []
     },
     {
-      "key": "generic.maxHealth",
-      "value": 20,
+      "key": "generic.movementSpeed",
+      "value": 0.25,
       "modifiers": []
     },
     {
-      "key": "generic.movementSpeed",
-      "value": 0.23000000417232513,
+      "key": "generic.maxHealth",
+      "value": 30,
       "modifiers": []
     },
     {
       "key": "generic.armor",
-      "value": 2,
+      "value": 0,
       "modifiers": []
     }
   ]

@@ -1,0 +1,67 @@
+{
+  "location": {
+    "x": 278,
+    "y": 29,
+    "z": 98
+  },
+  "action": 1,
+  "nbtData": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "MaxNearbyEntities": {
+        "type": "short",
+        "value": 6
+      },
+      "RequiredPlayerRange": {
+        "type": "short",
+        "value": 16
+      },
+      "SpawnCount": {
+        "type": "short",
+        "value": 4
+      },
+      "SpawnData": {
+        "type": "compound",
+        "value": {
+          "id": {
+            "type": "string",
+            "value": "Zombie"
+          }
+        }
+      },
+      "MaxSpawnDelay": {
+        "type": "short",
+        "value": 800
+      },
+      "Delay": {
+        "type": "short",
+        "value": 20
+      },
+      "x": {
+        "type": "int",
+        "value": 278
+      },
+      "y": {
+        "type": "int",
+        "value": 29
+      },
+      "z": {
+        "type": "int",
+        "value": 98
+      },
+      "id": {
+        "type": "string",
+        "value": "MobSpawner"
+      },
+      "SpawnRange": {
+        "type": "short",
+        "value": 4
+      },
+      "MinSpawnDelay": {
+        "type": "short",
+        "value": 200
+      }
+    }
+  }
+}

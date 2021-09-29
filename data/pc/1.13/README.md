@@ -1,4 +1,4 @@
-<details><summary>Collected (38)</summary>
+<details><summary>Collected (62)</summary>
 <p>
 
 | Packet |
@@ -26,76 +26,76 @@
 | spawn_position |
 | window_items |
 | set_slot |
-| multi_block_change |
+| entity_equipment |
 | advancements |
-| rel_entity_move |
 | entity_head_rotation |
 | update_health |
 | experience |
 | keep_alive |
-| entity_equipment |
-| block_change |
-| entity_destroy |
 | entity_teleport |
-| world_event |
 | entity_move_look |
+| multi_block_change |
+| block_change |
+| rel_entity_move |
+| chat |
+| named_entity_spawn |
+| tab_complete |
+| entity_destroy |
+| combat_event |
+| unload_chunk |
+| respawn |
+| game_state_change |
+| sound_effect |
+| set_cooldown |
+| map |
+| title |
+| scoreboard_objective |
+| scoreboard_display_objective |
+| scoreboard_score |
 | entity_look |
+| world_event |
+| named_sound_effect |
+| entity_effect |
+| remove_entity_effect |
+| open_window |
+| craft_progress_bar |
+| transaction |
+| close_window |
+| boss_bar |
+| spawn_entity_painting |
 | collect |
+| statistics |
 
 </p>
 </details>
-<details><summary>Missing (48)</summary>
+<details><summary>Missing (24)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
-| spawn_entity_painting |
-| named_entity_spawn |
 | animation |
-| statistics |
 | block_break_animation |
 | tile_entity_data |
 | block_action |
-| boss_bar |
-| tab_complete |
 | face_player |
 | nbt_query_response |
-| chat |
-| transaction |
-| close_window |
-| open_window |
-| craft_progress_bar |
-| set_cooldown |
-| named_sound_effect |
 | kick_disconnect |
 | explosion |
-| unload_chunk |
-| game_state_change |
 | world_particles |
-| map |
 | entity |
 | vehicle_move |
 | open_sign_entity |
 | craft_recipe_response |
-| combat_event |
 | bed |
-| remove_entity_effect |
 | resource_pack_send |
-| respawn |
 | camera |
-| scoreboard_display_objective |
 | attach_entity |
-| scoreboard_objective |
 | set_passengers |
 | teams |
-| scoreboard_score |
-| title |
 | stop_sound |
-| sound_effect |
 | playerlist_header |
-| entity_effect |
 | select_advancement_tab |
 
 </p>

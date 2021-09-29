@@ -1,4 +1,4 @@
-<details><summary>Collected (34)</summary>
+<details><summary>Collected (57)</summary>
 <p>
 
 | Packet |
@@ -24,69 +24,69 @@
 | entity_update_attributes |
 | update_health |
 | experience |
-| block_change |
-| multi_block_change |
 | spawn_entity_living |
+| entity_teleport |
 | entity_head_rotation |
 | entity_equipment |
-| entity_destroy |
-| entity_teleport |
+| multi_block_change |
+| block_change |
+| chat |
 | entity_move_look |
+| entity_destroy |
 | world_event |
-| sound_effect |
 | rel_entity_move |
+| named_entity_spawn |
+| sound_effect |
 | keep_alive |
+| tab_complete |
+| combat_event |
+| unload_chunk |
+| respawn |
+| game_state_change |
+| set_cooldown |
+| map |
+| title |
+| scoreboard_objective |
+| scoreboard_display_objective |
+| scoreboard_score |
+| named_sound_effect |
+| entity_effect |
+| remove_entity_effect |
+| open_window |
+| craft_progress_bar |
+| transaction |
+| close_window |
+| boss_bar |
+| spawn_entity_painting |
+| collect |
 | entity_look |
 
 </p>
 </details>
-<details><summary>Missing (42)</summary>
+<details><summary>Missing (19)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
-| spawn_entity_painting |
-| named_entity_spawn |
 | animation |
 | block_break_animation |
 | tile_entity_data |
 | block_action |
-| boss_bar |
-| tab_complete |
-| chat |
-| transaction |
-| close_window |
-| open_window |
-| craft_progress_bar |
-| set_cooldown |
-| named_sound_effect |
 | kick_disconnect |
 | explosion |
-| unload_chunk |
-| game_state_change |
 | world_particles |
-| map |
 | entity |
 | vehicle_move |
 | open_sign_entity |
-| combat_event |
 | bed |
-| remove_entity_effect |
 | resource_pack_send |
-| respawn |
 | camera |
-| scoreboard_display_objective |
 | attach_entity |
-| scoreboard_objective |
 | set_passengers |
 | teams |
-| scoreboard_score |
-| title |
 | playerlist_header |
-| collect |
-| entity_effect |
 
 </p>
 </details>
