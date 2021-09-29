@@ -19,9 +19,6 @@ jobs:
       with:
         node-version: 14.x
 
-    - name: Use Dumper
-      run: npm i -g prismarine-packet-dumper
-
     - name: Setup Java JDK
       uses: actions/setup-java@v1
       with:
@@ -54,6 +51,9 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
+
+    - name: Use Dumper
+      run: npm i -g prismarine-packet-dumper
         
     - name: make artifacts dir
       run: mkdir data/pc/artifacts
