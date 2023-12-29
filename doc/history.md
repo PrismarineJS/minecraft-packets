@@ -1,3 +1,6 @@
+## 1.6.0
+* update data
+
 ## 1.5.0
 * update data
 
