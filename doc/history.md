@@ -1,3 +1,7 @@
+## 1.7.0
+* [Create commands.yml](https://github.com/PrismarineJS/minecraft-packets/commit/e35e3d28d42d73cb0f4a3d3be1ac8a3fcb1dda7d) (thanks @rom1504)
+* [Update tag.yml to use main branch](https://github.com/PrismarineJS/minecraft-packets/commit/3c1b1382d8691a09c6b0c979a569a33ee3588c37) (thanks @rom1504)
+
 ## 1.6.1
 * fix
 
