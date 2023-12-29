@@ -14,15 +14,15 @@ jobs:
 
     steps:
     
-    - name: Use Node.js 14.x
+    - name: Use Node.js 18.x
       uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: 18.x
 
     - name: Setup Java JDK
-      uses: actions/setup-java@v1
+      uses: actions/setup-java@v1.4.3
       with:
-        java-version: 1.8
+        java-version: 17
         java-package: jre
 
     - name: Use Dumper
@@ -47,10 +47,10 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
         
-    - name: Use Node.js 14.x
+    - name: Use Node.js 18.x
       uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: 18.x
 
     - name: Use Dumper
       run: npm i -g prismarine-packet-dumper
