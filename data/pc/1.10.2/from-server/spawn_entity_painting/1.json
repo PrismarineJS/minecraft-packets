@@ -1,0 +1,11 @@
+{
+  "entityId": 3150,
+  "entityUUID": "eadd9e39-5eb5-4020-8bb2-f27ca1b26219",
+  "title": "Kebab",
+  "location": {
+    "x": 187,
+    "y": 64,
+    "z": 240
+  },
+  "direction": 0
+}

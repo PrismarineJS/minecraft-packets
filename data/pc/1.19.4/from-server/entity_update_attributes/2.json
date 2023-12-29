@@ -1,0 +1,25 @@
+{
+  "entityId": 145,
+  "properties": [
+    {
+      "key": "minecraft:generic.armor",
+      "value": 0,
+      "modifiers": []
+    },
+    {
+      "key": "minecraft:generic.armor_toughness",
+      "value": 0,
+      "modifiers": []
+    },
+    {
+      "key": "minecraft:generic.movement_speed",
+      "value": 0.20000000298023224,
+      "modifiers": []
+    },
+    {
+      "key": "minecraft:generic.max_health",
+      "value": 10,
+      "modifiers": []
+    }
+  ]
+}

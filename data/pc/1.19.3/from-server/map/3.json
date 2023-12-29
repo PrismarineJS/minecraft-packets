@@ -1,0 +1,14 @@
+{
+  "itemDamage": 0,
+  "scale": 0,
+  "locked": false,
+  "icons": [
+    {
+      "type": 6,
+      "x": 74,
+      "z": 127,
+      "direction": 0
+    }
+  ],
+  "columns": 0
+}

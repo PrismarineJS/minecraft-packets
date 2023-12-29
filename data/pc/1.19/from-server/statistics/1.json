@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "categoryId": 8,
+      "statisticId": 4,
+      "value": 422
+    },
+    {
+      "categoryId": 2,
+      "statisticId": 994,
+      "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 55,
+      "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 1,
+      "value": 816
+    },
+    {
+      "categoryId": 2,
+      "statisticId": 897,
+      "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 3,
+      "value": 421
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 30,
+      "value": 2
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 2,
+      "value": 816
+    },
+    {
+      "categoryId": 4,
+      "statisticId": 1002,
+      "value": 1
+    }
+  ]
+}

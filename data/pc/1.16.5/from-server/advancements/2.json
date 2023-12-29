@@ -46,6 +46,26 @@
       }
     },
     {
+      "key": "minecraft:recipes/misc/green_dye",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "has_cactus"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "has_cactus",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
       "key": "minecraft:recipes/root",
       "value": {
         "criteria": [
@@ -69,8 +89,8 @@
         {
           "criterionIdentifier": "has_coal",
           "criterionProgress": [
-            380,
-            865439662
+            396,
+            -1217177812
           ]
         },
         {
@@ -87,8 +107,23 @@
         {
           "criterionIdentifier": "has_coal",
           "criterionProgress": [
-            380,
-            865439650
+            396,
+            -1217177809
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/misc/green_dye",
+      "value": [
+        {
+          "criterionIdentifier": "has_cactus",
+          "criterionProgress": [
+            396,
+            -1217177807
           ]
         },
         {

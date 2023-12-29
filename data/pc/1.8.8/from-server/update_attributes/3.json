@@ -1,0 +1,15 @@
+{
+  "entityId": 54,
+  "properties": [
+    {
+      "key": "generic.movementSpeed",
+      "value": 0.23000000417232513,
+      "modifiers": []
+    },
+    {
+      "key": "generic.maxHealth",
+      "value": 8,
+      "modifiers": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "entityId": 311,
+  "metadata": [
+    {
+      "key": 0,
+      "type": 0,
+      "value": 0
+    },
+    {
+      "key": 2,
+      "type": 5
+    },
+    {
+      "key": 6,
+      "type": 18,
+      "value": 0
+    },
+    {
+      "key": 4,
+      "type": 7,
+      "value": false
+    },
+    {
+      "key": 8,
+      "type": 9,
+      "value": {
+        "x": -129,
+        "z": -2,
+        "y": 60
+      }
+    },
+    {
+      "key": 1,
+      "type": 1,
+      "value": 300
+    },
+    {
+      "key": 3,
+      "type": 7,
+      "value": false
+    },
+    {
+      "key": 7,
+      "type": 1,
+      "value": 0
+    },
+    {
+      "key": 5,
+      "type": 7,
+      "value": false
+    }
+  ]
+}

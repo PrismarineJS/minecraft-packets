@@ -1,11 +1,11 @@
 {
-  "entityId": 2775,
-  "entityUUID": "a2193f1e-09da-484c-9343-77713cd4bd7c",
+  "entityId": 3152,
+  "entityUUID": "1049e3e7-595c-4cc0-bf9a-6ab95003f25e",
   "title": "Kebab",
   "location": {
-    "x": -263,
-    "y": 63,
-    "z": 171
+    "x": 229,
+    "y": 71,
+    "z": 257
   },
   "direction": 0
 }

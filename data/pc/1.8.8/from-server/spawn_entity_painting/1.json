@@ -1,0 +1,10 @@
+{
+  "entityId": 1860,
+  "title": "Kebab",
+  "location": {
+    "x": -101,
+    "y": 65,
+    "z": 265
+  },
+  "direction": 0
+}

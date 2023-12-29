@@ -1,0 +1,16 @@
+{
+  "chunkX": -7,
+  "chunkZ": -10,
+  "trustEdges": true,
+  "skyLightMask": [],
+  "blockLightMask": [],
+  "emptySkyLightMask": [],
+  "emptyBlockLightMask": [
+    [
+      0,
+      128
+    ]
+  ],
+  "skyLight": [],
+  "blockLight": []
+}

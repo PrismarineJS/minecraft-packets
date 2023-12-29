@@ -1,0 +1,15 @@
+{
+  "entityId": 627,
+  "type": 70,
+  "x": -5968,
+  "y": 478,
+  "z": 6064,
+  "pitch": 0,
+  "yaw": 0,
+  "objectData": {
+    "intField": 13,
+    "velocityX": 0,
+    "velocityY": -313,
+    "velocityZ": 0
+  }
+}

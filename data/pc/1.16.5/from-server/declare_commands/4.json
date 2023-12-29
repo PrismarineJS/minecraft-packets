@@ -96,7 +96,9 @@
         74,
         75
       ],
-      "extraNodeData": "advancement"
+      "extraNodeData": {
+        "name": "advancement"
+      }
     },
     {
       "flags": {
@@ -109,7 +111,9 @@
       "children": [
         76
       ],
-      "extraNodeData": "attribute"
+      "extraNodeData": {
+        "name": "attribute"
+      }
     },
     {
       "flags": {
@@ -122,7 +126,9 @@
       "children": [
         77
       ],
-      "extraNodeData": "ban"
+      "extraNodeData": {
+        "name": "ban"
+      }
     },
     {
       "flags": {
@@ -135,7 +141,9 @@
       "children": [
         78
       ],
-      "extraNodeData": "ban-ip"
+      "extraNodeData": {
+        "name": "ban-ip"
+      }
     },
     {
       "flags": {
@@ -149,7 +157,9 @@
         79,
         80
       ],
-      "extraNodeData": "banlist"
+      "extraNodeData": {
+        "name": "banlist"
+      }
     },
     {
       "flags": {
@@ -166,7 +176,9 @@
         84,
         85
       ],
-      "extraNodeData": "bossbar"
+      "extraNodeData": {
+        "name": "bossbar"
+      }
     },
     {
       "flags": {
@@ -179,7 +191,9 @@
       "children": [
         86
       ],
-      "extraNodeData": "clear"
+      "extraNodeData": {
+        "name": "clear"
+      }
     },
     {
       "flags": {
@@ -192,7 +206,9 @@
       "children": [
         87
       ],
-      "extraNodeData": "clone"
+      "extraNodeData": {
+        "name": "clone"
+      }
     },
     {
       "flags": {
@@ -208,7 +224,9 @@
         90,
         91
       ],
-      "extraNodeData": "data"
+      "extraNodeData": {
+        "name": "data"
+      }
     },
     {
       "flags": {
@@ -223,7 +241,9 @@
         93,
         94
       ],
-      "extraNodeData": "datapack"
+      "extraNodeData": {
+        "name": "datapack"
+      }
     },
     {
       "flags": {
@@ -238,7 +258,9 @@
         96,
         55
       ],
-      "extraNodeData": "debug"
+      "extraNodeData": {
+        "name": "debug"
+      }
     },
     {
       "flags": {
@@ -254,7 +276,9 @@
         99,
         100
       ],
-      "extraNodeData": "defaultgamemode"
+      "extraNodeData": {
+        "name": "defaultgamemode"
+      }
     },
     {
       "flags": {
@@ -267,7 +291,9 @@
       "children": [
         101
       ],
-      "extraNodeData": "deop"
+      "extraNodeData": {
+        "name": "deop"
+      }
     },
     {
       "flags": {
@@ -283,7 +309,9 @@
         104,
         105
       ],
-      "extraNodeData": "difficulty"
+      "extraNodeData": {
+        "name": "difficulty"
+      }
     },
     {
       "flags": {
@@ -297,7 +325,9 @@
         106,
         107
       ],
-      "extraNodeData": "effect"
+      "extraNodeData": {
+        "name": "effect"
+      }
     },
     {
       "flags": {
@@ -310,7 +340,9 @@
       "children": [
         108
       ],
-      "extraNodeData": "enchant"
+      "extraNodeData": {
+        "name": "enchant"
+      }
     },
     {
       "flags": {
@@ -334,7 +366,9 @@
         119,
         120
       ],
-      "extraNodeData": "execute"
+      "extraNodeData": {
+        "name": "execute"
+      }
     },
     {
       "flags": {
@@ -349,7 +383,9 @@
         122,
         123
       ],
-      "extraNodeData": "experience"
+      "extraNodeData": {
+        "name": "experience"
+      }
     },
     {
       "flags": {
@@ -362,7 +398,9 @@
       "children": [
         124
       ],
-      "extraNodeData": "fill"
+      "extraNodeData": {
+        "name": "fill"
+      }
     },
     {
       "flags": {
@@ -377,7 +415,9 @@
         126,
         127
       ],
-      "extraNodeData": "forceload"
+      "extraNodeData": {
+        "name": "forceload"
+      }
     },
     {
       "flags": {
@@ -390,7 +430,9 @@
       "children": [
         128
       ],
-      "extraNodeData": "function"
+      "extraNodeData": {
+        "name": "function"
+      }
     },
     {
       "flags": {
@@ -406,7 +448,9 @@
         131,
         132
       ],
-      "extraNodeData": "gamemode"
+      "extraNodeData": {
+        "name": "gamemode"
+      }
     },
     {
       "flags": {
@@ -451,7 +495,9 @@
         164,
         165
       ],
-      "extraNodeData": "gamerule"
+      "extraNodeData": {
+        "name": "gamerule"
+      }
     },
     {
       "flags": {
@@ -464,7 +510,9 @@
       "children": [
         166
       ],
-      "extraNodeData": "give"
+      "extraNodeData": {
+        "name": "give"
+      }
     },
     {
       "flags": {
@@ -477,7 +525,9 @@
       "children": [
         167
       ],
-      "extraNodeData": "help"
+      "extraNodeData": {
+        "name": "help"
+      }
     },
     {
       "flags": {
@@ -490,7 +540,9 @@
       "children": [
         168
       ],
-      "extraNodeData": "kick"
+      "extraNodeData": {
+        "name": "kick"
+      }
     },
     {
       "flags": {
@@ -503,7 +555,9 @@
       "children": [
         169
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -516,7 +570,9 @@
       "children": [
         170
       ],
-      "extraNodeData": "list"
+      "extraNodeData": {
+        "name": "list"
+      }
     },
     {
       "flags": {
@@ -546,7 +602,9 @@
         187,
         188
       ],
-      "extraNodeData": "locate"
+      "extraNodeData": {
+        "name": "locate"
+      }
     },
     {
       "flags": {
@@ -559,7 +617,9 @@
       "children": [
         189
       ],
-      "extraNodeData": "locatebiome"
+      "extraNodeData": {
+        "name": "locatebiome"
+      }
     },
     {
       "flags": {
@@ -575,7 +635,9 @@
         192,
         193
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -588,7 +650,9 @@
       "children": [
         194
       ],
-      "extraNodeData": "me"
+      "extraNodeData": {
+        "name": "me"
+      }
     },
     {
       "flags": {
@@ -601,7 +665,9 @@
       "children": [
         195
       ],
-      "extraNodeData": "msg"
+      "extraNodeData": {
+        "name": "msg"
+      }
     },
     {
       "flags": {
@@ -614,7 +680,9 @@
       "children": [
         196
       ],
-      "extraNodeData": "op"
+      "extraNodeData": {
+        "name": "op"
+      }
     },
     {
       "flags": {
@@ -627,7 +695,9 @@
       "children": [
         197
       ],
-      "extraNodeData": "pardon"
+      "extraNodeData": {
+        "name": "pardon"
+      }
     },
     {
       "flags": {
@@ -640,7 +710,9 @@
       "children": [
         198
       ],
-      "extraNodeData": "pardon-ip"
+      "extraNodeData": {
+        "name": "pardon-ip"
+      }
     },
     {
       "flags": {
@@ -653,7 +725,9 @@
       "children": [
         199
       ],
-      "extraNodeData": "particle"
+      "extraNodeData": {
+        "name": "particle"
+      }
     },
     {
       "flags": {
@@ -666,7 +740,9 @@
       "children": [
         200
       ],
-      "extraNodeData": "playsound"
+      "extraNodeData": {
+        "name": "playsound"
+      }
     },
     {
       "flags": {
@@ -680,7 +756,9 @@
         201,
         202
       ],
-      "extraNodeData": "recipe"
+      "extraNodeData": {
+        "name": "recipe"
+      }
     },
     {
       "flags": {
@@ -691,7 +769,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "reload"
+      "extraNodeData": {
+        "name": "reload"
+      }
     },
     {
       "flags": {
@@ -705,7 +785,9 @@
         203,
         204
       ],
-      "extraNodeData": "replaceitem"
+      "extraNodeData": {
+        "name": "replaceitem"
+      }
     },
     {
       "flags": {
@@ -718,7 +800,9 @@
       "children": [
         205
       ],
-      "extraNodeData": "save-all"
+      "extraNodeData": {
+        "name": "save-all"
+      }
     },
     {
       "flags": {
@@ -729,7 +813,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "save-off"
+      "extraNodeData": {
+        "name": "save-off"
+      }
     },
     {
       "flags": {
@@ -740,7 +826,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "save-on"
+      "extraNodeData": {
+        "name": "save-on"
+      }
     },
     {
       "flags": {
@@ -753,7 +841,9 @@
       "children": [
         206
       ],
-      "extraNodeData": "say"
+      "extraNodeData": {
+        "name": "say"
+      }
     },
     {
       "flags": {
@@ -767,7 +857,9 @@
         207,
         208
       ],
-      "extraNodeData": "schedule"
+      "extraNodeData": {
+        "name": "schedule"
+      }
     },
     {
       "flags": {
@@ -781,7 +873,9 @@
         209,
         210
       ],
-      "extraNodeData": "scoreboard"
+      "extraNodeData": {
+        "name": "scoreboard"
+      }
     },
     {
       "flags": {
@@ -792,7 +886,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "seed"
+      "extraNodeData": {
+        "name": "seed"
+      }
     },
     {
       "flags": {
@@ -805,7 +901,9 @@
       "children": [
         211
       ],
-      "extraNodeData": "setblock"
+      "extraNodeData": {
+        "name": "setblock"
+      }
     },
     {
       "flags": {
@@ -818,7 +916,9 @@
       "children": [
         212
       ],
-      "extraNodeData": "setidletimeout"
+      "extraNodeData": {
+        "name": "setidletimeout"
+      }
     },
     {
       "flags": {
@@ -831,7 +931,9 @@
       "children": [
         213
       ],
-      "extraNodeData": "setworldspawn"
+      "extraNodeData": {
+        "name": "setworldspawn"
+      }
     },
     {
       "flags": {
@@ -844,7 +946,9 @@
       "children": [
         214
       ],
-      "extraNodeData": "spawnpoint"
+      "extraNodeData": {
+        "name": "spawnpoint"
+      }
     },
     {
       "flags": {
@@ -857,7 +961,9 @@
       "children": [
         215
       ],
-      "extraNodeData": "spectate"
+      "extraNodeData": {
+        "name": "spectate"
+      }
     },
     {
       "flags": {
@@ -870,7 +976,9 @@
       "children": [
         216
       ],
-      "extraNodeData": "spreadplayers"
+      "extraNodeData": {
+        "name": "spreadplayers"
+      }
     },
     {
       "flags": {
@@ -881,7 +989,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "stop"
+      "extraNodeData": {
+        "name": "stop"
+      }
     },
     {
       "flags": {
@@ -894,7 +1004,9 @@
       "children": [
         217
       ],
-      "extraNodeData": "stopsound"
+      "extraNodeData": {
+        "name": "stopsound"
+      }
     },
     {
       "flags": {
@@ -907,7 +1019,9 @@
       "children": [
         218
       ],
-      "extraNodeData": "summon"
+      "extraNodeData": {
+        "name": "summon"
+      }
     },
     {
       "flags": {
@@ -920,7 +1034,9 @@
       "children": [
         219
       ],
-      "extraNodeData": "tag"
+      "extraNodeData": {
+        "name": "tag"
+      }
     },
     {
       "flags": {
@@ -939,7 +1055,9 @@
         225,
         226
       ],
-      "extraNodeData": "team"
+      "extraNodeData": {
+        "name": "team"
+      }
     },
     {
       "flags": {
@@ -952,7 +1070,9 @@
       "children": [
         227
       ],
-      "extraNodeData": "teammsg"
+      "extraNodeData": {
+        "name": "teammsg"
+      }
     },
     {
       "flags": {
@@ -967,7 +1087,9 @@
         229,
         230
       ],
-      "extraNodeData": "teleport"
+      "extraNodeData": {
+        "name": "teleport"
+      }
     },
     {
       "flags": {
@@ -979,7 +1101,9 @@
       },
       "children": [],
       "redirectNode": 33,
-      "extraNodeData": "tell"
+      "extraNodeData": {
+        "name": "tell"
+      }
     },
     {
       "flags": {
@@ -992,7 +1116,9 @@
       "children": [
         231
       ],
-      "extraNodeData": "tellraw"
+      "extraNodeData": {
+        "name": "tellraw"
+      }
     },
     {
       "flags": {
@@ -1007,7 +1133,9 @@
         233,
         234
       ],
-      "extraNodeData": "time"
+      "extraNodeData": {
+        "name": "time"
+      }
     },
     {
       "flags": {
@@ -1020,7 +1148,9 @@
       "children": [
         235
       ],
-      "extraNodeData": "title"
+      "extraNodeData": {
+        "name": "title"
+      }
     },
     {
       "flags": {
@@ -1032,7 +1162,9 @@
       },
       "children": [],
       "redirectNode": 60,
-      "extraNodeData": "tm"
+      "extraNodeData": {
+        "name": "tm"
+      }
     },
     {
       "flags": {
@@ -1044,7 +1176,9 @@
       },
       "children": [],
       "redirectNode": 61,
-      "extraNodeData": "tp"
+      "extraNodeData": {
+        "name": "tp"
+      }
     },
     {
       "flags": {
@@ -1057,7 +1191,9 @@
       "children": [
         236
       ],
-      "extraNodeData": "trigger"
+      "extraNodeData": {
+        "name": "trigger"
+      }
     },
     {
       "flags": {
@@ -1069,7 +1205,9 @@
       },
       "children": [],
       "redirectNode": 33,
-      "extraNodeData": "w"
+      "extraNodeData": {
+        "name": "w"
+      }
     },
     {
       "flags": {
@@ -1084,7 +1222,9 @@
         238,
         239
       ],
-      "extraNodeData": "weather"
+      "extraNodeData": {
+        "name": "weather"
+      }
     },
     {
       "flags": {
@@ -1102,7 +1242,9 @@
         40,
         243
       ],
-      "extraNodeData": "whitelist"
+      "extraNodeData": {
+        "name": "whitelist"
+      }
     },
     {
       "flags": {
@@ -1120,7 +1262,9 @@
         248,
         249
       ],
-      "extraNodeData": "worldborder"
+      "extraNodeData": {
+        "name": "worldborder"
+      }
     },
     {
       "flags": {
@@ -1132,7 +1276,9 @@
       },
       "children": [],
       "redirectNode": 18,
-      "extraNodeData": "xp"
+      "extraNodeData": {
+        "name": "xp"
+      }
     },
     {
       "flags": {
@@ -1145,7 +1291,9 @@
       "children": [
         250
       ],
-      "extraNodeData": "grant"
+      "extraNodeData": {
+        "name": "grant"
+      }
     },
     {
       "flags": {
@@ -1158,7 +1306,9 @@
       "children": [
         251
       ],
-      "extraNodeData": "revoke"
+      "extraNodeData": {
+        "name": "revoke"
+      }
     },
     {
       "flags": {
@@ -1174,7 +1324,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -1207,7 +1361,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "brigadier:string",
-        "properties": 0
+        "properties": "SINGLE_WORD"
       }
     },
     {
@@ -1219,7 +1373,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "ips"
+      "extraNodeData": {
+        "name": "ips"
+      }
     },
     {
       "flags": {
@@ -1230,7 +1386,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "players"
+      "extraNodeData": {
+        "name": "players"
+      }
     },
     {
       "flags": {
@@ -1243,7 +1401,9 @@
       "children": [
         255
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -1256,7 +1416,9 @@
       "children": [
         256
       ],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -1267,7 +1429,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "list"
+      "extraNodeData": {
+        "name": "list"
+      }
     },
     {
       "flags": {
@@ -1280,7 +1444,9 @@
       "children": [
         257
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -1293,7 +1459,9 @@
       "children": [
         258
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -1309,7 +1477,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -1341,7 +1513,9 @@
         262,
         263
       ],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -1356,7 +1530,9 @@
         265,
         266
       ],
-      "extraNodeData": "merge"
+      "extraNodeData": {
+        "name": "merge"
+      }
     },
     {
       "flags": {
@@ -1371,7 +1547,9 @@
         268,
         269
       ],
-      "extraNodeData": "modify"
+      "extraNodeData": {
+        "name": "modify"
+      }
     },
     {
       "flags": {
@@ -1386,7 +1564,9 @@
         271,
         272
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -1399,7 +1579,9 @@
       "children": [
         273
       ],
-      "extraNodeData": "disable"
+      "extraNodeData": {
+        "name": "disable"
+      }
     },
     {
       "flags": {
@@ -1412,7 +1594,9 @@
       "children": [
         274
       ],
-      "extraNodeData": "enable"
+      "extraNodeData": {
+        "name": "enable"
+      }
     },
     {
       "flags": {
@@ -1426,7 +1610,9 @@
         275,
         276
       ],
-      "extraNodeData": "list"
+      "extraNodeData": {
+        "name": "list"
+      }
     },
     {
       "flags": {
@@ -1437,7 +1623,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "report"
+      "extraNodeData": {
+        "name": "report"
+      }
     },
     {
       "flags": {
@@ -1448,7 +1636,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "start"
+      "extraNodeData": {
+        "name": "start"
+      }
     },
     {
       "flags": {
@@ -1459,7 +1649,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "adventure"
+      "extraNodeData": {
+        "name": "adventure"
+      }
     },
     {
       "flags": {
@@ -1470,7 +1662,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "creative"
+      "extraNodeData": {
+        "name": "creative"
+      }
     },
     {
       "flags": {
@@ -1481,7 +1675,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "spectator"
+      "extraNodeData": {
+        "name": "spectator"
+      }
     },
     {
       "flags": {
@@ -1492,7 +1688,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "survival"
+      "extraNodeData": {
+        "name": "survival"
+      }
     },
     {
       "flags": {
@@ -1506,7 +1704,7 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:game_profile",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -1518,7 +1716,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "easy"
+      "extraNodeData": {
+        "name": "easy"
+      }
     },
     {
       "flags": {
@@ -1529,7 +1729,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "hard"
+      "extraNodeData": {
+        "name": "hard"
+      }
     },
     {
       "flags": {
@@ -1540,7 +1742,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "normal"
+      "extraNodeData": {
+        "name": "normal"
+      }
     },
     {
       "flags": {
@@ -1551,7 +1755,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "peaceful"
+      "extraNodeData": {
+        "name": "peaceful"
+      }
     },
     {
       "flags": {
@@ -1564,7 +1770,9 @@
       "children": [
         277
       ],
-      "extraNodeData": "clear"
+      "extraNodeData": {
+        "name": "clear"
+      }
     },
     {
       "flags": {
@@ -1577,7 +1785,9 @@
       "children": [
         278
       ],
-      "extraNodeData": "give"
+      "extraNodeData": {
+        "name": "give"
+      }
     },
     {
       "flags": {
@@ -1593,7 +1803,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -1607,7 +1821,9 @@
       "children": [
         280
       ],
-      "extraNodeData": "align"
+      "extraNodeData": {
+        "name": "align"
+      }
     },
     {
       "flags": {
@@ -1620,7 +1836,9 @@
       "children": [
         281
       ],
-      "extraNodeData": "anchored"
+      "extraNodeData": {
+        "name": "anchored"
+      }
     },
     {
       "flags": {
@@ -1633,7 +1851,9 @@
       "children": [
         282
       ],
-      "extraNodeData": "as"
+      "extraNodeData": {
+        "name": "as"
+      }
     },
     {
       "flags": {
@@ -1646,7 +1866,9 @@
       "children": [
         283
       ],
-      "extraNodeData": "at"
+      "extraNodeData": {
+        "name": "at"
+      }
     },
     {
       "flags": {
@@ -1660,7 +1882,9 @@
         284,
         285
       ],
-      "extraNodeData": "facing"
+      "extraNodeData": {
+        "name": "facing"
+      }
     },
     {
       "flags": {
@@ -1678,7 +1902,9 @@
         290,
         291
       ],
-      "extraNodeData": "if"
+      "extraNodeData": {
+        "name": "if"
+      }
     },
     {
       "flags": {
@@ -1691,7 +1917,9 @@
       "children": [
         292
       ],
-      "extraNodeData": "in"
+      "extraNodeData": {
+        "name": "in"
+      }
     },
     {
       "flags": {
@@ -1705,7 +1933,9 @@
         293,
         294
       ],
-      "extraNodeData": "positioned"
+      "extraNodeData": {
+        "name": "positioned"
+      }
     },
     {
       "flags": {
@@ -1719,7 +1949,9 @@
         295,
         296
       ],
-      "extraNodeData": "rotated"
+      "extraNodeData": {
+        "name": "rotated"
+      }
     },
     {
       "flags": {
@@ -1731,7 +1963,9 @@
       },
       "children": [],
       "redirectNode": 0,
-      "extraNodeData": "run"
+      "extraNodeData": {
+        "name": "run"
+      }
     },
     {
       "flags": {
@@ -1745,7 +1979,9 @@
         297,
         298
       ],
-      "extraNodeData": "store"
+      "extraNodeData": {
+        "name": "store"
+      }
     },
     {
       "flags": {
@@ -1763,7 +1999,9 @@
         303,
         304
       ],
-      "extraNodeData": "unless"
+      "extraNodeData": {
+        "name": "unless"
+      }
     },
     {
       "flags": {
@@ -1776,7 +2014,9 @@
       "children": [
         305
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -1789,7 +2029,9 @@
       "children": [
         306
       ],
-      "extraNodeData": "query"
+      "extraNodeData": {
+        "name": "query"
+      }
     },
     {
       "flags": {
@@ -1802,7 +2044,9 @@
       "children": [
         307
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -1831,7 +2075,9 @@
       "children": [
         309
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -1844,7 +2090,9 @@
       "children": [
         310
       ],
-      "extraNodeData": "query"
+      "extraNodeData": {
+        "name": "query"
+      }
     },
     {
       "flags": {
@@ -1858,7 +2106,9 @@
         311,
         312
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -1872,7 +2122,7 @@
       "extraNodeData": {
         "name": "name",
         "parser": "minecraft:function",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -1886,7 +2136,9 @@
       "children": [
         313
       ],
-      "extraNodeData": "adventure"
+      "extraNodeData": {
+        "name": "adventure"
+      }
     },
     {
       "flags": {
@@ -1899,7 +2151,9 @@
       "children": [
         314
       ],
-      "extraNodeData": "creative"
+      "extraNodeData": {
+        "name": "creative"
+      }
     },
     {
       "flags": {
@@ -1912,7 +2166,9 @@
       "children": [
         315
       ],
-      "extraNodeData": "spectator"
+      "extraNodeData": {
+        "name": "spectator"
+      }
     },
     {
       "flags": {
@@ -1925,7 +2181,9 @@
       "children": [
         316
       ],
-      "extraNodeData": "survival"
+      "extraNodeData": {
+        "name": "survival"
+      }
     },
     {
       "flags": {
@@ -1938,7 +2196,9 @@
       "children": [
         317
       ],
-      "extraNodeData": "announceAdvancements"
+      "extraNodeData": {
+        "name": "announceAdvancements"
+      }
     },
     {
       "flags": {
@@ -1951,7 +2211,9 @@
       "children": [
         318
       ],
-      "extraNodeData": "commandBlockOutput"
+      "extraNodeData": {
+        "name": "commandBlockOutput"
+      }
     },
     {
       "flags": {
@@ -1964,7 +2226,9 @@
       "children": [
         319
       ],
-      "extraNodeData": "disableElytraMovementCheck"
+      "extraNodeData": {
+        "name": "disableElytraMovementCheck"
+      }
     },
     {
       "flags": {
@@ -1977,7 +2241,9 @@
       "children": [
         320
       ],
-      "extraNodeData": "disableRaids"
+      "extraNodeData": {
+        "name": "disableRaids"
+      }
     },
     {
       "flags": {
@@ -1990,7 +2256,9 @@
       "children": [
         321
       ],
-      "extraNodeData": "doDaylightCycle"
+      "extraNodeData": {
+        "name": "doDaylightCycle"
+      }
     },
     {
       "flags": {
@@ -2003,7 +2271,9 @@
       "children": [
         322
       ],
-      "extraNodeData": "doEntityDrops"
+      "extraNodeData": {
+        "name": "doEntityDrops"
+      }
     },
     {
       "flags": {
@@ -2016,7 +2286,9 @@
       "children": [
         323
       ],
-      "extraNodeData": "doFireTick"
+      "extraNodeData": {
+        "name": "doFireTick"
+      }
     },
     {
       "flags": {
@@ -2029,7 +2301,9 @@
       "children": [
         324
       ],
-      "extraNodeData": "doImmediateRespawn"
+      "extraNodeData": {
+        "name": "doImmediateRespawn"
+      }
     },
     {
       "flags": {
@@ -2042,7 +2316,9 @@
       "children": [
         325
       ],
-      "extraNodeData": "doInsomnia"
+      "extraNodeData": {
+        "name": "doInsomnia"
+      }
     },
     {
       "flags": {
@@ -2055,7 +2331,9 @@
       "children": [
         326
       ],
-      "extraNodeData": "doLimitedCrafting"
+      "extraNodeData": {
+        "name": "doLimitedCrafting"
+      }
     },
     {
       "flags": {
@@ -2068,7 +2346,9 @@
       "children": [
         327
       ],
-      "extraNodeData": "doMobLoot"
+      "extraNodeData": {
+        "name": "doMobLoot"
+      }
     },
     {
       "flags": {
@@ -2081,7 +2361,9 @@
       "children": [
         328
       ],
-      "extraNodeData": "doMobSpawning"
+      "extraNodeData": {
+        "name": "doMobSpawning"
+      }
     },
     {
       "flags": {
@@ -2094,7 +2376,9 @@
       "children": [
         329
       ],
-      "extraNodeData": "doPatrolSpawning"
+      "extraNodeData": {
+        "name": "doPatrolSpawning"
+      }
     },
     {
       "flags": {
@@ -2107,7 +2391,9 @@
       "children": [
         330
       ],
-      "extraNodeData": "doTileDrops"
+      "extraNodeData": {
+        "name": "doTileDrops"
+      }
     },
     {
       "flags": {
@@ -2120,7 +2406,9 @@
       "children": [
         331
       ],
-      "extraNodeData": "doTraderSpawning"
+      "extraNodeData": {
+        "name": "doTraderSpawning"
+      }
     },
     {
       "flags": {
@@ -2133,7 +2421,9 @@
       "children": [
         332
       ],
-      "extraNodeData": "doWeatherCycle"
+      "extraNodeData": {
+        "name": "doWeatherCycle"
+      }
     },
     {
       "flags": {
@@ -2146,7 +2436,9 @@
       "children": [
         333
       ],
-      "extraNodeData": "drowningDamage"
+      "extraNodeData": {
+        "name": "drowningDamage"
+      }
     },
     {
       "flags": {
@@ -2159,7 +2451,9 @@
       "children": [
         334
       ],
-      "extraNodeData": "fallDamage"
+      "extraNodeData": {
+        "name": "fallDamage"
+      }
     },
     {
       "flags": {
@@ -2172,7 +2466,9 @@
       "children": [
         335
       ],
-      "extraNodeData": "fireDamage"
+      "extraNodeData": {
+        "name": "fireDamage"
+      }
     },
     {
       "flags": {
@@ -2185,7 +2481,9 @@
       "children": [
         336
       ],
-      "extraNodeData": "forgiveDeadPlayers"
+      "extraNodeData": {
+        "name": "forgiveDeadPlayers"
+      }
     },
     {
       "flags": {
@@ -2198,7 +2496,9 @@
       "children": [
         337
       ],
-      "extraNodeData": "keepInventory"
+      "extraNodeData": {
+        "name": "keepInventory"
+      }
     },
     {
       "flags": {
@@ -2211,7 +2511,9 @@
       "children": [
         338
       ],
-      "extraNodeData": "logAdminCommands"
+      "extraNodeData": {
+        "name": "logAdminCommands"
+      }
     },
     {
       "flags": {
@@ -2224,7 +2526,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "maxCommandChainLength"
+      "extraNodeData": {
+        "name": "maxCommandChainLength"
+      }
     },
     {
       "flags": {
@@ -2237,7 +2541,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "maxEntityCramming"
+      "extraNodeData": {
+        "name": "maxEntityCramming"
+      }
     },
     {
       "flags": {
@@ -2250,7 +2556,9 @@
       "children": [
         340
       ],
-      "extraNodeData": "mobGriefing"
+      "extraNodeData": {
+        "name": "mobGriefing"
+      }
     },
     {
       "flags": {
@@ -2263,7 +2571,9 @@
       "children": [
         341
       ],
-      "extraNodeData": "naturalRegeneration"
+      "extraNodeData": {
+        "name": "naturalRegeneration"
+      }
     },
     {
       "flags": {
@@ -2276,7 +2586,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "randomTickSpeed"
+      "extraNodeData": {
+        "name": "randomTickSpeed"
+      }
     },
     {
       "flags": {
@@ -2289,7 +2601,9 @@
       "children": [
         342
       ],
-      "extraNodeData": "reducedDebugInfo"
+      "extraNodeData": {
+        "name": "reducedDebugInfo"
+      }
     },
     {
       "flags": {
@@ -2302,7 +2616,9 @@
       "children": [
         343
       ],
-      "extraNodeData": "sendCommandFeedback"
+      "extraNodeData": {
+        "name": "sendCommandFeedback"
+      }
     },
     {
       "flags": {
@@ -2315,7 +2631,9 @@
       "children": [
         344
       ],
-      "extraNodeData": "showDeathMessages"
+      "extraNodeData": {
+        "name": "showDeathMessages"
+      }
     },
     {
       "flags": {
@@ -2328,7 +2646,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "spawnRadius"
+      "extraNodeData": {
+        "name": "spawnRadius"
+      }
     },
     {
       "flags": {
@@ -2341,7 +2661,9 @@
       "children": [
         345
       ],
-      "extraNodeData": "spectatorsGenerateChunks"
+      "extraNodeData": {
+        "name": "spectatorsGenerateChunks"
+      }
     },
     {
       "flags": {
@@ -2354,7 +2676,9 @@
       "children": [
         346
       ],
-      "extraNodeData": "universalAnger"
+      "extraNodeData": {
+        "name": "universalAnger"
+      }
     },
     {
       "flags": {
@@ -2370,7 +2694,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -2385,7 +2713,7 @@
       "extraNodeData": {
         "name": "command",
         "parser": "brigadier:string",
-        "properties": 2
+        "properties": "GREEDY_PHRASE"
       }
     },
     {
@@ -2402,7 +2730,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -2417,7 +2749,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -2429,7 +2765,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "uuids"
+      "extraNodeData": {
+        "name": "uuids"
+      }
     },
     {
       "flags": {
@@ -2440,7 +2778,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "bastion_remnant"
+      "extraNodeData": {
+        "name": "bastion_remnant"
+      }
     },
     {
       "flags": {
@@ -2451,7 +2791,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "buried_treasure"
+      "extraNodeData": {
+        "name": "buried_treasure"
+      }
     },
     {
       "flags": {
@@ -2462,7 +2804,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "desert_pyramid"
+      "extraNodeData": {
+        "name": "desert_pyramid"
+      }
     },
     {
       "flags": {
@@ -2473,7 +2817,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "endcity"
+      "extraNodeData": {
+        "name": "endcity"
+      }
     },
     {
       "flags": {
@@ -2484,7 +2830,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "fortress"
+      "extraNodeData": {
+        "name": "fortress"
+      }
     },
     {
       "flags": {
@@ -2495,7 +2843,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "igloo"
+      "extraNodeData": {
+        "name": "igloo"
+      }
     },
     {
       "flags": {
@@ -2506,7 +2856,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "jungle_pyramid"
+      "extraNodeData": {
+        "name": "jungle_pyramid"
+      }
     },
     {
       "flags": {
@@ -2517,7 +2869,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "mansion"
+      "extraNodeData": {
+        "name": "mansion"
+      }
     },
     {
       "flags": {
@@ -2528,7 +2882,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "mineshaft"
+      "extraNodeData": {
+        "name": "mineshaft"
+      }
     },
     {
       "flags": {
@@ -2539,7 +2895,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "monument"
+      "extraNodeData": {
+        "name": "monument"
+      }
     },
     {
       "flags": {
@@ -2550,7 +2908,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "nether_fossil"
+      "extraNodeData": {
+        "name": "nether_fossil"
+      }
     },
     {
       "flags": {
@@ -2561,7 +2921,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "ocean_ruin"
+      "extraNodeData": {
+        "name": "ocean_ruin"
+      }
     },
     {
       "flags": {
@@ -2572,7 +2934,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "pillager_outpost"
+      "extraNodeData": {
+        "name": "pillager_outpost"
+      }
     },
     {
       "flags": {
@@ -2583,7 +2947,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "ruined_portal"
+      "extraNodeData": {
+        "name": "ruined_portal"
+      }
     },
     {
       "flags": {
@@ -2594,7 +2960,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "shipwreck"
+      "extraNodeData": {
+        "name": "shipwreck"
+      }
     },
     {
       "flags": {
@@ -2605,7 +2973,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "stronghold"
+      "extraNodeData": {
+        "name": "stronghold"
+      }
     },
     {
       "flags": {
@@ -2616,7 +2986,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "swamp_hut"
+      "extraNodeData": {
+        "name": "swamp_hut"
+      }
     },
     {
       "flags": {
@@ -2627,7 +2999,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "village"
+      "extraNodeData": {
+        "name": "village"
+      }
     },
     {
       "flags": {
@@ -2641,7 +3015,7 @@
       "extraNodeData": {
         "name": "biome",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_biomes"
+        "suggestionType": "minecraft:available_biomes"
       }
     },
     {
@@ -2655,7 +3029,9 @@
       "children": [
         349
       ],
-      "extraNodeData": "give"
+      "extraNodeData": {
+        "name": "give"
+      }
     },
     {
       "flags": {
@@ -2668,7 +3044,9 @@
       "children": [
         350
       ],
-      "extraNodeData": "insert"
+      "extraNodeData": {
+        "name": "insert"
+      }
     },
     {
       "flags": {
@@ -2682,7 +3060,9 @@
         351,
         352
       ],
-      "extraNodeData": "replace"
+      "extraNodeData": {
+        "name": "replace"
+      }
     },
     {
       "flags": {
@@ -2695,7 +3075,9 @@
       "children": [
         353
       ],
-      "extraNodeData": "spawn"
+      "extraNodeData": {
+        "name": "spawn"
+      }
     },
     {
       "flags": {
@@ -2709,7 +3091,7 @@
       "extraNodeData": {
         "name": "action",
         "parser": "brigadier:string",
-        "properties": 2
+        "properties": "GREEDY_PHRASE"
       }
     },
     {
@@ -2726,7 +3108,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -2741,7 +3127,7 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:game_profile",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -2756,7 +3142,7 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:game_profile",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -2771,8 +3157,8 @@
       "extraNodeData": {
         "name": "target",
         "parser": "brigadier:string",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": "SINGLE_WORD",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -2814,7 +3200,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -2828,7 +3214,9 @@
       "children": [
         366
       ],
-      "extraNodeData": "give"
+      "extraNodeData": {
+        "name": "give"
+      }
     },
     {
       "flags": {
@@ -2841,7 +3229,9 @@
       "children": [
         367
       ],
-      "extraNodeData": "take"
+      "extraNodeData": {
+        "name": "take"
+      }
     },
     {
       "flags": {
@@ -2854,7 +3244,9 @@
       "children": [
         368
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -2867,7 +3259,9 @@
       "children": [
         369
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -2878,7 +3272,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "flush"
+      "extraNodeData": {
+        "name": "flush"
+      }
     },
     {
       "flags": {
@@ -2905,7 +3301,9 @@
       "children": [
         370
       ],
-      "extraNodeData": "clear"
+      "extraNodeData": {
+        "name": "clear"
+      }
     },
     {
       "flags": {
@@ -2918,7 +3316,9 @@
       "children": [
         371
       ],
-      "extraNodeData": "function"
+      "extraNodeData": {
+        "name": "function"
+      }
     },
     {
       "flags": {
@@ -2935,7 +3335,9 @@
         374,
         375
       ],
-      "extraNodeData": "objectives"
+      "extraNodeData": {
+        "name": "objectives"
+      }
     },
     {
       "flags": {
@@ -2955,7 +3357,9 @@
         382,
         383
       ],
-      "extraNodeData": "players"
+      "extraNodeData": {
+        "name": "players"
+      }
     },
     {
       "flags": {
@@ -3025,7 +3429,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3042,7 +3450,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -3085,7 +3497,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3102,7 +3518,7 @@
       "extraNodeData": {
         "name": "entity",
         "parser": "minecraft:entity_summon",
-        "suggests": "minecraft:summonable_entities"
+        "suggestionType": "minecraft:summonable_entities"
       }
     },
     {
@@ -3121,7 +3537,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3135,7 +3555,9 @@
       "children": [
         403
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -3148,7 +3570,9 @@
       "children": [
         404
       ],
-      "extraNodeData": "empty"
+      "extraNodeData": {
+        "name": "empty"
+      }
     },
     {
       "flags": {
@@ -3161,7 +3585,9 @@
       "children": [
         405
       ],
-      "extraNodeData": "join"
+      "extraNodeData": {
+        "name": "join"
+      }
     },
     {
       "flags": {
@@ -3174,7 +3600,9 @@
       "children": [
         406
       ],
-      "extraNodeData": "leave"
+      "extraNodeData": {
+        "name": "leave"
+      }
     },
     {
       "flags": {
@@ -3187,7 +3615,9 @@
       "children": [
         407
       ],
-      "extraNodeData": "list"
+      "extraNodeData": {
+        "name": "list"
+      }
     },
     {
       "flags": {
@@ -3200,7 +3630,9 @@
       "children": [
         408
       ],
-      "extraNodeData": "modify"
+      "extraNodeData": {
+        "name": "modify"
+      }
     },
     {
       "flags": {
@@ -3213,7 +3645,9 @@
       "children": [
         409
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -3241,7 +3675,11 @@
       "extraNodeData": {
         "name": "destination",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -3273,7 +3711,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3290,7 +3732,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3304,7 +3750,9 @@
       "children": [
         413
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -3319,7 +3767,9 @@
         415,
         416
       ],
-      "extraNodeData": "query"
+      "extraNodeData": {
+        "name": "query"
+      }
     },
     {
       "flags": {
@@ -3336,7 +3786,9 @@
         419,
         420
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -3357,7 +3809,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3375,7 +3831,7 @@
       "extraNodeData": {
         "name": "objective",
         "parser": "minecraft:objective",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3389,7 +3845,9 @@
       "children": [
         429
       ],
-      "extraNodeData": "clear"
+      "extraNodeData": {
+        "name": "clear"
+      }
     },
     {
       "flags": {
@@ -3402,7 +3860,9 @@
       "children": [
         429
       ],
-      "extraNodeData": "rain"
+      "extraNodeData": {
+        "name": "rain"
+      }
     },
     {
       "flags": {
@@ -3415,7 +3875,9 @@
       "children": [
         429
       ],
-      "extraNodeData": "thunder"
+      "extraNodeData": {
+        "name": "thunder"
+      }
     },
     {
       "flags": {
@@ -3428,7 +3890,9 @@
       "children": [
         430
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -3439,7 +3903,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "off"
+      "extraNodeData": {
+        "name": "off"
+      }
     },
     {
       "flags": {
@@ -3450,7 +3916,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "on"
+      "extraNodeData": {
+        "name": "on"
+      }
     },
     {
       "flags": {
@@ -3463,7 +3931,9 @@
       "children": [
         431
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -3476,7 +3946,9 @@
       "children": [
         432
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -3489,7 +3961,9 @@
       "children": [
         433
       ],
-      "extraNodeData": "center"
+      "extraNodeData": {
+        "name": "center"
+      }
     },
     {
       "flags": {
@@ -3503,7 +3977,9 @@
         434,
         435
       ],
-      "extraNodeData": "damage"
+      "extraNodeData": {
+        "name": "damage"
+      }
     },
     {
       "flags": {
@@ -3514,7 +3990,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -3527,7 +4005,9 @@
       "children": [
         432
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -3541,7 +4021,9 @@
         436,
         437
       ],
-      "extraNodeData": "warning"
+      "extraNodeData": {
+        "name": "warning"
+      }
     },
     {
       "flags": {
@@ -3561,7 +4043,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3582,7 +4068,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3601,7 +4091,7 @@
       "extraNodeData": {
         "name": "attribute",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3665,7 +4155,7 @@
       "extraNodeData": {
         "name": "id",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3680,7 +4170,7 @@
       "extraNodeData": {
         "name": "id",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3703,7 +4193,7 @@
       "extraNodeData": {
         "name": "id",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3749,7 +4239,9 @@
       "children": [
         463
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -3762,7 +4254,9 @@
       "children": [
         464
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -3775,7 +4269,9 @@
       "children": [
         465
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -3788,7 +4284,9 @@
       "children": [
         466
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -3801,7 +4299,9 @@
       "children": [
         467
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -3814,7 +4314,9 @@
       "children": [
         468
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -3827,7 +4329,9 @@
       "children": [
         469
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -3840,7 +4344,9 @@
       "children": [
         470
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -3853,7 +4359,9 @@
       "children": [
         471
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -3866,7 +4374,9 @@
       "children": [
         472
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -3879,7 +4389,9 @@
       "children": [
         473
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -3892,7 +4404,9 @@
       "children": [
         474
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -3906,8 +4420,8 @@
       "extraNodeData": {
         "name": "name",
         "parser": "brigadier:string",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": "QUOTABLE_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3927,8 +4441,8 @@
       "extraNodeData": {
         "name": "name",
         "parser": "brigadier:string",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": "QUOTABLE_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -3940,7 +4454,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "available"
+      "extraNodeData": {
+        "name": "available"
+      }
     },
     {
       "flags": {
@@ -3951,7 +4467,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "enabled"
+      "extraNodeData": {
+        "name": "enabled"
+      }
     },
     {
       "flags": {
@@ -3967,7 +4485,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -3984,7 +4506,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4046,7 +4572,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4062,7 +4592,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4076,7 +4610,9 @@
       "children": [
         482
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -4104,7 +4640,9 @@
       "children": [
         483
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -4117,7 +4655,9 @@
       "children": [
         484
       ],
-      "extraNodeData": "blocks"
+      "extraNodeData": {
+        "name": "blocks"
+      }
     },
     {
       "flags": {
@@ -4132,7 +4672,9 @@
         486,
         487
       ],
-      "extraNodeData": "data"
+      "extraNodeData": {
+        "name": "data"
+      }
     },
     {
       "flags": {
@@ -4145,7 +4687,9 @@
       "children": [
         488
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -4158,7 +4702,9 @@
       "children": [
         489
       ],
-      "extraNodeData": "predicate"
+      "extraNodeData": {
+        "name": "predicate"
+      }
     },
     {
       "flags": {
@@ -4171,7 +4717,9 @@
       "children": [
         490
       ],
-      "extraNodeData": "score"
+      "extraNodeData": {
+        "name": "score"
+      }
     },
     {
       "flags": {
@@ -4199,7 +4747,9 @@
       "children": [
         491
       ],
-      "extraNodeData": "as"
+      "extraNodeData": {
+        "name": "as"
+      }
     },
     {
       "flags": {
@@ -4227,7 +4777,9 @@
       "children": [
         492
       ],
-      "extraNodeData": "as"
+      "extraNodeData": {
+        "name": "as"
+      }
     },
     {
       "flags": {
@@ -4259,7 +4811,9 @@
         496,
         497
       ],
-      "extraNodeData": "result"
+      "extraNodeData": {
+        "name": "result"
+      }
     },
     {
       "flags": {
@@ -4276,7 +4830,9 @@
         501,
         502
       ],
-      "extraNodeData": "success"
+      "extraNodeData": {
+        "name": "success"
+      }
     },
     {
       "flags": {
@@ -4289,7 +4845,9 @@
       "children": [
         503
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -4302,7 +4860,9 @@
       "children": [
         504
       ],
-      "extraNodeData": "blocks"
+      "extraNodeData": {
+        "name": "blocks"
+      }
     },
     {
       "flags": {
@@ -4317,7 +4877,9 @@
         506,
         507
       ],
-      "extraNodeData": "data"
+      "extraNodeData": {
+        "name": "data"
+      }
     },
     {
       "flags": {
@@ -4330,7 +4892,9 @@
       "children": [
         508
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -4343,7 +4907,9 @@
       "children": [
         509
       ],
-      "extraNodeData": "predicate"
+      "extraNodeData": {
+        "name": "predicate"
+      }
     },
     {
       "flags": {
@@ -4356,7 +4922,9 @@
       "children": [
         510
       ],
-      "extraNodeData": "score"
+      "extraNodeData": {
+        "name": "score"
+      }
     },
     {
       "flags": {
@@ -4372,7 +4940,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4390,7 +4962,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 3
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -4407,7 +4983,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4465,7 +5045,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "all"
+      "extraNodeData": {
+        "name": "all"
+      }
     },
     {
       "flags": {
@@ -4495,7 +5077,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4510,7 +5096,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4525,7 +5115,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -4540,7 +5134,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -5017,7 +5615,11 @@
       "extraNodeData": {
         "name": "players",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -5050,7 +5652,9 @@
       "children": [
         527
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -5063,7 +5667,9 @@
       "children": [
         528
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -5125,7 +5731,9 @@
       "children": [
         534
       ],
-      "extraNodeData": "ambient"
+      "extraNodeData": {
+        "name": "ambient"
+      }
     },
     {
       "flags": {
@@ -5138,7 +5746,9 @@
       "children": [
         535
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -5151,7 +5761,9 @@
       "children": [
         536
       ],
-      "extraNodeData": "hostile"
+      "extraNodeData": {
+        "name": "hostile"
+      }
     },
     {
       "flags": {
@@ -5164,7 +5776,9 @@
       "children": [
         537
       ],
-      "extraNodeData": "master"
+      "extraNodeData": {
+        "name": "master"
+      }
     },
     {
       "flags": {
@@ -5177,7 +5791,9 @@
       "children": [
         538
       ],
-      "extraNodeData": "music"
+      "extraNodeData": {
+        "name": "music"
+      }
     },
     {
       "flags": {
@@ -5190,7 +5806,9 @@
       "children": [
         539
       ],
-      "extraNodeData": "neutral"
+      "extraNodeData": {
+        "name": "neutral"
+      }
     },
     {
       "flags": {
@@ -5203,7 +5821,9 @@
       "children": [
         540
       ],
-      "extraNodeData": "player"
+      "extraNodeData": {
+        "name": "player"
+      }
     },
     {
       "flags": {
@@ -5216,7 +5836,9 @@
       "children": [
         541
       ],
-      "extraNodeData": "record"
+      "extraNodeData": {
+        "name": "record"
+      }
     },
     {
       "flags": {
@@ -5229,7 +5851,9 @@
       "children": [
         542
       ],
-      "extraNodeData": "voice"
+      "extraNodeData": {
+        "name": "voice"
+      }
     },
     {
       "flags": {
@@ -5242,7 +5866,9 @@
       "children": [
         543
       ],
-      "extraNodeData": "weather"
+      "extraNodeData": {
+        "name": "weather"
+      }
     },
     {
       "flags": {
@@ -5259,7 +5885,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -5277,7 +5907,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -5310,7 +5944,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -5325,8 +5963,8 @@
       "extraNodeData": {
         "name": "function",
         "parser": "brigadier:string",
-        "properties": 2,
-        "suggests": "minecraft:ask_server"
+        "properties": "GREEDY_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -5343,7 +5981,7 @@
       "extraNodeData": {
         "name": "function",
         "parser": "minecraft:function",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -5357,7 +5995,9 @@
       "children": [
         550
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -5370,7 +6010,9 @@
       "children": [
         551
       ],
-      "extraNodeData": "modify"
+      "extraNodeData": {
+        "name": "modify"
+      }
     },
     {
       "flags": {
@@ -5383,7 +6025,9 @@
       "children": [
         552
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -5396,7 +6040,9 @@
       "children": [
         553
       ],
-      "extraNodeData": "setdisplay"
+      "extraNodeData": {
+        "name": "setdisplay"
+      }
     },
     {
       "flags": {
@@ -5409,7 +6055,9 @@
       "children": [
         554
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -5422,7 +6070,9 @@
       "children": [
         555
       ],
-      "extraNodeData": "enable"
+      "extraNodeData": {
+        "name": "enable"
+      }
     },
     {
       "flags": {
@@ -5435,7 +6085,9 @@
       "children": [
         556
       ],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -5448,7 +6100,9 @@
       "children": [
         557
       ],
-      "extraNodeData": "list"
+      "extraNodeData": {
+        "name": "list"
+      }
     },
     {
       "flags": {
@@ -5461,7 +6115,9 @@
       "children": [
         558
       ],
-      "extraNodeData": "operation"
+      "extraNodeData": {
+        "name": "operation"
+      }
     },
     {
       "flags": {
@@ -5474,7 +6130,9 @@
       "children": [
         559
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -5487,7 +6145,9 @@
       "children": [
         560
       ],
-      "extraNodeData": "reset"
+      "extraNodeData": {
+        "name": "reset"
+      }
     },
     {
       "flags": {
@@ -5500,7 +6160,9 @@
       "children": [
         561
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -5562,7 +6224,11 @@
       "extraNodeData": {
         "name": "player",
         "parser": "minecraft:entity",
-        "properties": 3
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -5600,7 +6266,9 @@
       "children": [
         567
       ],
-      "extraNodeData": "*"
+      "extraNodeData": {
+        "name": "*"
+      }
     },
     {
       "flags": {
@@ -5613,7 +6281,9 @@
       "children": [
         568
       ],
-      "extraNodeData": "ambient"
+      "extraNodeData": {
+        "name": "ambient"
+      }
     },
     {
       "flags": {
@@ -5626,7 +6296,9 @@
       "children": [
         569
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -5639,7 +6311,9 @@
       "children": [
         570
       ],
-      "extraNodeData": "hostile"
+      "extraNodeData": {
+        "name": "hostile"
+      }
     },
     {
       "flags": {
@@ -5652,7 +6326,9 @@
       "children": [
         571
       ],
-      "extraNodeData": "master"
+      "extraNodeData": {
+        "name": "master"
+      }
     },
     {
       "flags": {
@@ -5665,7 +6341,9 @@
       "children": [
         572
       ],
-      "extraNodeData": "music"
+      "extraNodeData": {
+        "name": "music"
+      }
     },
     {
       "flags": {
@@ -5678,7 +6356,9 @@
       "children": [
         573
       ],
-      "extraNodeData": "neutral"
+      "extraNodeData": {
+        "name": "neutral"
+      }
     },
     {
       "flags": {
@@ -5691,7 +6371,9 @@
       "children": [
         574
       ],
-      "extraNodeData": "player"
+      "extraNodeData": {
+        "name": "player"
+      }
     },
     {
       "flags": {
@@ -5704,7 +6386,9 @@
       "children": [
         575
       ],
-      "extraNodeData": "record"
+      "extraNodeData": {
+        "name": "record"
+      }
     },
     {
       "flags": {
@@ -5717,7 +6401,9 @@
       "children": [
         576
       ],
-      "extraNodeData": "voice"
+      "extraNodeData": {
+        "name": "voice"
+      }
     },
     {
       "flags": {
@@ -5730,7 +6416,9 @@
       "children": [
         577
       ],
-      "extraNodeData": "weather"
+      "extraNodeData": {
+        "name": "weather"
+      }
     },
     {
       "flags": {
@@ -5759,7 +6447,9 @@
       "children": [
         579
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -5772,7 +6462,9 @@
       "children": [
         580
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -5788,7 +6480,7 @@
       "extraNodeData": {
         "name": "team",
         "parser": "brigadier:string",
-        "properties": 0
+        "properties": "SINGLE_WORD"
       }
     },
     {
@@ -5833,8 +6525,11 @@
       "extraNodeData": {
         "name": "members",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -5901,7 +6596,11 @@
       "extraNodeData": {
         "name": "destination",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -5958,7 +6657,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "day"
+      "extraNodeData": {
+        "name": "day"
+      }
     },
     {
       "flags": {
@@ -5969,7 +6670,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "daytime"
+      "extraNodeData": {
+        "name": "daytime"
+      }
     },
     {
       "flags": {
@@ -5980,7 +6683,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "gametime"
+      "extraNodeData": {
+        "name": "gametime"
+      }
     },
     {
       "flags": {
@@ -5991,7 +6696,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "midnight"
+      "extraNodeData": {
+        "name": "midnight"
+      }
     },
     {
       "flags": {
@@ -6002,7 +6709,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "night"
+      "extraNodeData": {
+        "name": "night"
+      }
     },
     {
       "flags": {
@@ -6013,7 +6722,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "noon"
+      "extraNodeData": {
+        "name": "noon"
+      }
     },
     {
       "flags": {
@@ -6040,7 +6751,9 @@
       "children": [
         594
       ],
-      "extraNodeData": "actionbar"
+      "extraNodeData": {
+        "name": "actionbar"
+      }
     },
     {
       "flags": {
@@ -6051,7 +6764,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "clear"
+      "extraNodeData": {
+        "name": "clear"
+      }
     },
     {
       "flags": {
@@ -6062,7 +6777,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "reset"
+      "extraNodeData": {
+        "name": "reset"
+      }
     },
     {
       "flags": {
@@ -6075,7 +6792,9 @@
       "children": [
         595
       ],
-      "extraNodeData": "subtitle"
+      "extraNodeData": {
+        "name": "subtitle"
+      }
     },
     {
       "flags": {
@@ -6088,7 +6807,9 @@
       "children": [
         596
       ],
-      "extraNodeData": "times"
+      "extraNodeData": {
+        "name": "times"
+      }
     },
     {
       "flags": {
@@ -6101,7 +6822,9 @@
       "children": [
         597
       ],
-      "extraNodeData": "title"
+      "extraNodeData": {
+        "name": "title"
+      }
     },
     {
       "flags": {
@@ -6114,7 +6837,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -6127,7 +6852,9 @@
       "children": [
         339
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -6164,7 +6891,7 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:game_profile",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6179,7 +6906,7 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:game_profile",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6232,7 +6959,9 @@
       "children": [
         599
       ],
-      "extraNodeData": "amount"
+      "extraNodeData": {
+        "name": "amount"
+      }
     },
     {
       "flags": {
@@ -6245,7 +6974,9 @@
       "children": [
         600
       ],
-      "extraNodeData": "buffer"
+      "extraNodeData": {
+        "name": "buffer"
+      }
     },
     {
       "flags": {
@@ -6258,7 +6989,9 @@
       "children": [
         601
       ],
-      "extraNodeData": "distance"
+      "extraNodeData": {
+        "name": "distance"
+      }
     },
     {
       "flags": {
@@ -6271,7 +7004,9 @@
       "children": [
         598
       ],
-      "extraNodeData": "time"
+      "extraNodeData": {
+        "name": "time"
+      }
     },
     {
       "flags": {
@@ -6282,7 +7017,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "everything"
+      "extraNodeData": {
+        "name": "everything"
+      }
     },
     {
       "flags": {
@@ -6295,7 +7032,9 @@
       "children": [
         602
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -6308,7 +7047,9 @@
       "children": [
         603
       ],
-      "extraNodeData": "only"
+      "extraNodeData": {
+        "name": "only"
+      }
     },
     {
       "flags": {
@@ -6321,7 +7062,9 @@
       "children": [
         604
       ],
-      "extraNodeData": "through"
+      "extraNodeData": {
+        "name": "through"
+      }
     },
     {
       "flags": {
@@ -6334,7 +7077,9 @@
       "children": [
         605
       ],
-      "extraNodeData": "until"
+      "extraNodeData": {
+        "name": "until"
+      }
     },
     {
       "flags": {
@@ -6347,7 +7092,9 @@
       "children": [
         606
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -6360,7 +7107,9 @@
       "children": [
         607
       ],
-      "extraNodeData": "only"
+      "extraNodeData": {
+        "name": "only"
+      }
     },
     {
       "flags": {
@@ -6373,7 +7122,9 @@
       "children": [
         608
       ],
-      "extraNodeData": "through"
+      "extraNodeData": {
+        "name": "through"
+      }
     },
     {
       "flags": {
@@ -6386,7 +7137,9 @@
       "children": [
         609
       ],
-      "extraNodeData": "until"
+      "extraNodeData": {
+        "name": "until"
+      }
     },
     {
       "flags": {
@@ -6400,7 +7153,9 @@
         448,
         610
       ],
-      "extraNodeData": "base"
+      "extraNodeData": {
+        "name": "base"
+      }
     },
     {
       "flags": {
@@ -6413,7 +7168,9 @@
       "children": [
         611
       ],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -6428,7 +7185,9 @@
         613,
         614
       ],
-      "extraNodeData": "modifier"
+      "extraNodeData": {
+        "name": "modifier"
+      }
     },
     {
       "flags": {
@@ -6453,7 +7212,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "max"
+      "extraNodeData": {
+        "name": "max"
+      }
     },
     {
       "flags": {
@@ -6464,7 +7225,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -6475,7 +7238,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "visible"
+      "extraNodeData": {
+        "name": "visible"
+      }
     },
     {
       "flags": {
@@ -6494,7 +7259,9 @@
         620,
         621
       ],
-      "extraNodeData": "color"
+      "extraNodeData": {
+        "name": "color"
+      }
     },
     {
       "flags": {
@@ -6507,7 +7274,9 @@
       "children": [
         622
       ],
-      "extraNodeData": "max"
+      "extraNodeData": {
+        "name": "max"
+      }
     },
     {
       "flags": {
@@ -6520,7 +7289,9 @@
       "children": [
         623
       ],
-      "extraNodeData": "name"
+      "extraNodeData": {
+        "name": "name"
+      }
     },
     {
       "flags": {
@@ -6533,7 +7304,9 @@
       "children": [
         624
       ],
-      "extraNodeData": "players"
+      "extraNodeData": {
+        "name": "players"
+      }
     },
     {
       "flags": {
@@ -6550,7 +7323,9 @@
         628,
         629
       ],
-      "extraNodeData": "style"
+      "extraNodeData": {
+        "name": "style"
+      }
     },
     {
       "flags": {
@@ -6563,7 +7338,9 @@
       "children": [
         630
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -6576,7 +7353,9 @@
       "children": [
         631
       ],
-      "extraNodeData": "visible"
+      "extraNodeData": {
+        "name": "visible"
+      }
     },
     {
       "flags": {
@@ -6648,7 +7427,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -6665,7 +7448,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6698,7 +7481,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -6715,7 +7502,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6748,7 +7535,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -6765,7 +7556,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6798,7 +7589,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -6815,7 +7610,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -6829,7 +7624,9 @@
       "children": [
         647
       ],
-      "extraNodeData": "after"
+      "extraNodeData": {
+        "name": "after"
+      }
     },
     {
       "flags": {
@@ -6842,7 +7639,9 @@
       "children": [
         648
       ],
-      "extraNodeData": "before"
+      "extraNodeData": {
+        "name": "before"
+      }
     },
     {
       "flags": {
@@ -6853,7 +7652,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "first"
+      "extraNodeData": {
+        "name": "first"
+      }
     },
     {
       "flags": {
@@ -6864,7 +7665,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "last"
+      "extraNodeData": {
+        "name": "last"
+      }
     },
     {
       "flags": {
@@ -6932,7 +7735,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -6978,7 +7785,9 @@
       "children": [
         653
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -6991,7 +7800,9 @@
       "children": [
         654
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -7004,7 +7815,9 @@
       "children": [
         655
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -7019,7 +7832,11 @@
       "extraNodeData": {
         "name": "entities",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7035,7 +7852,7 @@
       "extraNodeData": {
         "name": "predicate",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -7052,8 +7869,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -7069,7 +7889,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7085,7 +7909,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7099,7 +7927,9 @@
       "children": [
         657
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -7112,7 +7942,9 @@
       "children": [
         658
       ],
-      "extraNodeData": "bossbar"
+      "extraNodeData": {
+        "name": "bossbar"
+      }
     },
     {
       "flags": {
@@ -7125,7 +7957,9 @@
       "children": [
         659
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -7138,7 +7972,9 @@
       "children": [
         660
       ],
-      "extraNodeData": "score"
+      "extraNodeData": {
+        "name": "score"
+      }
     },
     {
       "flags": {
@@ -7151,7 +7987,9 @@
       "children": [
         661
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -7164,7 +8002,9 @@
       "children": [
         662
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -7177,7 +8017,9 @@
       "children": [
         663
       ],
-      "extraNodeData": "bossbar"
+      "extraNodeData": {
+        "name": "bossbar"
+      }
     },
     {
       "flags": {
@@ -7190,7 +8032,9 @@
       "children": [
         664
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -7203,7 +8047,9 @@
       "children": [
         665
       ],
-      "extraNodeData": "score"
+      "extraNodeData": {
+        "name": "score"
+      }
     },
     {
       "flags": {
@@ -7216,7 +8062,9 @@
       "children": [
         666
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -7261,7 +8109,9 @@
       "children": [
         669
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -7274,7 +8124,9 @@
       "children": [
         670
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -7287,7 +8139,9 @@
       "children": [
         671
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -7302,7 +8156,11 @@
       "extraNodeData": {
         "name": "entities",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7318,7 +8176,7 @@
       "extraNodeData": {
         "name": "predicate",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -7335,8 +8193,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -7372,7 +8233,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "levels"
+      "extraNodeData": {
+        "name": "levels"
+      }
     },
     {
       "flags": {
@@ -7383,7 +8246,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "points"
+      "extraNodeData": {
+        "name": "points"
+      }
     },
     {
       "flags": {
@@ -7491,7 +8356,9 @@
       "children": [
         676
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -7504,7 +8371,9 @@
       "children": [
         677
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -7517,7 +8386,9 @@
       "children": [
         678
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -7530,7 +8401,9 @@
       "children": [
         679
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -7543,7 +8416,9 @@
       "children": [
         680
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -7556,7 +8431,9 @@
       "children": [
         681
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -7569,7 +8446,9 @@
       "children": [
         682
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -7582,7 +8461,9 @@
       "children": [
         683
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -7614,7 +8495,11 @@
       "extraNodeData": {
         "name": "entities",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7628,7 +8513,9 @@
       "children": [
         686
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -7641,7 +8528,9 @@
       "children": [
         687
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -7654,7 +8543,9 @@
       "children": [
         688
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -7667,7 +8558,9 @@
       "children": [
         689
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -7699,7 +8592,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7716,7 +8613,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7733,7 +8634,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7750,7 +8655,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7767,7 +8676,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7784,7 +8697,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7801,7 +8718,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7818,7 +8739,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7835,7 +8760,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7852,7 +8781,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -7864,21 +8797,8 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "*"
-    },
-    {
-      "flags": {
-        "unused": 0,
-        "has_custom_suggestions": 1,
-        "has_redirect_node": 0,
-        "has_command": 1,
-        "command_node_type": 2
-      },
-      "children": [],
       "extraNodeData": {
-        "name": "recipe",
-        "parser": "minecraft:resource_location",
-        "suggests": "minecraft:all_recipes"
+        "name": "*"
       }
     },
     {
@@ -7893,7 +8813,22 @@
       "extraNodeData": {
         "name": "recipe",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:all_recipes"
+        "suggestionType": "minecraft:all_recipes"
+      }
+    },
+    {
+      "flags": {
+        "unused": 0,
+        "has_custom_suggestions": 1,
+        "has_redirect_node": 0,
+        "has_command": 1,
+        "command_node_type": 2
+      },
+      "children": [],
+      "extraNodeData": {
+        "name": "recipe",
+        "parser": "minecraft:resource_location",
+        "suggestionType": "minecraft:all_recipes"
       }
     },
     {
@@ -7959,7 +8894,7 @@
       "extraNodeData": {
         "name": "objective",
         "parser": "brigadier:string",
-        "properties": 0
+        "properties": "SINGLE_WORD"
       }
     },
     {
@@ -8023,8 +8958,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8041,8 +8979,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8059,8 +9000,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8075,8 +9019,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8093,8 +9040,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8111,8 +9061,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8129,8 +9082,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8147,8 +9103,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8160,7 +9119,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "destroy"
+      "extraNodeData": {
+        "name": "destroy"
+      }
     },
     {
       "flags": {
@@ -8171,7 +9132,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "keep"
+      "extraNodeData": {
+        "name": "keep"
+      }
     },
     {
       "flags": {
@@ -8182,7 +9145,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "replace"
+      "extraNodeData": {
+        "name": "replace"
+      }
     },
     {
       "flags": {
@@ -8235,7 +9200,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8250,7 +9215,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8265,7 +9230,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8280,7 +9245,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8295,7 +9260,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8310,7 +9275,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8325,7 +9290,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8340,7 +9305,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8355,7 +9320,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8370,7 +9335,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8385,7 +9350,7 @@
       "extraNodeData": {
         "name": "sound",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:available_sounds"
+        "suggestionType": "minecraft:available_sounds"
       }
     },
     {
@@ -8414,7 +9379,7 @@
       "extraNodeData": {
         "name": "name",
         "parser": "brigadier:string",
-        "properties": 0
+        "properties": "SINGLE_WORD"
       }
     },
     {
@@ -8429,8 +9394,8 @@
       "extraNodeData": {
         "name": "name",
         "parser": "brigadier:string",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": "SINGLE_WORD",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8459,8 +9424,11 @@
       "extraNodeData": {
         "name": "members",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8477,7 +9445,9 @@
         719,
         720
       ],
-      "extraNodeData": "collisionRule"
+      "extraNodeData": {
+        "name": "collisionRule"
+      }
     },
     {
       "flags": {
@@ -8490,7 +9460,9 @@
       "children": [
         721
       ],
-      "extraNodeData": "color"
+      "extraNodeData": {
+        "name": "color"
+      }
     },
     {
       "flags": {
@@ -8506,7 +9478,9 @@
         723,
         718
       ],
-      "extraNodeData": "deathMessageVisibility"
+      "extraNodeData": {
+        "name": "deathMessageVisibility"
+      }
     },
     {
       "flags": {
@@ -8519,7 +9493,9 @@
       "children": [
         724
       ],
-      "extraNodeData": "displayName"
+      "extraNodeData": {
+        "name": "displayName"
+      }
     },
     {
       "flags": {
@@ -8532,7 +9508,9 @@
       "children": [
         725
       ],
-      "extraNodeData": "friendlyFire"
+      "extraNodeData": {
+        "name": "friendlyFire"
+      }
     },
     {
       "flags": {
@@ -8548,7 +9526,9 @@
         723,
         718
       ],
-      "extraNodeData": "nametagVisibility"
+      "extraNodeData": {
+        "name": "nametagVisibility"
+      }
     },
     {
       "flags": {
@@ -8561,7 +9541,9 @@
       "children": [
         726
       ],
-      "extraNodeData": "prefix"
+      "extraNodeData": {
+        "name": "prefix"
+      }
     },
     {
       "flags": {
@@ -8574,7 +9556,9 @@
       "children": [
         727
       ],
-      "extraNodeData": "seeFriendlyInvisibles"
+      "extraNodeData": {
+        "name": "seeFriendlyInvisibles"
+      }
     },
     {
       "flags": {
@@ -8587,7 +9571,9 @@
       "children": [
         728
       ],
-      "extraNodeData": "suffix"
+      "extraNodeData": {
+        "name": "suffix"
+      }
     },
     {
       "flags": {
@@ -8601,7 +9587,9 @@
         729,
         730
       ],
-      "extraNodeData": "facing"
+      "extraNodeData": {
+        "name": "facing"
+      }
     },
     {
       "flags": {
@@ -8783,7 +9771,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8800,7 +9788,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8815,7 +9803,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8830,7 +9818,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8845,7 +9833,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8862,7 +9850,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8877,7 +9865,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8892,7 +9880,7 @@
       "extraNodeData": {
         "name": "advancement",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -8906,7 +9894,9 @@
       "children": [
         734
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -8940,7 +9930,9 @@
       "children": [
         735
       ],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -8953,7 +9945,9 @@
       "children": [
         736
       ],
-      "extraNodeData": "remove"
+      "extraNodeData": {
+        "name": "remove"
+      }
     },
     {
       "flags": {
@@ -8966,7 +9960,9 @@
       "children": [
         737
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -8977,7 +9973,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "blue"
+      "extraNodeData": {
+        "name": "blue"
+      }
     },
     {
       "flags": {
@@ -8988,7 +9986,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "green"
+      "extraNodeData": {
+        "name": "green"
+      }
     },
     {
       "flags": {
@@ -8999,7 +9999,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "pink"
+      "extraNodeData": {
+        "name": "pink"
+      }
     },
     {
       "flags": {
@@ -9010,7 +10012,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "purple"
+      "extraNodeData": {
+        "name": "purple"
+      }
     },
     {
       "flags": {
@@ -9021,7 +10025,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "red"
+      "extraNodeData": {
+        "name": "red"
+      }
     },
     {
       "flags": {
@@ -9032,7 +10038,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "white"
+      "extraNodeData": {
+        "name": "white"
+      }
     },
     {
       "flags": {
@@ -9043,7 +10051,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "yellow"
+      "extraNodeData": {
+        "name": "yellow"
+      }
     },
     {
       "flags": {
@@ -9093,7 +10103,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -9105,7 +10119,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "notched_10"
+      "extraNodeData": {
+        "name": "notched_10"
+      }
     },
     {
       "flags": {
@@ -9116,7 +10132,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "notched_12"
+      "extraNodeData": {
+        "name": "notched_12"
+      }
     },
     {
       "flags": {
@@ -9127,7 +10145,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "notched_20"
+      "extraNodeData": {
+        "name": "notched_20"
+      }
     },
     {
       "flags": {
@@ -9138,7 +10158,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "notched_6"
+      "extraNodeData": {
+        "name": "notched_6"
+      }
     },
     {
       "flags": {
@@ -9149,7 +10171,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "progress"
+      "extraNodeData": {
+        "name": "progress"
+      }
     },
     {
       "flags": {
@@ -9198,7 +10222,9 @@
       "children": [
         738
       ],
-      "extraNodeData": "filtered"
+      "extraNodeData": {
+        "name": "filtered"
+      }
     },
     {
       "flags": {
@@ -9213,7 +10239,9 @@
         740,
         104
       ],
-      "extraNodeData": "masked"
+      "extraNodeData": {
+        "name": "masked"
+      }
     },
     {
       "flags": {
@@ -9228,7 +10256,9 @@
         740,
         104
       ],
-      "extraNodeData": "replace"
+      "extraNodeData": {
+        "name": "replace"
+      }
     },
     {
       "flags": {
@@ -9434,8 +10464,8 @@
       "extraNodeData": {
         "name": "existing",
         "parser": "brigadier:string",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": "QUOTABLE_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9450,8 +10480,8 @@
       "extraNodeData": {
         "name": "existing",
         "parser": "brigadier:string",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": "QUOTABLE_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9555,7 +10585,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -9572,7 +10606,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9627,7 +10661,7 @@
       "extraNodeData": {
         "name": "id",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9644,7 +10678,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -9661,8 +10699,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9679,7 +10720,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9713,7 +10754,7 @@
       "extraNodeData": {
         "name": "id",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9730,7 +10771,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -9747,8 +10792,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9765,7 +10813,7 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9829,7 +10877,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -9846,7 +10898,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9879,7 +10931,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "hollow"
+      "extraNodeData": {
+        "name": "hollow"
+      }
     },
     {
       "flags": {
@@ -9890,7 +10944,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "outline"
+      "extraNodeData": {
+        "name": "outline"
+      }
     },
     {
       "flags": {
@@ -9903,7 +10959,9 @@
       "children": [
         787
       ],
-      "extraNodeData": "replace"
+      "extraNodeData": {
+        "name": "replace"
+      }
     },
     {
       "flags": {
@@ -9919,7 +10977,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9934,7 +10992,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -9949,7 +11011,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9984,7 +11046,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -9999,7 +11061,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -10014,7 +11080,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10089,7 +11155,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10104,7 +11170,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -10119,7 +11189,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10365,7 +11435,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "append"
+      "extraNodeData": {
+        "name": "append"
+      }
     },
     {
       "flags": {
@@ -10394,7 +11466,9 @@
       "children": [
         810
       ],
-      "extraNodeData": "displayname"
+      "extraNodeData": {
+        "name": "displayname"
+      }
     },
     {
       "flags": {
@@ -10408,7 +11482,9 @@
         811,
         812
       ],
-      "extraNodeData": "rendertype"
+      "extraNodeData": {
+        "name": "rendertype"
+      }
     },
     {
       "flags": {
@@ -10452,7 +11528,7 @@
       "extraNodeData": {
         "name": "objective",
         "parser": "minecraft:objective",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10542,7 +11618,9 @@
       "children": [
         816
       ],
-      "extraNodeData": "under"
+      "extraNodeData": {
+        "name": "under"
+      }
     },
     {
       "flags": {
@@ -10569,7 +11647,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "always"
+      "extraNodeData": {
+        "name": "always"
+      }
     },
     {
       "flags": {
@@ -10580,7 +11660,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "never"
+      "extraNodeData": {
+        "name": "never"
+      }
     },
     {
       "flags": {
@@ -10591,7 +11673,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "pushOtherTeams"
+      "extraNodeData": {
+        "name": "pushOtherTeams"
+      }
     },
     {
       "flags": {
@@ -10602,7 +11686,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "pushOwnTeam"
+      "extraNodeData": {
+        "name": "pushOwnTeam"
+      }
     },
     {
       "flags": {
@@ -10627,7 +11713,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "hideForOtherTeams"
+      "extraNodeData": {
+        "name": "hideForOtherTeams"
+      }
     },
     {
       "flags": {
@@ -10638,7 +11726,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "hideForOwnTeam"
+      "extraNodeData": {
+        "name": "hideForOwnTeam"
+      }
     },
     {
       "flags": {
@@ -10721,7 +11811,9 @@
       "children": [
         818
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -10773,8 +11865,8 @@
       "extraNodeData": {
         "name": "criterion",
         "parser": "brigadier:string",
-        "properties": 2,
-        "suggests": "minecraft:ask_server"
+        "properties": "GREEDY_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10789,8 +11881,8 @@
       "extraNodeData": {
         "name": "criterion",
         "parser": "brigadier:string",
-        "properties": 2,
-        "suggests": "minecraft:ask_server"
+        "properties": "GREEDY_PHRASE",
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -10855,7 +11947,9 @@
       "children": [
         821
       ],
-      "extraNodeData": "get"
+      "extraNodeData": {
+        "name": "get"
+      }
     },
     {
       "flags": {
@@ -10884,7 +11978,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "force"
+      "extraNodeData": {
+        "name": "force"
+      }
     },
     {
       "flags": {
@@ -10895,7 +11991,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "move"
+      "extraNodeData": {
+        "name": "move"
+      }
     },
     {
       "flags": {
@@ -10909,7 +12007,9 @@
         822,
         823
       ],
-      "extraNodeData": "append"
+      "extraNodeData": {
+        "name": "append"
+      }
     },
     {
       "flags": {
@@ -10922,7 +12022,9 @@
       "children": [
         824
       ],
-      "extraNodeData": "insert"
+      "extraNodeData": {
+        "name": "insert"
+      }
     },
     {
       "flags": {
@@ -10936,7 +12038,9 @@
         825,
         826
       ],
-      "extraNodeData": "merge"
+      "extraNodeData": {
+        "name": "merge"
+      }
     },
     {
       "flags": {
@@ -10950,7 +12054,9 @@
         827,
         828
       ],
-      "extraNodeData": "prepend"
+      "extraNodeData": {
+        "name": "prepend"
+      }
     },
     {
       "flags": {
@@ -10964,7 +12070,9 @@
         829,
         830
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -10978,7 +12086,9 @@
         831,
         832
       ],
-      "extraNodeData": "append"
+      "extraNodeData": {
+        "name": "append"
+      }
     },
     {
       "flags": {
@@ -10991,7 +12101,9 @@
       "children": [
         833
       ],
-      "extraNodeData": "insert"
+      "extraNodeData": {
+        "name": "insert"
+      }
     },
     {
       "flags": {
@@ -11005,7 +12117,9 @@
         834,
         835
       ],
-      "extraNodeData": "merge"
+      "extraNodeData": {
+        "name": "merge"
+      }
     },
     {
       "flags": {
@@ -11019,7 +12133,9 @@
         836,
         837
       ],
-      "extraNodeData": "prepend"
+      "extraNodeData": {
+        "name": "prepend"
+      }
     },
     {
       "flags": {
@@ -11033,7 +12149,9 @@
         838,
         839
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -11047,7 +12165,9 @@
         840,
         841
       ],
-      "extraNodeData": "append"
+      "extraNodeData": {
+        "name": "append"
+      }
     },
     {
       "flags": {
@@ -11060,7 +12180,9 @@
       "children": [
         842
       ],
-      "extraNodeData": "insert"
+      "extraNodeData": {
+        "name": "insert"
+      }
     },
     {
       "flags": {
@@ -11074,7 +12196,9 @@
         843,
         844
       ],
-      "extraNodeData": "merge"
+      "extraNodeData": {
+        "name": "merge"
+      }
     },
     {
       "flags": {
@@ -11088,7 +12212,9 @@
         845,
         846
       ],
-      "extraNodeData": "prepend"
+      "extraNodeData": {
+        "name": "prepend"
+      }
     },
     {
       "flags": {
@@ -11102,7 +12228,9 @@
         847,
         848
       ],
-      "extraNodeData": "set"
+      "extraNodeData": {
+        "name": "set"
+      }
     },
     {
       "flags": {
@@ -11202,7 +12330,9 @@
       "children": [
         851
       ],
-      "extraNodeData": "<"
+      "extraNodeData": {
+        "name": "<"
+      }
     },
     {
       "flags": {
@@ -11215,7 +12345,9 @@
       "children": [
         852
       ],
-      "extraNodeData": "<="
+      "extraNodeData": {
+        "name": "<="
+      }
     },
     {
       "flags": {
@@ -11228,7 +12360,9 @@
       "children": [
         853
       ],
-      "extraNodeData": "="
+      "extraNodeData": {
+        "name": "="
+      }
     },
     {
       "flags": {
@@ -11241,7 +12375,9 @@
       "children": [
         854
       ],
-      "extraNodeData": ">"
+      "extraNodeData": {
+        "name": ">"
+      }
     },
     {
       "flags": {
@@ -11254,7 +12390,9 @@
       "children": [
         855
       ],
-      "extraNodeData": ">="
+      "extraNodeData": {
+        "name": ">="
+      }
     },
     {
       "flags": {
@@ -11267,7 +12405,9 @@
       "children": [
         856
       ],
-      "extraNodeData": "matches"
+      "extraNodeData": {
+        "name": "matches"
+      }
     },
     {
       "flags": {
@@ -11300,7 +12440,9 @@
       },
       "children": [],
       "redirectNode": 17,
-      "extraNodeData": "max"
+      "extraNodeData": {
+        "name": "max"
+      }
     },
     {
       "flags": {
@@ -11312,7 +12454,9 @@
       },
       "children": [],
       "redirectNode": 17,
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -11522,7 +12666,9 @@
       "children": [
         863
       ],
-      "extraNodeData": "<"
+      "extraNodeData": {
+        "name": "<"
+      }
     },
     {
       "flags": {
@@ -11535,7 +12681,9 @@
       "children": [
         864
       ],
-      "extraNodeData": "<="
+      "extraNodeData": {
+        "name": "<="
+      }
     },
     {
       "flags": {
@@ -11548,7 +12696,9 @@
       "children": [
         865
       ],
-      "extraNodeData": "="
+      "extraNodeData": {
+        "name": "="
+      }
     },
     {
       "flags": {
@@ -11561,7 +12711,9 @@
       "children": [
         866
       ],
-      "extraNodeData": ">"
+      "extraNodeData": {
+        "name": ">"
+      }
     },
     {
       "flags": {
@@ -11574,7 +12726,9 @@
       "children": [
         867
       ],
-      "extraNodeData": ">="
+      "extraNodeData": {
+        "name": ">="
+      }
     },
     {
       "flags": {
@@ -11587,7 +12741,9 @@
       "children": [
         868
       ],
-      "extraNodeData": "matches"
+      "extraNodeData": {
+        "name": "matches"
+      }
     },
     {
       "flags": {
@@ -11630,7 +12786,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "mainhand"
+      "extraNodeData": {
+        "name": "mainhand"
+      }
     },
     {
       "flags": {
@@ -11641,7 +12799,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "offhand"
+      "extraNodeData": {
+        "name": "offhand"
+      }
     },
     {
       "flags": {
@@ -11700,7 +12860,9 @@
       "children": [
         871
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -11713,7 +12875,9 @@
       "children": [
         872
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -11726,7 +12890,9 @@
       "children": [
         873
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -11739,7 +12905,9 @@
       "children": [
         874
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -11779,7 +12947,9 @@
       "children": [
         879
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -11792,7 +12962,9 @@
       "children": [
         880
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -11805,7 +12977,9 @@
       "children": [
         881
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -11818,7 +12992,9 @@
       "children": [
         882
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -11988,7 +13164,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "hearts"
+      "extraNodeData": {
+        "name": "hearts"
+      }
     },
     {
       "flags": {
@@ -11999,7 +13177,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "integer"
+      "extraNodeData": {
+        "name": "integer"
+      }
     },
     {
       "flags": {
@@ -12096,7 +13276,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -12113,7 +13297,11 @@
       "extraNodeData": {
         "name": "facingEntity",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -12152,7 +13340,7 @@
       "extraNodeData": {
         "name": "name",
         "parser": "brigadier:string",
-        "properties": 1
+        "properties": "QUOTABLE_PHRASE"
       }
     },
     {
@@ -12184,7 +13372,9 @@
         896,
         897
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12197,7 +13387,9 @@
       "children": [
         898
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12236,7 +13428,9 @@
         902,
         903
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12249,7 +13443,9 @@
       "children": [
         904
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12264,7 +13460,9 @@
         906,
         907
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12277,7 +13475,9 @@
       "children": [
         908
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12292,7 +13492,9 @@
         910,
         911
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12305,7 +13507,9 @@
       "children": [
         912
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12320,7 +13524,9 @@
         914,
         915
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12333,7 +13539,9 @@
       "children": [
         916
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12372,7 +13580,9 @@
         920,
         921
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12385,7 +13595,9 @@
       "children": [
         922
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12400,7 +13612,9 @@
         924,
         925
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12413,7 +13627,9 @@
       "children": [
         926
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12428,7 +13644,9 @@
         928,
         929
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12441,7 +13659,9 @@
       "children": [
         930
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12456,7 +13676,9 @@
         932,
         933
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12469,7 +13691,9 @@
       "children": [
         934
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12508,7 +13732,9 @@
         938,
         939
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12521,7 +13747,9 @@
       "children": [
         940
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12536,7 +13764,9 @@
         942,
         943
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12549,7 +13779,9 @@
       "children": [
         944
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12564,7 +13796,9 @@
         946,
         947
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -12577,7 +13811,9 @@
       "children": [
         948
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -12603,7 +13839,9 @@
       },
       "children": [],
       "redirectNode": 17,
-      "extraNodeData": "masked"
+      "extraNodeData": {
+        "name": "masked"
+      }
     },
     {
       "flags": {
@@ -12619,8 +13857,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12637,8 +13878,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12655,8 +13899,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12673,8 +13920,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12691,8 +13941,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12721,7 +13974,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "byte"
+      "extraNodeData": {
+        "name": "byte"
+      }
     },
     {
       "flags": {
@@ -12734,7 +13989,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "double"
+      "extraNodeData": {
+        "name": "double"
+      }
     },
     {
       "flags": {
@@ -12747,7 +14004,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "float"
+      "extraNodeData": {
+        "name": "float"
+      }
     },
     {
       "flags": {
@@ -12760,7 +14019,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "int"
+      "extraNodeData": {
+        "name": "int"
+      }
     },
     {
       "flags": {
@@ -12773,7 +14034,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "long"
+      "extraNodeData": {
+        "name": "long"
+      }
     },
     {
       "flags": {
@@ -12786,7 +14049,9 @@
       "children": [
         954
       ],
-      "extraNodeData": "short"
+      "extraNodeData": {
+        "name": "short"
+      }
     },
     {
       "flags": {
@@ -12802,8 +14067,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12820,8 +14088,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12838,8 +14109,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12856,8 +14130,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12874,8 +14151,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 0,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 0
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12935,7 +14215,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12950,7 +14230,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -12965,7 +14249,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -12997,7 +14281,9 @@
       "children": [
         962
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -13010,7 +14296,9 @@
       "children": [
         963
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -13023,7 +14311,9 @@
       "children": [
         964
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -13036,7 +14326,9 @@
       "children": [
         965
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -13052,7 +14344,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -13067,7 +14359,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -13082,7 +14378,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -13114,7 +14410,9 @@
       "children": [
         968
       ],
-      "extraNodeData": "fish"
+      "extraNodeData": {
+        "name": "fish"
+      }
     },
     {
       "flags": {
@@ -13127,7 +14425,9 @@
       "children": [
         969
       ],
-      "extraNodeData": "kill"
+      "extraNodeData": {
+        "name": "kill"
+      }
     },
     {
       "flags": {
@@ -13140,7 +14440,9 @@
       "children": [
         970
       ],
-      "extraNodeData": "loot"
+      "extraNodeData": {
+        "name": "loot"
+      }
     },
     {
       "flags": {
@@ -13153,7 +14455,9 @@
       "children": [
         971
       ],
-      "extraNodeData": "mine"
+      "extraNodeData": {
+        "name": "mine"
+      }
     },
     {
       "flags": {
@@ -13180,7 +14484,9 @@
       "children": [
         972
       ],
-      "extraNodeData": "force"
+      "extraNodeData": {
+        "name": "force"
+      }
     },
     {
       "flags": {
@@ -13193,7 +14499,9 @@
       "children": [
         973
       ],
-      "extraNodeData": "normal"
+      "extraNodeData": {
+        "name": "normal"
+      }
     },
     {
       "flags": {
@@ -13234,8 +14542,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:score_holder",
-        "properties": 1,
-        "suggests": "minecraft:ask_server"
+        "properties": {
+          "unused": 0,
+          "allowMultiple": 1
+        },
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -13304,7 +14615,9 @@
       "children": [
         980
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13317,7 +14630,9 @@
       "children": [
         981
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13330,7 +14645,9 @@
       "children": [
         982
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13359,7 +14676,9 @@
         984,
         985
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -13372,7 +14691,9 @@
       "children": [
         986
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -13385,7 +14706,9 @@
       "children": [
         987
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13398,7 +14721,9 @@
       "children": [
         988
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13411,7 +14736,9 @@
       "children": [
         989
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13438,7 +14765,9 @@
       "children": [
         990
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13451,7 +14780,9 @@
       "children": [
         991
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13464,7 +14795,9 @@
       "children": [
         992
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13491,7 +14824,9 @@
       "children": [
         993
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13504,7 +14839,9 @@
       "children": [
         994
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13517,7 +14854,9 @@
       "children": [
         995
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13544,7 +14883,9 @@
       "children": [
         996
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13557,7 +14898,9 @@
       "children": [
         997
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13570,7 +14913,9 @@
       "children": [
         998
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13599,7 +14944,9 @@
         1000,
         1001
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -13612,7 +14959,9 @@
       "children": [
         1002
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -13625,7 +14974,9 @@
       "children": [
         1003
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13638,7 +14989,9 @@
       "children": [
         1004
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13651,7 +15004,9 @@
       "children": [
         1005
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13678,7 +15033,9 @@
       "children": [
         1006
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13691,7 +15048,9 @@
       "children": [
         1007
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13704,7 +15063,9 @@
       "children": [
         1008
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13731,7 +15092,9 @@
       "children": [
         1009
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13744,7 +15107,9 @@
       "children": [
         1010
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13757,7 +15122,9 @@
       "children": [
         1011
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13784,7 +15151,9 @@
       "children": [
         1012
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13797,7 +15166,9 @@
       "children": [
         1013
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13810,7 +15181,9 @@
       "children": [
         1014
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13839,7 +15212,9 @@
         1016,
         1017
       ],
-      "extraNodeData": "from"
+      "extraNodeData": {
+        "name": "from"
+      }
     },
     {
       "flags": {
@@ -13852,7 +15227,9 @@
       "children": [
         1018
       ],
-      "extraNodeData": "value"
+      "extraNodeData": {
+        "name": "value"
+      }
     },
     {
       "flags": {
@@ -13865,7 +15242,9 @@
       "children": [
         1019
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13878,7 +15257,9 @@
       "children": [
         1020
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13891,7 +15272,9 @@
       "children": [
         1021
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13918,7 +15301,9 @@
       "children": [
         1022
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13931,7 +15316,9 @@
       "children": [
         1023
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13944,7 +15331,9 @@
       "children": [
         1024
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -13971,7 +15360,9 @@
       "children": [
         1025
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -13984,7 +15375,9 @@
       "children": [
         1026
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -13997,7 +15390,9 @@
       "children": [
         1027
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -14231,7 +15626,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14246,7 +15641,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14261,7 +15660,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14328,7 +15727,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14343,7 +15742,11 @@
       "extraNodeData": {
         "name": "target",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14358,7 +15761,7 @@
       "extraNodeData": {
         "name": "loot_table",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14391,7 +15794,11 @@
       "extraNodeData": {
         "name": "viewers",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -14406,7 +15813,11 @@
       "extraNodeData": {
         "name": "viewers",
         "parser": "minecraft:entity",
-        "properties": 2
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 1,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -14458,7 +15869,11 @@
       "extraNodeData": {
         "name": "targets",
         "parser": "minecraft:entity",
-        "properties": 0
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 0
+        }
       }
     },
     {
@@ -14470,7 +15885,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "add"
+      "extraNodeData": {
+        "name": "add"
+      }
     },
     {
       "flags": {
@@ -14481,7 +15898,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "multiply"
+      "extraNodeData": {
+        "name": "multiply"
+      }
     },
     {
       "flags": {
@@ -14492,7 +15911,9 @@
         "command_node_type": 1
       },
       "children": [],
-      "extraNodeData": "multiply_base"
+      "extraNodeData": {
+        "name": "multiply_base"
+      }
     },
     {
       "flags": {
@@ -14524,7 +15945,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14541,7 +15966,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14555,7 +15980,9 @@
       "children": [
         1037
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -14568,7 +15995,9 @@
       "children": [
         1038
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -14581,7 +16010,9 @@
       "children": [
         1039
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -14627,7 +16058,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14644,7 +16079,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14677,7 +16112,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14694,7 +16133,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14727,7 +16166,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14744,7 +16187,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14777,7 +16220,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14794,7 +16241,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14808,7 +16255,9 @@
       "children": [
         1052
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -14821,7 +16270,9 @@
       "children": [
         1053
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -14834,7 +16285,9 @@
       "children": [
         1054
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -14880,7 +16333,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14897,7 +16354,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14930,7 +16387,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14947,7 +16408,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -14980,7 +16441,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -14997,7 +16462,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15030,7 +16495,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15047,7 +16516,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15061,7 +16530,9 @@
       "children": [
         1067
       ],
-      "extraNodeData": "block"
+      "extraNodeData": {
+        "name": "block"
+      }
     },
     {
       "flags": {
@@ -15074,7 +16545,9 @@
       "children": [
         1068
       ],
-      "extraNodeData": "entity"
+      "extraNodeData": {
+        "name": "entity"
+      }
     },
     {
       "flags": {
@@ -15087,7 +16560,9 @@
       "children": [
         1069
       ],
-      "extraNodeData": "storage"
+      "extraNodeData": {
+        "name": "storage"
+      }
     },
     {
       "flags": {
@@ -15133,7 +16608,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15150,7 +16629,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15183,7 +16662,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15200,7 +16683,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15233,7 +16716,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15250,7 +16737,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15417,7 +16904,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15434,7 +16925,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15635,7 +17126,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15652,7 +17147,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {
@@ -15853,7 +17348,11 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:entity",
-        "properties": 1
+        "properties": {
+          "unused": 0,
+          "onlyAllowPlayers": 0,
+          "onlyAllowEntities": 1
+        }
       }
     },
     {
@@ -15870,7 +17369,7 @@
       "extraNodeData": {
         "name": "source",
         "parser": "minecraft:resource_location",
-        "suggests": "minecraft:ask_server"
+        "suggestionType": "minecraft:ask_server"
       }
     },
     {

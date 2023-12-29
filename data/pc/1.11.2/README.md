@@ -1,4 +1,4 @@
-<details><summary>Collected (57)</summary>
+<details><summary>Collected (58)</summary>
 <p>
 
 | Packet |
@@ -24,24 +24,25 @@
 | entity_update_attributes |
 | update_health |
 | experience |
-| spawn_entity_living |
-| entity_teleport |
 | multi_block_change |
 | block_change |
+| spawn_entity_living |
+| world_event |
 | entity_head_rotation |
 | chat |
-| named_entity_spawn |
-| world_event |
-| entity_destroy |
-| entity_move_look |
 | entity_equipment |
+| entity_move_look |
+| entity_destroy |
+| entity_teleport |
 | rel_entity_move |
+| named_entity_spawn |
+| animation |
+| keep_alive |
 | tab_complete |
 | combat_event |
 | unload_chunk |
 | respawn |
 | game_state_change |
-| keep_alive |
 | sound_effect |
 | set_cooldown |
 | map |
@@ -49,7 +50,6 @@
 | scoreboard_objective |
 | scoreboard_display_objective |
 | scoreboard_score |
-| entity_look |
 | named_sound_effect |
 | entity_effect |
 | remove_entity_effect |
@@ -60,17 +60,17 @@
 | boss_bar |
 | spawn_entity_painting |
 | collect |
+| entity_look |
 
 </p>
 </details>
-<details><summary>Missing (19)</summary>
+<details><summary>Missing (18)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
 | spawn_entity_weather |
-| animation |
 | block_break_animation |
 | tile_entity_data |
 | block_action |

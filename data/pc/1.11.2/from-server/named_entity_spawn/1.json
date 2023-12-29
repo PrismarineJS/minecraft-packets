@@ -1,9 +1,9 @@
 {
-  "entityId": 1937,
+  "entityId": 2329,
   "playerUUID": "56825bf2-67f6-3755-b1bf-e6c96cad3411",
-  "x": -249.5,
-  "y": 73,
-  "z": 152.5,
+  "x": 230.5,
+  "y": 80,
+  "z": 250.5,
   "yaw": 0,
   "pitch": 0,
   "metadata": [
@@ -75,7 +75,7 @@
     {
       "key": 13,
       "type": 0,
-      "value": 127
+      "value": 0
     },
     {
       "key": 14,

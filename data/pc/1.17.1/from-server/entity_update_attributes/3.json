@@ -1,0 +1,10 @@
+{
+  "entityId": 195,
+  "properties": [
+    {
+      "key": "minecraft:generic.max_health",
+      "value": 8,
+      "modifiers": []
+    }
+  ]
+}

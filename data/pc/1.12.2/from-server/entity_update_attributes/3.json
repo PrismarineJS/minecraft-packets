@@ -1,0 +1,30 @@
+{
+  "entityId": 32,
+  "properties": [
+    {
+      "key": "generic.movementSpeed",
+      "value": 0.30703073876153614,
+      "modifiers": []
+    },
+    {
+      "key": "generic.armorToughness",
+      "value": 0,
+      "modifiers": []
+    },
+    {
+      "key": "generic.armor",
+      "value": 0,
+      "modifiers": []
+    },
+    {
+      "key": "horse.jumpStrength",
+      "value": 0.7483113462465433,
+      "modifiers": []
+    },
+    {
+      "key": "generic.maxHealth",
+      "value": 27,
+      "modifiers": []
+    }
+  ]
+}
