@@ -1,14 +1,9 @@
 {
-  "entityId": 44,
+  "entityId": 64,
   "properties": [
     {
       "key": "minecraft:generic.movement_speed",
-      "value": 0.30000001192092896,
-      "modifiers": []
-    },
-    {
-      "key": "minecraft:generic.max_health",
-      "value": 8,
+      "value": 0.25,
       "modifiers": []
     }
   ]

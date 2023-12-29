@@ -1,10 +1,6 @@
 {
   "entries": [
     {
-      "name": "stat.damageTaken",
-      "value": 50
-    },
-    {
       "name": "stat.furnaceInteraction",
       "value": 1
     },
@@ -22,7 +18,7 @@
     },
     {
       "name": "stat.walkOneCm",
-      "value": 17
+      "value": 16
     },
     {
       "name": "stat.timeSinceDeath",
@@ -30,11 +26,7 @@
     },
     {
       "name": "stat.playOneMinute",
-      "value": 552
-    },
-    {
-      "name": "stat.pickup.minecraft.painting",
-      "value": 1
+      "value": 525
     }
   ]
 }

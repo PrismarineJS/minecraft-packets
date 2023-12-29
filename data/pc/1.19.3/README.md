@@ -27,36 +27,37 @@
 | update_time |
 | spawn_position |
 | window_items |
-| block_change |
 | entity_move_look |
 | rel_entity_move |
 | advancements |
+| world_event |
 | update_health |
 | experience |
+| block_change |
 | multi_block_change |
-| entity_teleport |
-| entity_look |
 | entity_head_rotation |
+| entity_look |
+| entity_teleport |
 | entity_equipment |
-| entity_destroy |
 | update_light |
 | system_chat |
+| entity_destroy |
 | named_entity_spawn |
-| sound_effect |
 | player_remove |
 | tab_complete |
 | player_chat |
 | death_combat_event |
 | respawn |
 | game_state_change |
+| sound_effect |
 | set_slot |
 | set_cooldown |
 | acknowledge_player_digging |
 | entity_sound_effect |
 | map |
 | set_title_text |
+| animation |
 | keep_alive |
-| unload_chunk |
 | scoreboard_objective |
 | scoreboard_display_objective |
 | scoreboard_score |
@@ -68,7 +69,6 @@
 | boss_bar |
 | collect |
 | statistics |
-| animation |
 
 </p>
 </details>
@@ -88,8 +88,8 @@
 | kick_disconnect |
 | profileless_chat |
 | explosion |
+| unload_chunk |
 | open_horse_window |
-| world_event |
 | world_particles |
 | trade_list |
 | vehicle_move |

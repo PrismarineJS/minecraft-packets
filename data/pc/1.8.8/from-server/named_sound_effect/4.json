@@ -1,8 +1,8 @@
 {
-  "soundName": "minecraft:ambient.cave",
-  "x": -804,
-  "y": 528,
-  "z": 2124,
-  "volume": 1,
-  "pitch": 63
+  "soundName": "mob.cow.say",
+  "x": 731,
+  "y": 504,
+  "z": 1143,
+  "volume": 0.4000000059604645,
+  "pitch": 61
 }

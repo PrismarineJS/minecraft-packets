@@ -2,20 +2,20 @@
   "reset": false,
   "advancementMapping": [
     {
-      "key": "minecraft:recipes/transportation/acacia_boat",
+      "key": "minecraft:recipes/building_blocks/coal_block",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_the_recipe"
+            "key": "has_coal"
           },
           {
-            "key": "in_water"
+            "key": "has_the_recipe"
           }
         ],
         "requirements": [
           [
-            "in_water",
+            "has_coal",
             "has_the_recipe"
           ]
         ]
@@ -37,120 +37,44 @@
       }
     },
     {
-      "key": "minecraft:recipes/transportation/oak_boat",
+      "key": "minecraft:recipes/decorations/campfire",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_the_recipe"
+            "key": "has_coal"
           },
           {
-            "key": "in_water"
+            "key": "has_stick"
+          },
+          {
+            "key": "has_the_recipe"
           }
         ],
         "requirements": [
           [
-            "in_water",
+            "has_stick",
+            "has_coal",
             "has_the_recipe"
           ]
         ]
       }
     },
     {
-      "key": "minecraft:recipes/transportation/dark_oak_boat",
+      "key": "minecraft:recipes/misc/green_dye",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_the_recipe"
+            "key": "has_cactus"
           },
           {
-            "key": "in_water"
+            "key": "has_the_recipe"
           }
         ],
         "requirements": [
           [
-            "in_water",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/transportation/spruce_boat",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_the_recipe"
-          },
-          {
-            "key": "in_water"
-          }
-        ],
-        "requirements": [
-          [
-            "in_water",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/transportation/birch_boat",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_the_recipe"
-          },
-          {
-            "key": "in_water"
-          }
-        ],
-        "requirements": [
-          [
-            "in_water",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/transportation/mangrove_boat",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_the_recipe"
-          },
-          {
-            "key": "in_water"
-          }
-        ],
-        "requirements": [
-          [
-            "in_water",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/transportation/jungle_boat",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_the_recipe"
-          },
-          {
-            "key": "in_water"
-          }
-        ],
-        "requirements": [
-          [
-            "in_water",
+            "has_cactus",
             "has_the_recipe"
           ]
         ]
@@ -160,107 +84,50 @@
   "identifiers": [],
   "progressMapping": [
     {
-      "key": "minecraft:recipes/transportation/acacia_boat",
+      "key": "minecraft:recipes/decorations/campfire",
       "value": [
         {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
+          "criterionIdentifier": "has_coal",
           "criterionProgress": [
             396,
-            -1217177175
+            -1215764367
           ]
+        },
+        {
+          "criterionIdentifier": "has_stick"
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
         }
       ]
     },
     {
-      "key": "minecraft:recipes/transportation/oak_boat",
+      "key": "minecraft:recipes/building_blocks/coal_block",
       "value": [
         {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
+          "criterionIdentifier": "has_coal",
           "criterionProgress": [
             396,
-            -1217177172
+            -1215764370
           ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
         }
       ]
     },
     {
-      "key": "minecraft:recipes/transportation/dark_oak_boat",
+      "key": "minecraft:recipes/misc/green_dye",
       "value": [
         {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
+          "criterionIdentifier": "has_cactus",
           "criterionProgress": [
             396,
-            -1217177171
+            -1215764365
           ]
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/transportation/birch_boat",
-      "value": [
-        {
-          "criterionIdentifier": "has_the_recipe"
         },
         {
-          "criterionIdentifier": "in_water",
-          "criterionProgress": [
-            396,
-            -1217177170
-          ]
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/transportation/jungle_boat",
-      "value": [
-        {
           "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
-          "criterionProgress": [
-            396,
-            -1217177169
-          ]
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/transportation/mangrove_boat",
-      "value": [
-        {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
-          "criterionProgress": [
-            396,
-            -1217177170
-          ]
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/transportation/spruce_boat",
-      "value": [
-        {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "in_water",
-          "criterionProgress": [
-            396,
-            -1217177171
-          ]
         }
       ]
     },

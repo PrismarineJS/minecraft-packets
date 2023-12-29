@@ -1,19 +1,9 @@
 {
-  "entityId": 62,
+  "entityId": 59,
   "properties": [
     {
-      "key": "generic.maxHealth",
-      "value": 20,
-      "modifiers": []
-    },
-    {
       "key": "generic.movementSpeed",
-      "value": 0.18629200794561265,
-      "modifiers": []
-    },
-    {
-      "key": "generic.armorToughness",
-      "value": 0,
+      "value": 0.23000000417232513,
       "modifiers": []
     },
     {
@@ -22,8 +12,13 @@
       "modifiers": []
     },
     {
-      "key": "horse.jumpStrength",
-      "value": 0.7204835712852998,
+      "key": "generic.maxHealth",
+      "value": 8,
+      "modifiers": []
+    },
+    {
+      "key": "generic.armorToughness",
+      "value": 0,
       "modifiers": []
     }
   ]

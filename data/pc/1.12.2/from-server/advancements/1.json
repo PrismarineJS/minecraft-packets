@@ -2,41 +2,121 @@
   "reset": false,
   "advancementMapping": [
     {
-      "key": "minecraft:recipes/misc/coal",
+      "key": "minecraft:recipes/transportation/acacia_boat",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_the_recipe"
+            "key": "entered_water"
           },
           {
-            "key": "has_coal_block"
+            "key": "has_the_recipe"
           }
         ],
         "requirements": [
           [
-            "has_the_recipe",
-            "has_coal_block"
+            "entered_water",
+            "has_the_recipe"
           ]
         ]
       }
     },
     {
-      "key": "minecraft:recipes/building_blocks/coal_block",
+      "key": "minecraft:recipes/transportation/dark_oak_boat",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_the_recipe"
+            "key": "entered_water"
           },
           {
-            "key": "has_at_least_9_coal"
+            "key": "has_the_recipe"
           }
         ],
         "requirements": [
           [
-            "has_the_recipe",
-            "has_at_least_9_coal"
+            "entered_water",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
+      "key": "minecraft:recipes/transportation/birch_boat",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "entered_water"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "entered_water",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
+      "key": "minecraft:recipes/transportation/boat",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "entered_water"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "entered_water",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
+      "key": "minecraft:recipes/transportation/jungle_boat",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "entered_water"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "entered_water",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
+      "key": "minecraft:recipes/transportation/spruce_boat",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "entered_water"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "entered_water",
+            "has_the_recipe"
           ]
         ]
       }
@@ -60,32 +140,92 @@
   "identifiers": [],
   "progressMapping": [
     {
-      "key": "minecraft:recipes/building_blocks/coal_block",
+      "key": "minecraft:recipes/transportation/acacia_boat",
       "value": [
         {
-          "criterionIdentifier": "has_the_recipe"
-        },
-        {
-          "criterionIdentifier": "has_at_least_9_coal",
+          "criterionIdentifier": "entered_water",
           "criterionProgress": [
             396,
-            -1217206281
+            -1215836636
           ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
         }
       ]
     },
     {
-      "key": "minecraft:recipes/misc/coal",
+      "key": "minecraft:recipes/transportation/dark_oak_boat",
       "value": [
         {
-          "criterionIdentifier": "has_the_recipe",
+          "criterionIdentifier": "entered_water",
           "criterionProgress": [
             396,
-            -1217206280
+            -1215836634
           ]
         },
         {
-          "criterionIdentifier": "has_coal_block"
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/transportation/birch_boat",
+      "value": [
+        {
+          "criterionIdentifier": "entered_water",
+          "criterionProgress": [
+            396,
+            -1215836635
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/transportation/boat",
+      "value": [
+        {
+          "criterionIdentifier": "entered_water",
+          "criterionProgress": [
+            396,
+            -1215836638
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/transportation/jungle_boat",
+      "value": [
+        {
+          "criterionIdentifier": "entered_water",
+          "criterionProgress": [
+            396,
+            -1215836632
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/transportation/spruce_boat",
+      "value": [
+        {
+          "criterionIdentifier": "entered_water",
+          "criterionProgress": [
+            396,
+            -1215836633
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
         }
       ]
     },

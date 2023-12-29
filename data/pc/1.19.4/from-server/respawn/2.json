@@ -2,8 +2,8 @@
   "dimension": "minecraft:overworld",
   "worldName": "minecraft:overworld",
   "hashedSeed": [
-    1973679601,
-    2082210418
+    1869221988,
+    1964485235
   ],
   "gamemode": 1,
   "previousGamemode": 255,
@@ -13,9 +13,9 @@
   "death": {
     "dimensionName": "minecraft:overworld",
     "location": {
-      "x": -14,
-      "z": 16,
-      "y": 64
+      "x": -169,
+      "z": 46,
+      "y": 78
     }
   }
 }

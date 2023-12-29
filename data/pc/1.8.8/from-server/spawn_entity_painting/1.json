@@ -1,10 +1,10 @@
 {
-  "entityId": 1860,
+  "entityId": 3192,
   "title": "Kebab",
   "location": {
-    "x": -101,
-    "y": 65,
-    "z": 265
+    "x": 93,
+    "y": 62,
+    "z": 149
   },
   "direction": 0
 }

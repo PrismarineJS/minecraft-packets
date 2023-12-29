@@ -1,4 +1,4 @@
 {
-  "message": "{\"translate\":\"commands.setblock.success\"}",
+  "message": "{\"color\":\"red\",\"translate\":\"commands.setblock.noChange\"}",
   "position": 1
 }

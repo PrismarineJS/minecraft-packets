@@ -5,6 +5,6 @@
   "smeltingBookOpen": false,
   "filteringSmeltable": false,
   "recipes1": [
-    "minecraft:coal"
+    "minecraft:coal_block"
   ]
 }

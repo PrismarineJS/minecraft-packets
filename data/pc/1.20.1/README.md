@@ -1,4 +1,4 @@
-<details><summary>Collected (69)</summary>
+<details><summary>Collected (67)</summary>
 <p>
 
 | Packet |
@@ -25,23 +25,23 @@
 | bundle_delimiter |
 | spawn_entity |
 | entity_metadata |
-| entity_velocity |
 | entity_update_attributes |
+| entity_velocity |
 | window_items |
-| entity_equipment |
 | block_change |
 | multi_block_change |
-| rel_entity_move |
-| entity_destroy |
 | advancements |
 | update_health |
 | experience |
-| update_light |
+| entity_equipment |
 | entity_head_rotation |
 | entity_move_look |
 | entity_teleport |
 | entity_look |
+| update_light |
+| rel_entity_move |
 | world_event |
+| entity_destroy |
 | system_chat |
 | named_entity_spawn |
 | player_remove |
@@ -58,7 +58,6 @@
 | entity_sound_effect |
 | map |
 | set_title_text |
-| unload_chunk |
 | keep_alive |
 | scoreboard_objective |
 | scoreboard_display_objective |
@@ -71,11 +70,10 @@
 | boss_bar |
 | collect |
 | statistics |
-| set_passengers |
 
 </p>
 </details>
-<details><summary>Missing (42)</summary>
+<details><summary>Missing (44)</summary>
 <p>
 
 | Packet |
@@ -92,6 +90,7 @@
 | kick_disconnect |
 | profileless_chat |
 | explosion |
+| unload_chunk |
 | open_horse_window |
 | world_particles |
 | trade_list |
@@ -105,6 +104,7 @@
 | camera |
 | update_view_distance |
 | attach_entity |
+| set_passengers |
 | teams |
 | stop_sound |
 | playerlist_header |

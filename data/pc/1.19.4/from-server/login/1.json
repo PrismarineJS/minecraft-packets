@@ -1,5 +1,5 @@
 {
-  "entityId": 191,
+  "entityId": 131,
   "isHardcore": false,
   "gameMode": 0,
   "previousGameMode": -1,
@@ -7200,8 +7200,8 @@
   "worldType": "minecraft:overworld",
   "worldName": "minecraft:overworld",
   "hashedSeed": [
-    1973679601,
-    2082210418
+    1869221988,
+    1964485235
   ],
   "maxPlayers": 20,
   "viewDistance": 10,

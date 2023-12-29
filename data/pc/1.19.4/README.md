@@ -1,4 +1,4 @@
-<details><summary>Collected (70)</summary>
+<details><summary>Collected (68)</summary>
 <p>
 
 | Packet |
@@ -26,21 +26,23 @@
 | spawn_entity |
 | entity_metadata |
 | entity_update_attributes |
-| entity_velocity |
 | window_items |
-| entity_equipment |
 | advancements |
 | update_health |
 | experience |
+| entity_equipment |
+| multi_block_change |
+| block_change |
+| entity_head_rotation |
+| entity_velocity |
 | rel_entity_move |
 | entity_move_look |
-| entity_head_rotation |
-| block_change |
-| multi_block_change |
-| entity_teleport |
+| world_event |
 | entity_look |
-| entity_destroy |
+| entity_teleport |
 | update_light |
+| set_passengers |
+| entity_destroy |
 | system_chat |
 | named_entity_spawn |
 | player_remove |
@@ -50,16 +52,13 @@
 | death_combat_event |
 | respawn |
 | game_state_change |
-| animation |
 | sound_effect |
 | set_slot |
 | set_cooldown |
 | acknowledge_player_digging |
-| unload_chunk |
 | entity_sound_effect |
 | map |
 | set_title_text |
-| tile_entity_data |
 | keep_alive |
 | scoreboard_objective |
 | scoreboard_display_objective |
@@ -68,7 +67,6 @@
 | remove_entity_effect |
 | open_window |
 | craft_progress_bar |
-| world_event |
 | close_window |
 | boss_bar |
 | collect |
@@ -76,13 +74,15 @@
 
 </p>
 </details>
-<details><summary>Missing (41)</summary>
+<details><summary>Missing (43)</summary>
 <p>
 
 | Packet |
 | --- |
 | spawn_entity_experience_orb |
+| animation |
 | block_break_animation |
+| tile_entity_data |
 | block_action |
 | face_player |
 | nbt_query_response |
@@ -91,6 +91,7 @@
 | kick_disconnect |
 | profileless_chat |
 | explosion |
+| unload_chunk |
 | open_horse_window |
 | world_particles |
 | trade_list |
@@ -104,7 +105,6 @@
 | camera |
 | update_view_distance |
 | attach_entity |
-| set_passengers |
 | teams |
 | stop_sound |
 | playerlist_header |

@@ -1,11 +1,11 @@
 {
   "soundId": 1324,
   "soundCategory": "player",
-  "entityId": 230,
+  "entityId": 205,
   "volume": 1,
   "pitch": 1,
   "seed": [
-    186551456,
-    -1568464788
+    -382960777,
+    -1785052839
   ]
 }

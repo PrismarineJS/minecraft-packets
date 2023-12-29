@@ -1,14 +1,14 @@
 {
-  "entityId": 14,
-  "objectUUID": "feaa282e-daad-418b-b455-c692c90720a1",
-  "type": 42,
-  "x": -209.5,
-  "y": 32.0625,
-  "z": 139.5,
+  "entityId": 229,
+  "objectUUID": "a7f4ce92-182c-4279-a2a2-f8ca7f3f7bd7",
+  "type": 34,
+  "x": -53.69349985266004,
+  "y": 22.622054759263992,
+  "z": 117.66300628127846,
   "pitch": 0,
-  "yaw": 0,
+  "yaw": 56,
   "objectData": 0,
-  "velocityX": 0,
-  "velocityY": 0,
-  "velocityZ": 0
+  "velocityX": -125,
+  "velocityY": 1254,
+  "velocityZ": -543
 }

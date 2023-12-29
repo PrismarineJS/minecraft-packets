@@ -1,5 +1,5 @@
 {
-  "entityId": 4,
+  "entityId": 82,
   "metadata": [
     {
       "key": 0,
@@ -82,45 +82,12 @@
     {
       "key": 16,
       "type": 7,
-      "value": false
+      "value": true
     },
     {
       "key": 17,
-      "type": 9,
-      "value": {
-        "x": -75,
-        "z": 26,
-        "y": 63
-      }
-    },
-    {
-      "key": 19,
       "type": 7,
       "value": false
-    },
-    {
-      "key": 18,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 22,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 21,
-      "type": 7,
-      "value": false
-    },
-    {
-      "key": 20,
-      "type": 9,
-      "value": {
-        "x": 0,
-        "z": 0,
-        "y": 0
-      }
     }
   ]
 }

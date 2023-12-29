@@ -2,12 +2,12 @@
   "reset": false,
   "advancementMapping": [
     {
-      "key": "minecraft:recipes/building_blocks/coal_block",
+      "key": "minecraft:recipes/misc/beacon",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_coal"
+            "key": "has_nether_star"
           },
           {
             "key": "has_the_recipe"
@@ -15,51 +15,7 @@
         ],
         "requirements": [
           [
-            "has_coal",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/decorations/campfire",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_coal"
-          },
-          {
-            "key": "has_stick"
-          },
-          {
-            "key": "has_the_recipe"
-          }
-        ],
-        "requirements": [
-          [
-            "has_stick",
-            "has_coal",
-            "has_the_recipe"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/misc/green_dye",
-      "value": {
-        "parentId": "minecraft:recipes/root",
-        "criteria": [
-          {
-            "key": "has_cactus"
-          },
-          {
-            "key": "has_the_recipe"
-          }
-        ],
-        "requirements": [
-          [
-            "has_cactus",
+            "has_nether_star",
             "has_the_recipe"
           ]
         ]
@@ -69,46 +25,13 @@
   "identifiers": [],
   "progressMapping": [
     {
-      "key": "minecraft:recipes/decorations/campfire",
+      "key": "minecraft:recipes/misc/beacon",
       "value": [
         {
-          "criterionIdentifier": "has_coal",
+          "criterionIdentifier": "has_nether_star",
           "criterionProgress": [
             396,
-            -1217154576
-          ]
-        },
-        {
-          "criterionIdentifier": "has_stick"
-        },
-        {
-          "criterionIdentifier": "has_the_recipe"
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/building_blocks/coal_block",
-      "value": [
-        {
-          "criterionIdentifier": "has_coal",
-          "criterionProgress": [
-            396,
-            -1217154577
-          ]
-        },
-        {
-          "criterionIdentifier": "has_the_recipe"
-        }
-      ]
-    },
-    {
-      "key": "minecraft:recipes/misc/green_dye",
-      "value": [
-        {
-          "criterionIdentifier": "has_cactus",
-          "criterionProgress": [
-            396,
-            -1217154575
+            -1215763775
           ]
         },
         {

@@ -1,13 +1,13 @@
 {
   "soundName": "minecraft:ambient.cave",
   "soundCategory": 5,
-  "x": 52,
+  "x": -1516,
   "y": 576,
-  "z": 28,
+  "z": -756,
   "volume": 1,
   "pitch": 1,
   "seed": [
-    1764361492,
-    -548693051
+    969141775,
+    -758409061
   ]
 }

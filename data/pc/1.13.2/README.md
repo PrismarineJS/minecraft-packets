@@ -15,31 +15,30 @@
 | unlock_recipes |
 | player_info |
 | map_chunk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
 | spawn_entity_living |
+| entity_metadata |
 | entity_update_attributes |
-| entity_equipment |
+| spawn_entity |
+| entity_velocity |
 | position |
 | world_border |
 | update_time |
 | spawn_position |
 | window_items |
 | set_slot |
+| multi_block_change |
 | advancements |
 | entity_head_rotation |
 | update_health |
 | experience |
 | keep_alive |
+| entity_equipment |
 | block_change |
-| entity_destroy |
-| world_event |
-| entity_move_look |
 | rel_entity_move |
-| multi_block_change |
+| entity_move_look |
 | entity_teleport |
 | chat |
+| entity_destroy |
 | named_entity_spawn |
 | tab_complete |
 | combat_event |
@@ -65,6 +64,7 @@
 | spawn_entity_painting |
 | collect |
 | statistics |
+| world_event |
 
 </p>
 </details>

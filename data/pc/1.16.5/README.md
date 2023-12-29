@@ -1,4 +1,4 @@
-<details><summary>Collected (64)</summary>
+<details><summary>Collected (63)</summary>
 <p>
 
 | Packet |
@@ -31,19 +31,17 @@
 | update_health |
 | experience |
 | keep_alive |
-| block_change |
-| multi_block_change |
-| advancements |
-| entity_head_rotation |
 | rel_entity_move |
 | entity_move_look |
-| entity_destroy |
-| world_event |
-| entity_teleport |
+| advancements |
+| multi_block_change |
+| block_change |
+| entity_head_rotation |
 | entity_equipment |
+| entity_teleport |
 | entity_look |
-| set_passengers |
 | chat |
+| entity_destroy |
 | named_entity_spawn |
 | tab_complete |
 | combat_event |
@@ -56,6 +54,7 @@
 | scoreboard_objective |
 | scoreboard_display_objective |
 | scoreboard_score |
+| world_event |
 | named_sound_effect |
 | entity_effect |
 | remove_entity_effect |
@@ -70,7 +69,7 @@
 
 </p>
 </details>
-<details><summary>Missing (28)</summary>
+<details><summary>Missing (29)</summary>
 <p>
 
 | Packet |
@@ -97,6 +96,7 @@
 | camera |
 | update_view_distance |
 | attach_entity |
+| set_passengers |
 | teams |
 | entity_sound_effect |
 | stop_sound |

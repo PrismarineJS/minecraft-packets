@@ -1,4 +1,4 @@
-<details><summary>Collected (53)</summary>
+<details><summary>Collected (55)</summary>
 <p>
 
 | Packet |
@@ -23,24 +23,25 @@
 | entity_metadata |
 | update_attributes |
 | chat |
-| block_change |
-| world_event |
-| entity_equipment |
-| entity_head_rotation |
-| entity_move_look |
-| entity_teleport |
-| entity_velocity |
-| rel_entity_move |
-| spawn_entity |
 | named_entity_spawn |
-| entity_look |
-| multi_block_change |
-| entity_destroy |
 | tab_complete |
-| keep_alive |
+| entity_velocity |
+| entity_destroy |
+| world_event |
+| entity_teleport |
+| entity_equipment |
+| rel_entity_move |
+| entity_head_rotation |
+| entity_look |
+| entity_move_look |
+| block_change |
 | entity_status |
+| tile_entity_data |
+| spawn_entity |
+| multi_block_change |
 | map_chunk |
 | respawn |
+| keep_alive |
 | game_state_change |
 | named_sound_effect |
 | map |
@@ -54,12 +55,13 @@
 | craft_progress_bar |
 | transaction |
 | close_window |
-| spawn_entity_painting |
+| explosion |
 | collect |
+| spawn_entity_painting |
 
 </p>
 </details>
-<details><summary>Missing (21)</summary>
+<details><summary>Missing (19)</summary>
 <p>
 
 | Packet |
@@ -71,11 +73,9 @@
 | attach_entity |
 | block_action |
 | block_break_animation |
-| explosion |
 | world_particles |
 | spawn_entity_weather |
 | update_sign |
-| tile_entity_data |
 | open_sign_entity |
 | scoreboard_team |
 | kick_disconnect |

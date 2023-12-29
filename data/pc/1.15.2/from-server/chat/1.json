@@ -1,4 +1,4 @@
 {
-  "message": "{\"italic\":true,\"color\":\"gray\",\"translate\":\"chat.type.admin\",\"with\":[{\"text\":\"Server\"},{\"translate\":\"commands.op.success\",\"with\":[\"nmptestbot\"]}]}",
+  "message": "{\"color\":\"red\",\"extra\":[{\"translate\":\"command.unknown.command\"}],\"text\":\"\"}",
   "position": 1
 }

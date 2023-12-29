@@ -114,7 +114,7 @@
           "criterionIdentifier": "has_coal",
           "criterionProgress": [
             396,
-            -1217186493
+            -1215797299
           ]
         },
         {
@@ -135,7 +135,7 @@
           "criterionIdentifier": "has_at_least_9_coal",
           "criterionProgress": [
             396,
-            -1217186490
+            -1215797294
           ]
         }
       ]
@@ -147,7 +147,7 @@
           "criterionIdentifier": "has_cactus",
           "criterionProgress": [
             396,
-            -1217186485
+            -1215797290
           ]
         },
         {
@@ -165,7 +165,7 @@
           "criterionIdentifier": "has_at_least_9_coal",
           "criterionProgress": [
             396,
-            -1217186489
+            -1215797295
           ]
         },
         {

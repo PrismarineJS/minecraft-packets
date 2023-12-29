@@ -1,10 +1,10 @@
 {
-  "entityId": 603,
-  "entityUUID": "2f980d16-cb72-4add-b882-6be4a4ca3698",
+  "entityId": 328,
+  "entityUUID": "3237cb81-59ac-4024-9268-8214cea91b78",
   "title": 0,
   "location": {
-    "x": -8,
-    "z": 0,
+    "x": 50,
+    "z": 633,
     "y": 69
   },
   "direction": 0

@@ -1,11 +1,11 @@
 {
-  "entityId": 469,
-  "entityUUID": "32bf6259-46d6-499d-bc7c-1835710f7d14",
+  "entityId": 439,
+  "entityUUID": "55e84f62-1717-44ac-9271-6d501f4e2988",
   "title": 0,
   "location": {
-    "x": -261,
-    "z": -33,
-    "y": 78
+    "x": -59,
+    "z": 110,
+    "y": 70
   },
   "direction": 0
 }

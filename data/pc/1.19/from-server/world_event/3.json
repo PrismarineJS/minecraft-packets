@@ -1,9 +1,9 @@
 {
   "effectId": 1025,
   "location": {
-    "x": -18,
-    "z": 22,
-    "y": 50
+    "x": 15,
+    "z": 26,
+    "y": 10
   },
   "data": 0,
   "global": false

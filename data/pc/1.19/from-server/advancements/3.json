@@ -2,12 +2,12 @@
   "reset": false,
   "advancementMapping": [
     {
-      "key": "minecraft:recipes/misc/beacon",
+      "key": "minecraft:recipes/misc/green_dye",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_nether_star"
+            "key": "has_cactus"
           },
           {
             "key": "has_the_recipe"
@@ -15,7 +15,7 @@
         ],
         "requirements": [
           [
-            "has_nether_star",
+            "has_cactus",
             "has_the_recipe"
           ]
         ]
@@ -25,13 +25,13 @@
   "identifiers": [],
   "progressMapping": [
     {
-      "key": "minecraft:recipes/misc/beacon",
+      "key": "minecraft:recipes/misc/green_dye",
       "value": [
         {
-          "criterionIdentifier": "has_nether_star",
+          "criterionIdentifier": "has_cactus",
           "criterionProgress": [
             396,
-            -1217154107
+            -1215769521
           ]
         },
         {

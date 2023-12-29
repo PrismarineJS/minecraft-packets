@@ -1,4 +1,4 @@
-<details><summary>Collected (64)</summary>
+<details><summary>Collected (66)</summary>
 <p>
 
 | Packet |
@@ -30,30 +30,32 @@
 | update_health |
 | experience |
 | keep_alive |
-| multi_block_change |
-| block_change |
-| entity_move_look |
-| rel_entity_move |
-| entity_destroy |
-| advancements |
 | entity_equipment |
+| multi_block_change |
+| rel_entity_move |
+| advancements |
 | entity_head_rotation |
+| block_change |
+| entity_destroy |
+| entity_move_look |
 | entity_teleport |
 | entity_look |
 | chat |
+| animation |
+| sound_effect |
 | named_entity_spawn |
 | tab_complete |
 | death_combat_event |
 | respawn |
 | game_state_change |
-| sound_effect |
+| world_event |
 | set_slot |
 | set_cooldown |
+| unload_chunk |
 | entity_sound_effect |
 | map |
+| world_particles |
 | set_title_text |
-| animation |
-| world_event |
 | scoreboard_objective |
 | scoreboard_display_objective |
 | scoreboard_score |
@@ -70,7 +72,7 @@
 
 </p>
 </details>
-<details><summary>Missing (39)</summary>
+<details><summary>Missing (37)</summary>
 <p>
 
 | Packet |
@@ -83,9 +85,7 @@
 | nbt_query_response |
 | kick_disconnect |
 | explosion |
-| unload_chunk |
 | open_horse_window |
-| world_particles |
 | trade_list |
 | vehicle_move |
 | open_book |

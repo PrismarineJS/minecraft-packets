@@ -4,13 +4,13 @@
     "resource": "minecraft:ambient.cave"
   },
   "soundCategory": "hostile",
-  "x": -156,
-  "y": 504,
-  "z": 148,
+  "x": -1212,
+  "y": 616,
+  "z": 236,
   "volume": 1,
   "pitch": 1,
   "seed": [
-    -588764264,
-    -1951239240
+    1496401955,
+    -1786967818
   ]
 }

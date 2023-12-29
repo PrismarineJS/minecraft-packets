@@ -1,14 +1,10 @@
 {
-  "entityId": 125,
+  "entityId": 95,
   "metadata": [
     {
-      "key": 8,
-      "type": 7,
-      "value": {
-        "present": true,
-        "itemId": 1135,
-        "itemCount": 1
-      }
+      "key": 9,
+      "type": 3,
+      "value": 4
     }
   ]
 }

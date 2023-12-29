@@ -1,12 +1,12 @@
 {
   "chunkCoordinates": {
-    "x": -3,
-    "z": -2,
-    "y": 3
+    "x": -5,
+    "z": 37,
+    "y": -1
   },
   "notTrustEdges": false,
   "records": [
-    174777,
-    175049
+    222977,
+    222737
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "entityUUID": "e19b14c4-bc26-4758-8236-0d968e99e126",
+  "entityUUID": "ffcc24c6-3c4e-4f6e-a926-72669771081d",
   "action": 0,
-  "title": "{\"insertion\":\"00780004-8972-438c-9377-27267fa6b9dc\",\"hoverEvent\":{\"action\":\"show_entity\",\"value\":{\"text\":\"{name:'{\\\"translate\\\":\\\"entity.minecraft.wither\\\"}',id:\\\"00780004-8972-438c-9377-27267fa6b9dc\\\",type:\\\"minecraft:wither\\\"}\"}},\"translate\":\"entity.minecraft.wither\"}",
+  "title": "{\"insertion\":\"0b1588e8-1ee9-4134-b5f9-c5176f0e3e7c\",\"hoverEvent\":{\"action\":\"show_entity\",\"value\":{\"text\":\"{name:'{\\\"translate\\\":\\\"entity.minecraft.wither\\\"}',id:\\\"0b1588e8-1ee9-4134-b5f9-c5176f0e3e7c\\\",type:\\\"minecraft:wither\\\"}\"}},\"translate\":\"entity.minecraft.wither\"}",
   "health": 1,
   "color": 5,
   "dividers": 0,

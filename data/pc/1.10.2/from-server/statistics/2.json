@@ -21,16 +21,12 @@
       "value": 1
     },
     {
-      "name": "stat.walkOneCm",
-      "value": 22
-    },
-    {
       "name": "stat.timeSinceDeath",
-      "value": 430
+      "value": 432
     },
     {
       "name": "stat.playOneMinute",
-      "value": 545
+      "value": 534
     },
     {
       "name": "stat.pickup.minecraft.painting",

@@ -1,8 +1,8 @@
 {
-  "soundName": "random.pop",
-  "x": -804,
-  "y": 528,
-  "z": 2124,
-  "volume": 0.20000000298023224,
-  "pitch": 115
+  "soundName": "mob.cow.step",
+  "x": 726,
+  "y": 504,
+  "z": 1138,
+  "volume": 0.15000000596046448,
+  "pitch": 63
 }

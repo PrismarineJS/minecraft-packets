@@ -13,17 +13,17 @@
     {
       "categoryId": 8,
       "statisticId": 1,
-      "value": 495
-    },
-    {
-      "categoryId": 8,
-      "statisticId": 2,
-      "value": 422
+      "value": 504
     },
     {
       "categoryId": 8,
       "statisticId": 53,
       "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 2,
+      "value": 422
     },
     {
       "categoryId": 2,
@@ -32,23 +32,18 @@
     },
     {
       "categoryId": 8,
-      "statisticId": 28,
-      "value": 2
-    },
-    {
-      "categoryId": 8,
       "statisticId": 24,
       "value": 50
     },
     {
       "categoryId": 8,
-      "statisticId": 5,
-      "value": 19
+      "statisticId": 28,
+      "value": 2
     },
     {
       "categoryId": 8,
       "statisticId": 11,
-      "value": 35
+      "value": 36
     },
     {
       "categoryId": 4,

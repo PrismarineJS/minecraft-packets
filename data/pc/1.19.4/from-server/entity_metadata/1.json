@@ -1,11 +1,6 @@
 {
-  "entityId": 146,
+  "entityId": 70,
   "metadata": [
-    {
-      "key": 15,
-      "type": "byte",
-      "value": 2
-    },
     {
       "key": 9,
       "type": "float",

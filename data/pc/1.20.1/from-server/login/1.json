@@ -1,12 +1,12 @@
 {
-  "entityId": 230,
+  "entityId": 205,
   "isHardcore": false,
   "gameMode": 0,
   "previousGameMode": -1,
   "worldNames": [
     "minecraft:overworld",
-    "minecraft:the_end",
-    "minecraft:the_nether"
+    "minecraft:the_nether",
+    "minecraft:the_end"
   ],
   "dimensionCodec": {
     "type": "compound",
@@ -8386,8 +8386,8 @@
   "worldType": "minecraft:overworld",
   "worldName": "minecraft:overworld",
   "hashedSeed": [
-    -501720214,
-    854231763
+    -1612320341,
+    -657973452
   ],
   "maxPlayers": 20,
   "viewDistance": 10,

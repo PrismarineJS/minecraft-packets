@@ -1,4 +1,4 @@
 {
-  "content": "{\"italic\":true,\"color\":\"gray\",\"translate\":\"chat.type.admin\",\"with\":[{\"text\":\"Server\"},{\"translate\":\"commands.time.set\",\"with\":[\"13000\"]}]}",
+  "content": "{\"color\":\"red\",\"extra\":[{\"color\":\"gray\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/setblock ~ ~ ~ air\"},\"extra\":[{\"text\":\"\"},{\"underlined\":true,\"color\":\"red\",\"text\":\"setblock ~ ~ ~ air\"},{\"italic\":true,\"color\":\"red\",\"translate\":\"command.context.here\"}],\"text\":\"\"}],\"text\":\"\"}",
   "type": 1
 }

@@ -1,14 +1,9 @@
 {
-  "entityId": 56,
+  "entityId": 118,
   "metadata": [
     {
       "type": 0,
       "key": 0,
-      "value": 0
-    },
-    {
-      "type": 0,
-      "key": 16,
       "value": 0
     },
     {
@@ -34,7 +29,7 @@
     {
       "type": 3,
       "key": 6,
-      "value": 8
+      "value": 10
     },
     {
       "type": 2,

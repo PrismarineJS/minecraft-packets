@@ -17,13 +17,18 @@
     },
     {
       "categoryId": 8,
+      "statisticId": 3,
+      "value": 622
+    },
+    {
+      "categoryId": 8,
       "statisticId": 55,
       "value": 1
     },
     {
       "categoryId": 8,
       "statisticId": 1,
-      "value": 1001
+      "value": 1021
     },
     {
       "categoryId": 2,
@@ -32,8 +37,8 @@
     },
     {
       "categoryId": 8,
-      "statisticId": 3,
-      "value": 622
+      "statisticId": 26,
+      "value": 50
     },
     {
       "categoryId": 8,
@@ -43,12 +48,7 @@
     {
       "categoryId": 8,
       "statisticId": 2,
-      "value": 1001
-    },
-    {
-      "categoryId": 8,
-      "statisticId": 13,
-      "value": 9
+      "value": 1021
     },
     {
       "categoryId": 4,

@@ -1,4 +1,4 @@
-<details><summary>Collected (65)</summary>
+<details><summary>Collected (64)</summary>
 <p>
 
 | Packet |
@@ -18,11 +18,11 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
 | spawn_entity_living |
+| entity_metadata |
 | entity_update_attributes |
+| spawn_entity |
+| entity_velocity |
 | world_border |
 | update_time |
 | spawn_position |
@@ -33,24 +33,23 @@
 | keep_alive |
 | multi_block_change |
 | block_change |
-| entity_move_look |
-| rel_entity_move |
-| entity_destroy |
 | advancements |
 | entity_equipment |
 | entity_head_rotation |
-| entity_teleport |
-| sound_effect |
+| rel_entity_move |
+| entity_destroy |
 | world_event |
-| chat |
+| entity_move_look |
+| entity_teleport |
 | entity_look |
+| chat |
+| sound_effect |
 | named_entity_spawn |
 | tab_complete |
 | combat_event |
 | respawn |
 | game_state_change |
 | set_cooldown |
-| unload_chunk |
 | map |
 | title |
 | scoreboard_objective |
@@ -71,7 +70,7 @@
 
 </p>
 </details>
-<details><summary>Missing (28)</summary>
+<details><summary>Missing (29)</summary>
 <p>
 
 | Packet |
@@ -85,6 +84,7 @@
 | nbt_query_response |
 | kick_disconnect |
 | explosion |
+| unload_chunk |
 | open_horse_window |
 | world_particles |
 | trade_list |

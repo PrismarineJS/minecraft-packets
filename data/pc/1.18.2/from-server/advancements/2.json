@@ -2,6 +2,41 @@
   "reset": false,
   "advancementMapping": [
     {
+      "key": "minecraft:recipes/building_blocks/coal_block",
+      "value": {
+        "parentId": "minecraft:recipes/root",
+        "criteria": [
+          {
+            "key": "has_coal"
+          },
+          {
+            "key": "has_the_recipe"
+          }
+        ],
+        "requirements": [
+          [
+            "has_coal",
+            "has_the_recipe"
+          ]
+        ]
+      }
+    },
+    {
+      "key": "minecraft:recipes/root",
+      "value": {
+        "criteria": [
+          {
+            "key": "impossible"
+          }
+        ],
+        "requirements": [
+          [
+            "impossible"
+          ]
+        ]
+      }
+    },
+    {
       "key": "minecraft:recipes/decorations/campfire",
       "value": {
         "parentId": "minecraft:recipes/root",
@@ -26,27 +61,12 @@
       }
     },
     {
-      "key": "minecraft:recipes/root",
-      "value": {
-        "criteria": [
-          {
-            "key": "impossible"
-          }
-        ],
-        "requirements": [
-          [
-            "impossible"
-          ]
-        ]
-      }
-    },
-    {
-      "key": "minecraft:recipes/building_blocks/coal_block",
+      "key": "minecraft:recipes/misc/green_dye",
       "value": {
         "parentId": "minecraft:recipes/root",
         "criteria": [
           {
-            "key": "has_coal"
+            "key": "has_cactus"
           },
           {
             "key": "has_the_recipe"
@@ -54,7 +74,7 @@
         ],
         "requirements": [
           [
-            "has_coal",
+            "has_cactus",
             "has_the_recipe"
           ]
         ]
@@ -70,7 +90,7 @@
           "criterionIdentifier": "has_coal",
           "criterionProgress": [
             396,
-            -1217134757
+            -1215748939
           ]
         },
         {
@@ -88,7 +108,22 @@
           "criterionIdentifier": "has_coal",
           "criterionProgress": [
             396,
-            -1217134755
+            -1215748942
+          ]
+        },
+        {
+          "criterionIdentifier": "has_the_recipe"
+        }
+      ]
+    },
+    {
+      "key": "minecraft:recipes/misc/green_dye",
+      "value": [
+        {
+          "criterionIdentifier": "has_cactus",
+          "criterionProgress": [
+            396,
+            -1215748937
           ]
         },
         {

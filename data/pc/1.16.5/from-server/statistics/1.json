@@ -3,7 +3,7 @@
     {
       "categoryId": 8,
       "statisticId": 3,
-      "value": 458
+      "value": 442
     },
     {
       "categoryId": 4,
@@ -18,12 +18,17 @@
     {
       "categoryId": 8,
       "statisticId": 1,
-      "value": 521
+      "value": 519
     },
     {
       "categoryId": 8,
       "statisticId": 54,
       "value": 1
+    },
+    {
+      "categoryId": 8,
+      "statisticId": 2,
+      "value": 440
     },
     {
       "categoryId": 2,
@@ -32,8 +37,8 @@
     },
     {
       "categoryId": 8,
-      "statisticId": 2,
-      "value": 457
+      "statisticId": 25,
+      "value": 50
     },
     {
       "categoryId": 8,

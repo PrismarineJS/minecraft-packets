@@ -40,14 +40,6 @@
           ]
         },
         {
-          "tagName": "minecraft:piglin_repellents",
-          "entries": [
-            286,
-            1099,
-            1103
-          ]
-        },
-        {
           "tagName": "minecraft:wooden_fences",
           "entries": [
             268,
@@ -59,6 +51,14 @@
             275,
             276,
             274
+          ]
+        },
+        {
+          "tagName": "minecraft:piglin_repellents",
+          "entries": [
+            286,
+            1099,
+            1103
           ]
         },
         {
@@ -187,20 +187,6 @@
           ]
         },
         {
-          "tagName": "minecraft:signs",
-          "entries": [
-            804,
-            805,
-            806,
-            808,
-            807,
-            809,
-            811,
-            812,
-            810
-          ]
-        },
-        {
           "tagName": "minecraft:spruce_logs",
           "entries": [
             105,
@@ -221,6 +207,20 @@
             345,
             346,
             344
+          ]
+        },
+        {
+          "tagName": "minecraft:signs",
+          "entries": [
+            804,
+            805,
+            806,
+            808,
+            807,
+            809,
+            811,
+            812,
+            810
           ]
         },
         {
@@ -372,6 +372,15 @@
           ]
         },
         {
+          "tagName": "minecraft:stone_bricks",
+          "entries": [
+            295,
+            296,
+            297,
+            298
+          ]
+        },
+        {
           "tagName": "minecraft:creeper_drop_music_discs",
           "entries": [
             1058,
@@ -389,12 +398,10 @@
           ]
         },
         {
-          "tagName": "minecraft:stone_bricks",
+          "tagName": "minecraft:compasses",
           "entries": [
-            295,
-            296,
-            297,
-            298
+            833,
+            834
           ]
         },
         {
@@ -424,13 +431,6 @@
             411,
             412,
             413
-          ]
-        },
-        {
-          "tagName": "minecraft:compasses",
-          "entries": [
-            833,
-            834
           ]
         },
         {
@@ -535,6 +535,13 @@
           ]
         },
         {
+          "tagName": "minecraft:redstone_ores",
+          "entries": [
+            51,
+            52
+          ]
+        },
+        {
           "tagName": "minecraft:trapdoors",
           "entries": [
             671,
@@ -547,13 +554,6 @@
             675,
             673,
             666
-          ]
-        },
-        {
-          "tagName": "minecraft:redstone_ores",
-          "entries": [
-            51,
-            52
           ]
         },
         {
@@ -621,13 +621,6 @@
           ]
         },
         {
-          "tagName": "minecraft:wart_blocks",
-          "entries": [
-            469,
-            470
-          ]
-        },
-        {
           "tagName": "minecraft:terracotta",
           "entries": [
             414,
@@ -650,6 +643,13 @@
           ]
         },
         {
+          "tagName": "minecraft:wart_blocks",
+          "entries": [
+            469,
+            470
+          ]
+        },
+        {
           "tagName": "minecraft:planks",
           "entries": [
             23,
@@ -661,13 +661,6 @@
             30,
             31,
             29
-          ]
-        },
-        {
-          "tagName": "minecraft:fox_food",
-          "entries": [
-            1100,
-            1101
           ]
         },
         {
@@ -687,6 +680,13 @@
             707,
             709,
             711
+          ]
+        },
+        {
+          "tagName": "minecraft:fox_food",
+          "entries": [
+            1100,
+            1101
           ]
         },
         {
@@ -712,6 +712,18 @@
           "entries": [
             57,
             58
+          ]
+        },
+        {
+          "tagName": "minecraft:overworld_natural_logs",
+          "entries": [
+            108,
+            106,
+            104,
+            107,
+            105,
+            109,
+            110
           ]
         },
         {
@@ -745,18 +757,6 @@
             665,
             811,
             812
-          ]
-        },
-        {
-          "tagName": "minecraft:overworld_natural_logs",
-          "entries": [
-            108,
-            106,
-            104,
-            107,
-            105,
-            109,
-            110
           ]
         },
         {
@@ -838,28 +838,6 @@
           ]
         },
         {
-          "tagName": "minecraft:candles",
-          "entries": [
-            1125,
-            1126,
-            1127,
-            1128,
-            1129,
-            1130,
-            1131,
-            1132,
-            1133,
-            1134,
-            1135,
-            1136,
-            1137,
-            1138,
-            1139,
-            1140,
-            1141
-          ]
-        },
-        {
           "tagName": "minecraft:music_discs",
           "entries": [
             1058,
@@ -915,6 +893,28 @@
             371,
             372,
             373
+          ]
+        },
+        {
+          "tagName": "minecraft:candles",
+          "entries": [
+            1125,
+            1126,
+            1127,
+            1128,
+            1129,
+            1130,
+            1131,
+            1132,
+            1133,
+            1134,
+            1135,
+            1136,
+            1137,
+            1138,
+            1139,
+            1140,
+            1141
           ]
         },
         {
@@ -1027,21 +1027,6 @@
           ]
         },
         {
-          "tagName": "minecraft:fences",
-          "entries": [
-            268,
-            272,
-            273,
-            269,
-            270,
-            271,
-            275,
-            276,
-            274,
-            324
-          ]
-        },
-        {
           "tagName": "minecraft:logs_that_burn",
           "entries": [
             109,
@@ -1075,6 +1060,21 @@
           ]
         },
         {
+          "tagName": "minecraft:fences",
+          "entries": [
+            268,
+            272,
+            273,
+            269,
+            270,
+            271,
+            275,
+            276,
+            274,
+            324
+          ]
+        },
+        {
           "tagName": "minecraft:saplings",
           "entries": [
             32,
@@ -1086,20 +1086,6 @@
             162,
             163,
             38
-          ]
-        },
-        {
-          "tagName": "minecraft:dirt",
-          "entries": [
-            15,
-            14,
-            17,
-            16,
-            319,
-            18,
-            209,
-            19,
-            112
           ]
         },
         {
@@ -1121,6 +1107,20 @@
             879,
             869,
             873
+          ]
+        },
+        {
+          "tagName": "minecraft:dirt",
+          "entries": [
+            15,
+            14,
+            17,
+            16,
+            319,
+            18,
+            209,
+            19,
+            112
           ]
         },
         {
@@ -1171,18 +1171,18 @@
       "tagType": "minecraft:entity_type",
       "tags": [
         {
+          "tagName": "minecraft:frog_food",
+          "entries": [
+            83,
+            51
+          ]
+        },
+        {
           "tagName": "minecraft:axolotl_always_hostiles",
           "entries": [
             19,
             38,
             20
-          ]
-        },
-        {
-          "tagName": "minecraft:frog_food",
-          "entries": [
-            83,
-            51
           ]
         },
         {
@@ -1203,12 +1203,6 @@
           ]
         },
         {
-          "tagName": "minecraft:beehive_inhabitors",
-          "entries": [
-            6
-          ]
-        },
-        {
           "tagName": "minecraft:impact_projectiles",
           "entries": [
             3,
@@ -1220,6 +1214,12 @@
             97,
             18,
             109
+          ]
+        },
+        {
+          "tagName": "minecraft:beehive_inhabitors",
+          "entries": [
+            6
           ]
         },
         {
@@ -1435,6 +1435,17 @@
           ]
         },
         {
+          "tagName": "minecraft:is_forest",
+          "entries": [
+            8,
+            9,
+            10,
+            12,
+            11,
+            30
+          ]
+        },
+        {
           "tagName": "minecraft:is_ocean",
           "entries": [
             48,
@@ -1446,17 +1457,6 @@
             45,
             41,
             40
-          ]
-        },
-        {
-          "tagName": "minecraft:is_forest",
-          "entries": [
-            8,
-            9,
-            10,
-            12,
-            11,
-            30
           ]
         },
         {
@@ -1649,6 +1649,12 @@
           ]
         },
         {
+          "tagName": "minecraft:without_wandering_trader_spawns",
+          "entries": [
+            0
+          ]
+        },
+        {
           "tagName": "minecraft:has_structure/ancient_city",
           "entries": [
             52
@@ -1660,12 +1666,6 @@
             26,
             27,
             28
-          ]
-        },
-        {
-          "tagName": "minecraft:without_wandering_trader_spawns",
-          "entries": [
-            0
           ]
         },
         {
@@ -1909,6 +1909,12 @@
           ]
         },
         {
+          "tagName": "minecraft:mineshaft_blocking",
+          "entries": [
+            52
+          ]
+        },
+        {
           "tagName": "minecraft:required_ocean_monument_surrounding",
           "entries": [
             48,
@@ -1922,12 +1928,6 @@
             40,
             35,
             36
-          ]
-        },
-        {
-          "tagName": "minecraft:mineshaft_blocking",
-          "entries": [
-            52
           ]
         },
         {
@@ -2262,12 +2262,6 @@
       "tagType": "minecraft:banner_pattern",
       "tags": [
         {
-          "tagName": "minecraft:pattern_item/piglin",
-          "entries": [
-            40
-          ]
-        },
-        {
           "tagName": "minecraft:no_item_required",
           "entries": [
             1,
@@ -2304,6 +2298,12 @@
             32,
             33,
             34
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/piglin",
+          "entries": [
+            40
           ]
         },
         {
@@ -2395,6 +2395,13 @@
           ]
         },
         {
+          "tagName": "minecraft:coal_ores",
+          "entries": [
+            37,
+            38
+          ]
+        },
+        {
           "tagName": "minecraft:occludes_vibration_signals",
           "entries": [
             117,
@@ -2413,13 +2420,6 @@
             130,
             131,
             132
-          ]
-        },
-        {
-          "tagName": "minecraft:coal_ores",
-          "entries": [
-            37,
-            38
           ]
         },
         {
@@ -2722,6 +2722,17 @@
           ]
         },
         {
+          "tagName": "minecraft:crops",
+          "entries": [
+            535,
+            336,
+            337,
+            168,
+            271,
+            270
+          ]
+        },
+        {
           "tagName": "minecraft:dragon_immune",
           "entries": [
             410,
@@ -2741,17 +2752,6 @@
             264,
             776,
             932
-          ]
-        },
-        {
-          "tagName": "minecraft:crops",
-          "entries": [
-            535,
-            336,
-            337,
-            168,
-            271,
-            270
           ]
         },
         {
@@ -2814,12 +2814,11 @@
           ]
         },
         {
-          "tagName": "minecraft:warped_stems",
+          "tagName": "minecraft:infiniburn_end",
           "entries": [
-            722,
-            723,
-            724,
-            725
+            213,
+            541,
+            27
           ]
         },
         {
@@ -2837,11 +2836,12 @@
           ]
         },
         {
-          "tagName": "minecraft:infiniburn_end",
+          "tagName": "minecraft:warped_stems",
           "entries": [
-            213,
-            541,
-            27
+            722,
+            723,
+            724,
+            725
           ]
         },
         {
@@ -2995,6 +2995,13 @@
           ]
         },
         {
+          "tagName": "minecraft:wart_blocks",
+          "entries": [
+            542,
+            728
+          ]
+        },
+        {
           "tagName": "minecraft:terracotta",
           "entries": [
             440,
@@ -3014,13 +3021,6 @@
             387,
             388,
             389
-          ]
-        },
-        {
-          "tagName": "minecraft:wart_blocks",
-          "entries": [
-            542,
-            728
           ]
         },
         {
@@ -3265,13 +3265,6 @@
           ]
         },
         {
-          "tagName": "minecraft:lapis_ores",
-          "entries": [
-            82,
-            83
-          ]
-        },
-        {
           "tagName": "minecraft:moss_replaceable",
           "entries": [
             1,
@@ -3291,6 +3284,13 @@
             894,
             900,
             48
+          ]
+        },
+        {
+          "tagName": "minecraft:lapis_ores",
+          "entries": [
+            82,
+            83
           ]
         },
         {
@@ -3773,15 +3773,6 @@
           ]
         },
         {
-          "tagName": "minecraft:oak_logs",
-          "entries": [
-            40,
-            56,
-            54,
-            63
-          ]
-        },
-        {
           "tagName": "minecraft:unstable_bottom_center",
           "entries": [
             513,
@@ -3793,6 +3784,15 @@
             753,
             754,
             515
+          ]
+        },
+        {
+          "tagName": "minecraft:oak_logs",
+          "entries": [
+            40,
+            56,
+            54,
+            63
           ]
         },
         {
@@ -3892,6 +3892,13 @@
           ]
         },
         {
+          "tagName": "minecraft:infiniburn_overworld",
+          "entries": [
+            213,
+            541
+          ]
+        },
+        {
           "tagName": "minecraft:flower_pots",
           "entries": [
             310,
@@ -3930,23 +3937,6 @@
           ]
         },
         {
-          "tagName": "minecraft:infiniburn_overworld",
-          "entries": [
-            213,
-            541
-          ]
-        },
-        {
-          "tagName": "minecraft:piglin_repellents",
-          "entries": [
-            159,
-            218,
-            718,
-            219,
-            720
-          ]
-        },
-        {
           "tagName": "minecraft:wooden_fences",
           "entries": [
             211,
@@ -3958,6 +3948,16 @@
             749,
             750,
             521
+          ]
+        },
+        {
+          "tagName": "minecraft:piglin_repellents",
+          "entries": [
+            159,
+            218,
+            718,
+            219,
+            720
           ]
         },
         {
@@ -4152,15 +4152,6 @@
           ]
         },
         {
-          "tagName": "minecraft:mangrove_logs",
-          "entries": [
-            46,
-            62,
-            55,
-            69
-          ]
-        },
-        {
           "tagName": "minecraft:overworld_carver_replaceables",
           "entries": [
             1,
@@ -4210,6 +4201,15 @@
             442,
             923,
             924
+          ]
+        },
+        {
+          "tagName": "minecraft:mangrove_logs",
+          "entries": [
+            46,
+            62,
+            55,
+            69
           ]
         },
         {
@@ -4325,29 +4325,6 @@
           ]
         },
         {
-          "tagName": "minecraft:spruce_logs",
-          "entries": [
-            41,
-            57,
-            49,
-            64
-          ]
-        },
-        {
-          "tagName": "minecraft:wooden_stairs",
-          "entries": [
-            161,
-            303,
-            304,
-            305,
-            406,
-            407,
-            755,
-            756,
-            408
-          ]
-        },
-        {
           "tagName": "minecraft:signs",
           "entries": [
             171,
@@ -4368,6 +4345,29 @@
             763,
             764,
             188
+          ]
+        },
+        {
+          "tagName": "minecraft:spruce_logs",
+          "entries": [
+            41,
+            57,
+            49,
+            64
+          ]
+        },
+        {
+          "tagName": "minecraft:wooden_stairs",
+          "entries": [
+            161,
+            303,
+            304,
+            305,
+            406,
+            407,
+            755,
+            756,
+            408
           ]
         },
         {
@@ -4450,21 +4450,21 @@
           ]
         },
         {
-          "tagName": "minecraft:hoglin_repellents",
-          "entries": [
-            727,
-            778,
-            221,
-            776
-          ]
-        },
-        {
           "tagName": "minecraft:stone_bricks",
           "entries": [
             249,
             250,
             251,
             252
+          ]
+        },
+        {
+          "tagName": "minecraft:hoglin_repellents",
+          "entries": [
+            727,
+            778,
+            221,
+            776
           ]
         },
         {
@@ -4928,13 +4928,6 @@
           ]
         },
         {
-          "tagName": "minecraft:redstone_ores",
-          "entries": [
-            199,
-            200
-          ]
-        },
-        {
           "tagName": "minecraft:trapdoors",
           "entries": [
             246,
@@ -4947,6 +4940,13 @@
             752,
             248,
             412
+          ]
+        },
+        {
+          "tagName": "minecraft:redstone_ores",
+          "entries": [
+            199,
+            200
           ]
         },
         {
@@ -4963,6 +4963,22 @@
             889,
             721,
             109
+          ]
+        },
+        {
+          "tagName": "minecraft:buttons",
+          "entries": [
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            757,
+            758,
+            344,
+            203,
+            797
           ]
         },
         {
@@ -5003,22 +5019,6 @@
             643,
             644,
             645
-          ]
-        },
-        {
-          "tagName": "minecraft:buttons",
-          "entries": [
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            757,
-            758,
-            344,
-            203,
-            797
           ]
         },
         {
@@ -5091,13 +5091,6 @@
           ]
         },
         {
-          "tagName": "minecraft:deepslate_ore_replaceables",
-          "entries": [
-            901,
-            842
-          ]
-        },
-        {
           "tagName": "minecraft:leaves",
           "entries": [
             73,
@@ -5109,6 +5102,13 @@
             77,
             78,
             76
+          ]
+        },
+        {
+          "tagName": "minecraft:deepslate_ore_replaceables",
+          "entries": [
+            901,
+            842
           ]
         },
         {
@@ -5321,11 +5321,10 @@
           ]
         },
         {
-          "tagName": "minecraft:snow",
+          "tagName": "minecraft:nylium",
           "entries": [
-            204,
-            206,
-            845
+            735,
+            726
           ]
         },
         {
@@ -5336,17 +5335,18 @@
           ]
         },
         {
+          "tagName": "minecraft:snow",
+          "entries": [
+            204,
+            206,
+            845
+          ]
+        },
+        {
           "tagName": "minecraft:copper_ores",
           "entries": [
             855,
             856
-          ]
-        },
-        {
-          "tagName": "minecraft:nylium",
-          "entries": [
-            735,
-            726
           ]
         },
         {
@@ -5362,6 +5362,39 @@
           "entries": [
             208,
             894
+          ]
+        },
+        {
+          "tagName": "minecraft:logs_that_burn",
+          "entries": [
+            45,
+            61,
+            53,
+            68,
+            40,
+            56,
+            54,
+            63,
+            44,
+            60,
+            52,
+            67,
+            42,
+            58,
+            50,
+            65,
+            43,
+            59,
+            51,
+            66,
+            41,
+            57,
+            49,
+            64,
+            46,
+            62,
+            55,
+            69
           ]
         },
         {
@@ -5414,39 +5447,6 @@
             76,
             542,
             728
-          ]
-        },
-        {
-          "tagName": "minecraft:logs_that_burn",
-          "entries": [
-            45,
-            61,
-            53,
-            68,
-            40,
-            56,
-            54,
-            63,
-            44,
-            60,
-            52,
-            67,
-            42,
-            58,
-            50,
-            65,
-            43,
-            59,
-            51,
-            66,
-            41,
-            57,
-            49,
-            64,
-            46,
-            62,
-            55,
-            69
           ]
         },
         {

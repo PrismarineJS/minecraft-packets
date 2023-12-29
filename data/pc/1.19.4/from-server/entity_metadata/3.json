@@ -1,19 +1,10 @@
 {
-  "entityId": 147,
+  "entityId": 62,
   "metadata": [
     {
       "key": 9,
       "type": "float",
-      "value": 20
-    },
-    {
-      "key": 18,
-      "type": "villager_data",
-      "value": {
-        "villagerType": 4,
-        "villagerProfession": 0,
-        "level": 1
-      }
+      "value": 10
     }
   ]
 }

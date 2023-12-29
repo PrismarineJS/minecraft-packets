@@ -1,7 +1,7 @@
 {
-  "entityUUID": "c03a52b2-02dc-4d16-a876-f8e95c04e053",
+  "entityUUID": "ed636f45-7e96-4a22-9acf-29b6d7b75e1a",
   "action": 0,
-  "title": "{\"insertion\":\"9f17d482-1442-4c07-80a5-795ae38038d5\",\"hoverEvent\":{\"action\":\"show_entity\",\"value\":{\"text\":\"{name:\\\"Wither\\\",id:\\\"9f17d482-1442-4c07-80a5-795ae38038d5\\\",type:\\\"minecraft:wither\\\"}\"}},\"text\":\"Wither\"}",
+  "title": "{\"insertion\":\"8adac306-875d-469c-ba95-c8be8cef1af2\",\"hoverEvent\":{\"action\":\"show_entity\",\"value\":{\"text\":\"{name:\\\"Wither\\\",id:\\\"8adac306-875d-469c-ba95-c8be8cef1af2\\\",type:\\\"minecraft:wither\\\"}\"}},\"text\":\"Wither\"}",
   "health": 1,
   "color": 5,
   "dividers": 0,

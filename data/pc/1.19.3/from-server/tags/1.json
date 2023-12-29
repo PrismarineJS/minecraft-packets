@@ -1,1096 +1,8 @@
 {
   "tags": [
     {
-      "tagType": "minecraft:instrument",
-      "tags": [
-        {
-          "tagName": "minecraft:screaming_goat_horns",
-          "entries": [
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "tagName": "minecraft:goat_horns",
-          "entries": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "tagName": "minecraft:regular_goat_horns",
-          "entries": [
-            0,
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:point_of_interest_type",
-      "tags": [
-        {
-          "tagName": "minecraft:bee_home",
-          "entries": [
-            15,
-            16
-          ]
-        },
-        {
-          "tagName": "minecraft:acquirable_job_site",
-          "entries": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "tagName": "minecraft:village",
-          "entries": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:worldgen/biome",
-      "tags": [
-        {
-          "tagName": "minecraft:has_structure/nether_fortress",
-          "entries": [
-            33,
-            47,
-            6,
-            57,
-            2
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ocean_ruin_warm",
-          "entries": [
-            28,
-            56,
-            11
-          ]
-        },
-        {
-          "tagName": "minecraft:water_on_map_outlines",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56,
-            39,
-            23,
-            52,
-            30
-          ]
-        },
-        {
-          "tagName": "minecraft:is_river",
-          "entries": [
-            39,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/mineshaft",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56,
-            39,
-            23,
-            3,
-            43,
-            31,
-            22,
-            26,
-            49,
-            45,
-            60,
-            58,
-            59,
-            53,
-            46,
-            36,
-            37,
-            1,
-            27,
-            48,
-            20,
-            19,
-            4,
-            35,
-            7,
-            24,
-            50,
-            32,
-            25,
-            61,
-            13,
-            40,
-            44,
-            38,
-            51,
-            52,
-            30,
-            41,
-            14,
-            29
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/jungle_temple",
-          "entries": [
-            1,
-            27
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/village_desert",
-          "entries": [
-            13
-          ]
-        },
-        {
-          "tagName": "minecraft:more_frequent_drowned_spawns",
-          "entries": [
-            39,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:is_jungle",
-          "entries": [
-            1,
-            27,
-            48
-          ]
-        },
-        {
-          "tagName": "minecraft:is_ocean",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56
-          ]
-        },
-        {
-          "tagName": "minecraft:is_forest",
-          "entries": [
-            20,
-            19,
-            4,
-            35,
-            7,
-            24
-          ]
-        },
-        {
-          "tagName": "minecraft:is_overworld",
-          "entries": [
-            32,
-            10,
-            21,
-            8,
-            5,
-            12,
-            34,
-            11,
-            28,
-            56,
-            50,
-            52,
-            30,
-            45,
-            44,
-            43,
-            59,
-            24,
-            60,
-            46,
-            58,
-            53,
-            38,
-            31,
-            3,
-            20,
-            37,
-            19,
-            4,
-            7,
-            41,
-            40,
-            27,
-            0,
-            13,
-            62,
-            26,
-            49,
-            23,
-            39,
-            25,
-            36,
-            51,
-            35,
-            48,
-            1,
-            18,
-            61,
-            22,
-            14,
-            29,
-            9
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/village_savanna",
-          "entries": [
-            40
-          ]
-        },
-        {
-          "tagName": "minecraft:without_patrol_spawns",
-          "entries": [
-            32
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/village_taiga",
-          "entries": [
-            53
-          ]
-        },
-        {
-          "tagName": "minecraft:allows_tropical_fish_spawns_at_any_height",
-          "entries": [
-            29
-          ]
-        },
-        {
-          "tagName": "minecraft:polar_bears_spawn_on_alternate_blocks",
-          "entries": [
-            21,
-            10
-          ]
-        },
-        {
-          "tagName": "minecraft:has_closer_water_fog",
-          "entries": [
-            52,
-            30
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/village_plains",
-          "entries": [
-            38,
-            31
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/buried_treasure",
-          "entries": [
-            3,
-            43
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ocean_ruin_cold",
-          "entries": [
-            21,
-            5,
-            34,
-            10,
-            8,
-            12
-          ]
-        },
-        {
-          "tagName": "minecraft:produces_corals_from_bonemeal",
-          "entries": [
-            56
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/stronghold",
-          "entries": [
-            32,
-            10,
-            21,
-            8,
-            5,
-            12,
-            34,
-            11,
-            28,
-            56,
-            50,
-            52,
-            30,
-            45,
-            44,
-            43,
-            59,
-            24,
-            60,
-            46,
-            58,
-            53,
-            38,
-            31,
-            3,
-            20,
-            37,
-            19,
-            4,
-            7,
-            41,
-            40,
-            27,
-            0,
-            13,
-            62,
-            26,
-            49,
-            23,
-            39,
-            25,
-            36,
-            51,
-            35,
-            48,
-            1,
-            18,
-            61,
-            22,
-            14,
-            29,
-            9
-          ]
-        },
-        {
-          "tagName": "minecraft:without_wandering_trader_spawns",
-          "entries": [
-            55
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ancient_city",
-          "entries": [
-            9
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_desert",
-          "entries": [
-            13
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/mineshaft_mesa",
-          "entries": [
-            0,
-            18,
-            62
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_swamp",
-          "entries": [
-            52,
-            30
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/shipwreck",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56
-          ]
-        },
-        {
-          "tagName": "minecraft:is_savanna",
-          "entries": [
-            40,
-            41,
-            61
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/swamp_hut",
-          "entries": [
-            52
-          ]
-        },
-        {
-          "tagName": "minecraft:spawns_cold_variant_frogs",
-          "entries": [
-            44,
-            25,
-            22,
-            26,
-            45,
-            21,
-            10,
-            24,
-            9,
-            23,
-            46,
-            43,
-            54,
-            16,
-            17,
-            42,
-            15
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/igloo",
-          "entries": [
-            46,
-            44,
-            45
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/shipwreck_beached",
-          "entries": [
-            3,
-            43
-          ]
-        },
-        {
-          "tagName": "minecraft:is_hill",
-          "entries": [
-            60,
-            58,
-            59
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_nether",
-          "entries": [
-            33,
-            47,
-            6,
-            57,
-            2
-          ]
-        },
-        {
-          "tagName": "minecraft:only_allows_snow_and_gold_rabbits",
-          "entries": [
-            13
-          ]
-        },
-        {
-          "tagName": "minecraft:is_end",
-          "entries": [
-            54,
-            16,
-            17,
-            42,
-            15
-          ]
-        },
-        {
-          "tagName": "minecraft:stronghold_biased_to",
-          "entries": [
-            38,
-            51,
-            44,
-            25,
-            13,
-            20,
-            19,
-            4,
-            7,
-            35,
-            36,
-            37,
-            53,
-            46,
-            40,
-            41,
-            60,
-            59,
-            58,
-            61,
-            27,
-            48,
-            1,
-            0,
-            18,
-            62,
-            31,
-            24,
-            45,
-            22,
-            26,
-            49,
-            32,
-            14,
-            29
-          ]
-        },
-        {
-          "tagName": "minecraft:without_zombie_sieges",
-          "entries": [
-            32
-          ]
-        },
-        {
-          "tagName": "minecraft:is_beach",
-          "entries": [
-            3,
-            43
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_standard",
-          "entries": [
-            3,
-            43,
-            39,
-            23,
-            53,
-            46,
-            36,
-            37,
-            20,
-            19,
-            4,
-            35,
-            7,
-            24,
-            32,
-            25,
-            14,
-            29,
-            40,
-            44,
-            38,
-            51
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/pillager_outpost",
-          "entries": [
-            13,
-            38,
-            40,
-            44,
-            53,
-            31,
-            22,
-            26,
-            49,
-            45,
-            24
-          ]
-        },
-        {
-          "tagName": "minecraft:allows_surface_slime_spawns",
-          "entries": [
-            52,
-            30
-          ]
-        },
-        {
-          "tagName": "minecraft:is_taiga",
-          "entries": [
-            53,
-            46,
-            36,
-            37
-          ]
-        },
-        {
-          "tagName": "minecraft:spawns_warm_variant_frogs",
-          "entries": [
-            13,
-            56,
-            1,
-            27,
-            48,
-            40,
-            41,
-            61,
-            33,
-            47,
-            6,
-            57,
-            2,
-            0,
-            18,
-            62,
-            30
-          ]
-        },
-        {
-          "tagName": "minecraft:required_ocean_monument_surrounding",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56,
-            39,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:mineshaft_blocking",
-          "entries": [
-            9
-          ]
-        },
-        {
-          "tagName": "minecraft:is_mountain",
-          "entries": [
-            31,
-            22,
-            26,
-            49,
-            45
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/village_snowy",
-          "entries": [
-            44
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ocean_monument",
-          "entries": [
-            10,
-            8,
-            12,
-            11
-          ]
-        },
-        {
-          "tagName": "minecraft:is_badlands",
-          "entries": [
-            0,
-            18,
-            62
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_jungle",
-          "entries": [
-            1,
-            27,
-            48
-          ]
-        },
-        {
-          "tagName": "minecraft:plays_underwater_music",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56,
-            39,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/desert_pyramid",
-          "entries": [
-            13
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/nether_fossil",
-          "entries": [
-            47
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_ocean",
-          "entries": [
-            10,
-            8,
-            12,
-            11,
-            21,
-            34,
-            5,
-            28,
-            56
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/end_city",
-          "entries": [
-            16,
-            17
-          ]
-        },
-        {
-          "tagName": "minecraft:is_deep_ocean",
-          "entries": [
-            10,
-            8,
-            12,
-            11
-          ]
-        },
-        {
-          "tagName": "minecraft:is_nether",
-          "entries": [
-            33,
-            47,
-            6,
-            57,
-            2
-          ]
-        },
-        {
-          "tagName": "minecraft:reduce_water_ambient_spawns",
-          "entries": [
-            39,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/bastion_remnant",
-          "entries": [
-            6,
-            33,
-            47,
-            57
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/woodland_mansion",
-          "entries": [
-            7
-          ]
-        },
-        {
-          "tagName": "minecraft:has_structure/ruined_portal_mountain",
-          "entries": [
-            0,
-            18,
-            62,
-            60,
-            58,
-            59,
-            41,
-            61,
-            50,
-            31,
-            22,
-            26,
-            49,
-            45
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:cat_variant",
-      "tags": [
-        {
-          "tagName": "minecraft:default_spawns",
-          "entries": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "tagName": "minecraft:full_moon_spawns",
-          "entries": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:banner_pattern",
-      "tags": [
-        {
-          "tagName": "minecraft:no_item_required",
-          "entries": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/piglin",
-          "entries": [
-            40
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/flower",
-          "entries": [
-            38
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/creeper",
-          "entries": [
-            36
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/globe",
-          "entries": [
-            35
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/mojang",
-          "entries": [
-            39
-          ]
-        },
-        {
-          "tagName": "minecraft:pattern_item/skull",
-          "entries": [
-            37
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:entity_type",
-      "tags": [
-        {
-          "tagName": "minecraft:freeze_hurts_extra_types",
-          "entries": [
-            92,
-            7,
-            52
-          ]
-        },
-        {
-          "tagName": "minecraft:frog_food",
-          "entries": [
-            84,
-            52
-          ]
-        },
-        {
-          "tagName": "minecraft:axolotl_always_hostiles",
-          "entries": [
-            20,
-            39,
-            21
-          ]
-        },
-        {
-          "tagName": "minecraft:freeze_immune_entity_types",
-          "entries": [
-            91,
-            72,
-            86,
-            108
-          ]
-        },
-        {
-          "tagName": "minecraft:impact_projectiles",
-          "entries": [
-            3,
-            88,
-            87,
-            47,
-            85,
-            94,
-            98,
-            19,
-            110
-          ]
-        },
-        {
-          "tagName": "minecraft:beehive_inhabitors",
-          "entries": [
-            6
-          ]
-        },
-        {
-          "tagName": "minecraft:skeletons",
-          "entries": [
-            82,
-            91,
-            109
-          ]
-        },
-        {
-          "tagName": "minecraft:raiders",
-          "entries": [
-            26,
-            71,
-            76,
-            104,
-            43,
-            107
-          ]
-        },
-        {
-          "tagName": "minecraft:powder_snow_walkable_mobs",
-          "entries": [
-            75,
-            25,
-            81,
-            32
-          ]
-        },
-        {
-          "tagName": "minecraft:axolotl_hunt_targets",
-          "entries": [
-            100,
-            74,
-            77,
-            14,
-            90,
-            37,
-            93
-          ]
-        },
-        {
-          "tagName": "minecraft:arrows",
-          "entries": [
-            3,
-            88
-          ]
-        }
-      ]
-    },
-    {
       "tagType": "minecraft:item",
       "tags": [
-        {
-          "tagName": "minecraft:soul_fire_base_blocks",
-          "entries": [
-            289,
-            290
-          ]
-        },
         {
           "tagName": "minecraft:banners",
           "entries": [
@@ -1110,6 +22,13 @@
             1072,
             1073,
             1074
+          ]
+        },
+        {
+          "tagName": "minecraft:soul_fire_base_blocks",
+          "entries": [
+            289,
+            290
           ]
         },
         {
@@ -1453,6 +372,15 @@
           ]
         },
         {
+          "tagName": "minecraft:stone_bricks",
+          "entries": [
+            303,
+            304,
+            305,
+            306
+          ]
+        },
+        {
           "tagName": "minecraft:creeper_drop_music_discs",
           "entries": [
             1092,
@@ -1470,12 +398,11 @@
           ]
         },
         {
-          "tagName": "minecraft:stone_bricks",
+          "tagName": "minecraft:arrows",
           "entries": [
-            303,
-            304,
-            305,
-            306
+            736,
+            1084,
+            1083
           ]
         },
         {
@@ -1483,14 +410,6 @@
           "entries": [
             861,
             862
-          ]
-        },
-        {
-          "tagName": "minecraft:arrows",
-          "entries": [
-            736,
-            1084,
-            1083
           ]
         },
         {
@@ -1928,14 +847,6 @@
           ]
         },
         {
-          "tagName": "minecraft:anvil",
-          "entries": [
-            381,
-            382,
-            383
-          ]
-        },
-        {
           "tagName": "minecraft:candles",
           "entries": [
             1159,
@@ -1975,6 +886,14 @@
             1106,
             1104,
             1105
+          ]
+        },
+        {
+          "tagName": "minecraft:anvil",
+          "entries": [
+            381,
+            382,
+            383
           ]
         },
         {
@@ -2033,17 +952,17 @@
           ]
         },
         {
-          "tagName": "minecraft:sand",
-          "entries": [
-            42,
-            43
-          ]
-        },
-        {
           "tagName": "minecraft:copper_ores",
           "entries": [
             49,
             50
+          ]
+        },
+        {
+          "tagName": "minecraft:sand",
+          "entries": [
+            42,
+            43
           ]
         },
         {
@@ -2258,12 +1177,786 @@
       ]
     },
     {
-      "tagType": "minecraft:painting_variant",
+      "tagType": "minecraft:worldgen/biome",
       "tags": [
         {
-          "tagName": "minecraft:placeable",
+          "tagName": "minecraft:has_structure/nether_fortress",
+          "entries": [
+            33,
+            47,
+            6,
+            57,
+            2
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ocean_ruin_warm",
+          "entries": [
+            28,
+            56,
+            11
+          ]
+        },
+        {
+          "tagName": "minecraft:is_river",
+          "entries": [
+            39,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:water_on_map_outlines",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56,
+            39,
+            23,
+            52,
+            30
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/mineshaft",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56,
+            39,
+            23,
+            3,
+            43,
+            31,
+            22,
+            26,
+            49,
+            45,
+            60,
+            58,
+            59,
+            53,
+            46,
+            36,
+            37,
+            1,
+            27,
+            48,
+            20,
+            19,
+            4,
+            35,
+            7,
+            24,
+            50,
+            32,
+            25,
+            61,
+            13,
+            40,
+            44,
+            38,
+            51,
+            52,
+            30,
+            41,
+            14,
+            29
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/jungle_temple",
+          "entries": [
+            1,
+            27
+          ]
+        },
+        {
+          "tagName": "minecraft:more_frequent_drowned_spawns",
+          "entries": [
+            39,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/village_desert",
+          "entries": [
+            13
+          ]
+        },
+        {
+          "tagName": "minecraft:is_jungle",
+          "entries": [
+            1,
+            27,
+            48
+          ]
+        },
+        {
+          "tagName": "minecraft:is_forest",
+          "entries": [
+            20,
+            19,
+            4,
+            35,
+            7,
+            24
+          ]
+        },
+        {
+          "tagName": "minecraft:is_ocean",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56
+          ]
+        },
+        {
+          "tagName": "minecraft:is_overworld",
+          "entries": [
+            32,
+            10,
+            21,
+            8,
+            5,
+            12,
+            34,
+            11,
+            28,
+            56,
+            50,
+            52,
+            30,
+            45,
+            44,
+            43,
+            59,
+            24,
+            60,
+            46,
+            58,
+            53,
+            38,
+            31,
+            3,
+            20,
+            37,
+            19,
+            4,
+            7,
+            41,
+            40,
+            27,
+            0,
+            13,
+            62,
+            26,
+            49,
+            23,
+            39,
+            25,
+            36,
+            51,
+            35,
+            48,
+            1,
+            18,
+            61,
+            22,
+            14,
+            29,
+            9
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/village_savanna",
+          "entries": [
+            40
+          ]
+        },
+        {
+          "tagName": "minecraft:without_patrol_spawns",
+          "entries": [
+            32
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/village_taiga",
+          "entries": [
+            53
+          ]
+        },
+        {
+          "tagName": "minecraft:allows_tropical_fish_spawns_at_any_height",
+          "entries": [
+            29
+          ]
+        },
+        {
+          "tagName": "minecraft:polar_bears_spawn_on_alternate_blocks",
+          "entries": [
+            21,
+            10
+          ]
+        },
+        {
+          "tagName": "minecraft:has_closer_water_fog",
+          "entries": [
+            52,
+            30
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/village_plains",
+          "entries": [
+            38,
+            31
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/buried_treasure",
+          "entries": [
+            3,
+            43
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ocean_ruin_cold",
+          "entries": [
+            21,
+            5,
+            34,
+            10,
+            8,
+            12
+          ]
+        },
+        {
+          "tagName": "minecraft:produces_corals_from_bonemeal",
+          "entries": [
+            56
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/stronghold",
+          "entries": [
+            32,
+            10,
+            21,
+            8,
+            5,
+            12,
+            34,
+            11,
+            28,
+            56,
+            50,
+            52,
+            30,
+            45,
+            44,
+            43,
+            59,
+            24,
+            60,
+            46,
+            58,
+            53,
+            38,
+            31,
+            3,
+            20,
+            37,
+            19,
+            4,
+            7,
+            41,
+            40,
+            27,
+            0,
+            13,
+            62,
+            26,
+            49,
+            23,
+            39,
+            25,
+            36,
+            51,
+            35,
+            48,
+            1,
+            18,
+            61,
+            22,
+            14,
+            29,
+            9
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ancient_city",
+          "entries": [
+            9
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/mineshaft_mesa",
           "entries": [
             0,
+            18,
+            62
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_desert",
+          "entries": [
+            13
+          ]
+        },
+        {
+          "tagName": "minecraft:without_wandering_trader_spawns",
+          "entries": [
+            55
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_swamp",
+          "entries": [
+            52,
+            30
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/shipwreck",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56
+          ]
+        },
+        {
+          "tagName": "minecraft:is_savanna",
+          "entries": [
+            40,
+            41,
+            61
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/swamp_hut",
+          "entries": [
+            52
+          ]
+        },
+        {
+          "tagName": "minecraft:spawns_cold_variant_frogs",
+          "entries": [
+            44,
+            25,
+            22,
+            26,
+            45,
+            21,
+            10,
+            24,
+            9,
+            23,
+            46,
+            43,
+            54,
+            16,
+            17,
+            42,
+            15
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/igloo",
+          "entries": [
+            46,
+            44,
+            45
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/shipwreck_beached",
+          "entries": [
+            3,
+            43
+          ]
+        },
+        {
+          "tagName": "minecraft:is_hill",
+          "entries": [
+            60,
+            58,
+            59
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_nether",
+          "entries": [
+            33,
+            47,
+            6,
+            57,
+            2
+          ]
+        },
+        {
+          "tagName": "minecraft:is_end",
+          "entries": [
+            54,
+            16,
+            17,
+            42,
+            15
+          ]
+        },
+        {
+          "tagName": "minecraft:only_allows_snow_and_gold_rabbits",
+          "entries": [
+            13
+          ]
+        },
+        {
+          "tagName": "minecraft:stronghold_biased_to",
+          "entries": [
+            38,
+            51,
+            44,
+            25,
+            13,
+            20,
+            19,
+            4,
+            7,
+            35,
+            36,
+            37,
+            53,
+            46,
+            40,
+            41,
+            60,
+            59,
+            58,
+            61,
+            27,
+            48,
+            1,
+            0,
+            18,
+            62,
+            31,
+            24,
+            45,
+            22,
+            26,
+            49,
+            32,
+            14,
+            29
+          ]
+        },
+        {
+          "tagName": "minecraft:without_zombie_sieges",
+          "entries": [
+            32
+          ]
+        },
+        {
+          "tagName": "minecraft:is_beach",
+          "entries": [
+            3,
+            43
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_standard",
+          "entries": [
+            3,
+            43,
+            39,
+            23,
+            53,
+            46,
+            36,
+            37,
+            20,
+            19,
+            4,
+            35,
+            7,
+            24,
+            32,
+            25,
+            14,
+            29,
+            40,
+            44,
+            38,
+            51
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/pillager_outpost",
+          "entries": [
+            13,
+            38,
+            40,
+            44,
+            53,
+            31,
+            22,
+            26,
+            49,
+            45,
+            24
+          ]
+        },
+        {
+          "tagName": "minecraft:allows_surface_slime_spawns",
+          "entries": [
+            52,
+            30
+          ]
+        },
+        {
+          "tagName": "minecraft:is_taiga",
+          "entries": [
+            53,
+            46,
+            36,
+            37
+          ]
+        },
+        {
+          "tagName": "minecraft:spawns_warm_variant_frogs",
+          "entries": [
+            13,
+            56,
+            1,
+            27,
+            48,
+            40,
+            41,
+            61,
+            33,
+            47,
+            6,
+            57,
+            2,
+            0,
+            18,
+            62,
+            30
+          ]
+        },
+        {
+          "tagName": "minecraft:required_ocean_monument_surrounding",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56,
+            39,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:mineshaft_blocking",
+          "entries": [
+            9
+          ]
+        },
+        {
+          "tagName": "minecraft:is_mountain",
+          "entries": [
+            31,
+            22,
+            26,
+            49,
+            45
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/village_snowy",
+          "entries": [
+            44
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ocean_monument",
+          "entries": [
+            10,
+            8,
+            12,
+            11
+          ]
+        },
+        {
+          "tagName": "minecraft:is_badlands",
+          "entries": [
+            0,
+            18,
+            62
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_jungle",
+          "entries": [
+            1,
+            27,
+            48
+          ]
+        },
+        {
+          "tagName": "minecraft:plays_underwater_music",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56,
+            39,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/nether_fossil",
+          "entries": [
+            47
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/desert_pyramid",
+          "entries": [
+            13
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_ocean",
+          "entries": [
+            10,
+            8,
+            12,
+            11,
+            21,
+            34,
+            5,
+            28,
+            56
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/end_city",
+          "entries": [
+            16,
+            17
+          ]
+        },
+        {
+          "tagName": "minecraft:is_deep_ocean",
+          "entries": [
+            10,
+            8,
+            12,
+            11
+          ]
+        },
+        {
+          "tagName": "minecraft:is_nether",
+          "entries": [
+            33,
+            47,
+            6,
+            57,
+            2
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/bastion_remnant",
+          "entries": [
+            6,
+            33,
+            47,
+            57
+          ]
+        },
+        {
+          "tagName": "minecraft:reduce_water_ambient_spawns",
+          "entries": [
+            39,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/woodland_mansion",
+          "entries": [
+            7
+          ]
+        },
+        {
+          "tagName": "minecraft:has_structure/ruined_portal_mountain",
+          "entries": [
+            0,
+            18,
+            62,
+            60,
+            58,
+            59,
+            41,
+            61,
+            50,
+            31,
+            22,
+            26,
+            49,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:banner_pattern",
+      "tags": [
+        {
+          "tagName": "minecraft:no_item_required",
+          "entries": [
             1,
             2,
             3,
@@ -2288,147 +1981,138 @@
             22,
             23,
             24,
-            29
-          ]
-        }
-      ]
-    },
-    {
-      "tagType": "minecraft:game_event",
-      "tags": [
-        {
-          "tagName": "minecraft:vibrations",
-          "entries": [
-            1,
-            2,
-            3,
-            5,
-            6,
-            7,
-            8,
-            0,
-            4,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            24,
             25,
             26,
             27,
             28,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            40,
-            42,
-            43,
-            44,
-            45,
-            23
-          ]
-        },
-        {
-          "tagName": "minecraft:ignore_vibrations_sneaking",
-          "entries": [
-            26,
-            38,
-            43,
-            44,
             29,
-            28
-          ]
-        },
-        {
-          "tagName": "minecraft:warden_can_listen",
-          "entries": [
-            1,
-            2,
-            3,
-            5,
-            6,
-            7,
-            8,
-            0,
-            4,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            24,
-            25,
-            26,
-            27,
-            28,
+            30,
+            31,
             32,
             33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            40,
-            42,
-            43,
-            44,
-            45,
-            41,
+            34
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/piglin",
+          "entries": [
+            40
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/flower",
+          "entries": [
+            38
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/creeper",
+          "entries": [
+            36
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/globe",
+          "entries": [
+            35
+          ]
+        },
+        {
+          "tagName": "minecraft:pattern_item/mojang",
+          "entries": [
             39
           ]
         },
         {
-          "tagName": "minecraft:allay_can_listen",
+          "tagName": "minecraft:pattern_item/skull",
           "entries": [
-            33
-          ]
-        },
-        {
-          "tagName": "minecraft:shrieker_can_listen",
-          "entries": [
-            39
+            37
           ]
         }
       ]
     },
     {
-      "tagType": "minecraft:fluid",
+      "tagType": "minecraft:point_of_interest_type",
       "tags": [
         {
-          "tagName": "minecraft:lava",
+          "tagName": "minecraft:bee_home",
           "entries": [
-            4,
-            3
+            15,
+            16
           ]
         },
         {
-          "tagName": "minecraft:water",
+          "tagName": "minecraft:acquirable_job_site",
           "entries": [
+            0,
+            1,
             2,
-            1
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "tagName": "minecraft:village",
+          "entries": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:instrument",
+      "tags": [
+        {
+          "tagName": "minecraft:screaming_goat_horns",
+          "entries": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "tagName": "minecraft:goat_horns",
+          "entries": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "tagName": "minecraft:regular_goat_horns",
+          "entries": [
+            0,
+            1,
+            2,
+            3
           ]
         }
       ]
@@ -2437,17 +2121,17 @@
       "tagType": "minecraft:block",
       "tags": [
         {
-          "tagName": "minecraft:soul_fire_base_blocks",
-          "entries": [
-            242,
-            243
-          ]
-        },
-        {
           "tagName": "minecraft:campfires",
           "entries": [
             758,
             759
+          ]
+        },
+        {
+          "tagName": "minecraft:soul_fire_base_blocks",
+          "entries": [
+            242,
+            243
           ]
         },
         {
@@ -2617,14 +2301,6 @@
           ]
         },
         {
-          "tagName": "minecraft:wolves_spawnable_on",
-          "entries": [
-            8,
-            232,
-            234
-          ]
-        },
-        {
           "tagName": "minecraft:foxes_spawnable_on",
           "entries": [
             8,
@@ -2632,6 +2308,14 @@
             234,
             11,
             10
+          ]
+        },
+        {
+          "tagName": "minecraft:wolves_spawnable_on",
+          "entries": [
+            8,
+            232,
+            234
           ]
         },
         {
@@ -3129,6 +2813,13 @@
           ]
         },
         {
+          "tagName": "minecraft:wart_blocks",
+          "entries": [
+            581,
+            767
+          ]
+        },
+        {
           "tagName": "minecraft:climbable",
           "entries": [
             185,
@@ -3162,22 +2853,6 @@
             419,
             420,
             421
-          ]
-        },
-        {
-          "tagName": "minecraft:wart_blocks",
-          "entries": [
-            581,
-            767
-          ]
-        },
-        {
-          "tagName": "minecraft:dark_oak_logs",
-          "entries": [
-            47,
-            65,
-            56,
-            72
           ]
         },
         {
@@ -3230,6 +2905,15 @@
             762,
             763,
             764
+          ]
+        },
+        {
+          "tagName": "minecraft:dark_oak_logs",
+          "entries": [
+            47,
+            65,
+            56,
+            72
           ]
         },
         {
@@ -3378,6 +3062,13 @@
           ]
         },
         {
+          "tagName": "minecraft:lapis_ores",
+          "entries": [
+            86,
+            87
+          ]
+        },
+        {
           "tagName": "minecraft:moss_replaceable",
           "entries": [
             1,
@@ -3397,13 +3088,6 @@
             933,
             939,
             50
-          ]
-        },
-        {
-          "tagName": "minecraft:lapis_ores",
-          "entries": [
-            86,
-            87
           ]
         },
         {
@@ -3476,6 +3160,27 @@
             930,
             931,
             28
+          ]
+        },
+        {
+          "tagName": "minecraft:beds",
+          "entries": [
+            108,
+            109,
+            105,
+            106,
+            103,
+            101,
+            107,
+            97,
+            102,
+            99,
+            96,
+            95,
+            100,
+            104,
+            94,
+            98
           ]
         },
         {
@@ -3858,40 +3563,10 @@
           ]
         },
         {
-          "tagName": "minecraft:beds",
-          "entries": [
-            108,
-            109,
-            105,
-            106,
-            103,
-            101,
-            107,
-            97,
-            102,
-            99,
-            96,
-            95,
-            100,
-            104,
-            94,
-            98
-          ]
-        },
-        {
           "tagName": "minecraft:iron_ores",
           "entries": [
             37,
             38
-          ]
-        },
-        {
-          "tagName": "minecraft:oak_logs",
-          "entries": [
-            42,
-            60,
-            57,
-            67
           ]
         },
         {
@@ -3906,6 +3581,15 @@
             792,
             793,
             551
+          ]
+        },
+        {
+          "tagName": "minecraft:oak_logs",
+          "entries": [
+            42,
+            60,
+            57,
+            67
           ]
         },
         {
@@ -4050,6 +3734,16 @@
           ]
         },
         {
+          "tagName": "minecraft:piglin_repellents",
+          "entries": [
+            164,
+            246,
+            757,
+            247,
+            759
+          ]
+        },
+        {
           "tagName": "minecraft:wooden_fences",
           "entries": [
             239,
@@ -4064,13 +3758,9 @@
           ]
         },
         {
-          "tagName": "minecraft:piglin_repellents",
+          "tagName": "minecraft:mooshrooms_spawnable_on",
           "entries": [
-            164,
-            246,
-            757,
-            247,
-            759
+            307
           ]
         },
         {
@@ -4143,12 +3833,6 @@
             225,
             217,
             835
-          ]
-        },
-        {
-          "tagName": "minecraft:mooshrooms_spawnable_on",
-          "entries": [
-            307
           ]
         },
         {
@@ -4265,15 +3949,6 @@
           ]
         },
         {
-          "tagName": "minecraft:mangrove_logs",
-          "entries": [
-            48,
-            66,
-            58,
-            73
-          ]
-        },
-        {
           "tagName": "minecraft:overworld_carver_replaceables",
           "entries": [
             1,
@@ -4323,6 +3998,15 @@
             476,
             962,
             963
+          ]
+        },
+        {
+          "tagName": "minecraft:mangrove_logs",
+          "entries": [
+            48,
+            66,
+            58,
+            73
           ]
         },
         {
@@ -4438,6 +4122,37 @@
           ]
         },
         {
+          "tagName": "minecraft:ancient_city_replaceable",
+          "entries": [
+            940,
+            953,
+            949,
+            955,
+            951,
+            954,
+            952,
+            956,
+            941,
+            958,
+            959,
+            128
+          ]
+        },
+        {
+          "tagName": "minecraft:wooden_stairs",
+          "entries": [
+            166,
+            332,
+            333,
+            334,
+            438,
+            439,
+            794,
+            795,
+            440
+          ]
+        },
+        {
           "tagName": "minecraft:spruce_logs",
           "entries": [
             43,
@@ -4470,34 +4185,16 @@
           ]
         },
         {
-          "tagName": "minecraft:wooden_stairs",
+          "tagName": "minecraft:mangrove_logs_can_grow_through",
           "entries": [
-            166,
-            332,
-            333,
-            334,
-            438,
-            439,
-            794,
-            795,
-            440
-          ]
-        },
-        {
-          "tagName": "minecraft:ancient_city_replaceable",
-          "entries": [
-            940,
-            953,
-            949,
-            955,
-            951,
-            954,
-            952,
-            956,
-            941,
-            958,
-            959,
-            128
+            939,
+            50,
+            49,
+            80,
+            48,
+            28,
+            932,
+            301
           ]
         },
         {
@@ -4509,19 +4206,6 @@
             6,
             881,
             940
-          ]
-        },
-        {
-          "tagName": "minecraft:mangrove_logs_can_grow_through",
-          "entries": [
-            939,
-            50,
-            49,
-            80,
-            48,
-            28,
-            932,
-            301
           ]
         },
         {
@@ -4835,14 +4519,6 @@
           ]
         },
         {
-          "tagName": "minecraft:base_stone_nether",
-          "entries": [
-            241,
-            244,
-            821
-          ]
-        },
-        {
           "tagName": "minecraft:needs_diamond_tool",
           "entries": [
             160,
@@ -4850,6 +4526,14 @@
             812,
             815,
             813
+          ]
+        },
+        {
+          "tagName": "minecraft:base_stone_nether",
+          "entries": [
+            241,
+            244,
+            821
           ]
         },
         {
@@ -5079,6 +4763,21 @@
           ]
         },
         {
+          "tagName": "minecraft:corals",
+          "entries": [
+            670,
+            671,
+            672,
+            673,
+            674,
+            680,
+            681,
+            682,
+            683,
+            684
+          ]
+        },
+        {
           "tagName": "minecraft:buttons",
           "entries": [
             367,
@@ -5092,21 +4791,6 @@
             373,
             231,
             836
-          ]
-        },
-        {
-          "tagName": "minecraft:corals",
-          "entries": [
-            670,
-            671,
-            672,
-            673,
-            674,
-            680,
-            681,
-            682,
-            683,
-            684
           ]
         },
         {
@@ -5303,6 +4987,20 @@
           ]
         },
         {
+          "tagName": "minecraft:wooden_pressure_plates",
+          "entries": [
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            786,
+            787,
+            225
+          ]
+        },
+        {
           "tagName": "minecraft:wither_immune",
           "entries": [
             444,
@@ -5318,20 +5016,6 @@
             137,
             445,
             971
-          ]
-        },
-        {
-          "tagName": "minecraft:wooden_pressure_plates",
-          "entries": [
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            786,
-            787,
-            225
           ]
         },
         {
@@ -5434,13 +5118,6 @@
           ]
         },
         {
-          "tagName": "minecraft:sand",
-          "entries": [
-            32,
-            33
-          ]
-        },
-        {
           "tagName": "minecraft:nylium",
           "entries": [
             774,
@@ -5453,6 +5130,13 @@
             232,
             234,
             884
+          ]
+        },
+        {
+          "tagName": "minecraft:sand",
+          "entries": [
+            32,
+            33
           ]
         },
         {
@@ -5642,6 +5326,322 @@
             36,
             227,
             228
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:entity_type",
+      "tags": [
+        {
+          "tagName": "minecraft:axolotl_always_hostiles",
+          "entries": [
+            20,
+            39,
+            21
+          ]
+        },
+        {
+          "tagName": "minecraft:freeze_hurts_extra_types",
+          "entries": [
+            92,
+            7,
+            52
+          ]
+        },
+        {
+          "tagName": "minecraft:frog_food",
+          "entries": [
+            84,
+            52
+          ]
+        },
+        {
+          "tagName": "minecraft:freeze_immune_entity_types",
+          "entries": [
+            91,
+            72,
+            86,
+            108
+          ]
+        },
+        {
+          "tagName": "minecraft:impact_projectiles",
+          "entries": [
+            3,
+            88,
+            87,
+            47,
+            85,
+            94,
+            98,
+            19,
+            110
+          ]
+        },
+        {
+          "tagName": "minecraft:beehive_inhabitors",
+          "entries": [
+            6
+          ]
+        },
+        {
+          "tagName": "minecraft:skeletons",
+          "entries": [
+            82,
+            91,
+            109
+          ]
+        },
+        {
+          "tagName": "minecraft:raiders",
+          "entries": [
+            26,
+            71,
+            76,
+            104,
+            43,
+            107
+          ]
+        },
+        {
+          "tagName": "minecraft:powder_snow_walkable_mobs",
+          "entries": [
+            75,
+            25,
+            81,
+            32
+          ]
+        },
+        {
+          "tagName": "minecraft:axolotl_hunt_targets",
+          "entries": [
+            100,
+            74,
+            77,
+            14,
+            90,
+            37,
+            93
+          ]
+        },
+        {
+          "tagName": "minecraft:arrows",
+          "entries": [
+            3,
+            88
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:game_event",
+      "tags": [
+        {
+          "tagName": "minecraft:vibrations",
+          "entries": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            0,
+            4,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            40,
+            42,
+            43,
+            44,
+            45,
+            23
+          ]
+        },
+        {
+          "tagName": "minecraft:ignore_vibrations_sneaking",
+          "entries": [
+            26,
+            38,
+            43,
+            44,
+            29,
+            28
+          ]
+        },
+        {
+          "tagName": "minecraft:warden_can_listen",
+          "entries": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            0,
+            4,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            40,
+            42,
+            43,
+            44,
+            45,
+            41,
+            39
+          ]
+        },
+        {
+          "tagName": "minecraft:allay_can_listen",
+          "entries": [
+            33
+          ]
+        },
+        {
+          "tagName": "minecraft:shrieker_can_listen",
+          "entries": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:cat_variant",
+      "tags": [
+        {
+          "tagName": "minecraft:default_spawns",
+          "entries": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "tagName": "minecraft:full_moon_spawns",
+          "entries": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:painting_variant",
+      "tags": [
+        {
+          "tagName": "minecraft:placeable",
+          "entries": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "tagType": "minecraft:fluid",
+      "tags": [
+        {
+          "tagName": "minecraft:lava",
+          "entries": [
+            4,
+            3
+          ]
+        },
+        {
+          "tagName": "minecraft:water",
+          "entries": [
+            2,
+            1
           ]
         }
       ]
