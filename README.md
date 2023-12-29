@@ -2,6 +2,12 @@
 
 Stores minecraft packets to test implementation of the minecraft protocol
 
+## How are packets dumped?
+
+They are dumped using mineflayer. Both the raw and the parsed versions are provided.
+
+See [prismarine-packet-dumper](https://github.com/PrismarineJS/prismarine-packet-dumper) for details.
+
 ## What can the packets be used for
 
 The packets provided as raw can be used to test _any_ implementation of minecraft's protocol, using cycle test.
