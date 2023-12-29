@@ -1,3 +1,6 @@
+## 1.8.0
+* [Run Packet Dumper](https://github.com/PrismarineJS/minecraft-packets/commit/4aab91e31851c3d7fdeab14fc8b929702db78664) (thanks @u9g)
+
 ## 1.7.0
 * [Create commands.yml](https://github.com/PrismarineJS/minecraft-packets/commit/e35e3d28d42d73cb0f4a3d3be1ac8a3fcb1dda7d) (thanks @rom1504)
 * [Update tag.yml to use main branch](https://github.com/PrismarineJS/minecraft-packets/commit/3c1b1382d8691a09c6b0c979a569a33ee3588c37) (thanks @rom1504)
