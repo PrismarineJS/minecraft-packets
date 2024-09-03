@@ -59,7 +59,7 @@ jobs:
       run: mkdir data/pc/artifacts
         
     - name: my-artifact
-      uses: actions/download-artifact@v2
+      uses: actions/download-artifact@v4.1.7
       with:
         name: packets
         path: data/pc/artifacts
